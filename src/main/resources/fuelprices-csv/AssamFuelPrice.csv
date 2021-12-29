@@ -1,0 +1,801 @@
+City,State,Petrol_Rate,Diesel_Rate,Date
+Baksa,Assam,103.94,96.45,2021-10-27
+Barpeta,Assam,104.04,96.55,2021-10-27
+Biswanath,Assam,104.2,96.72,2021-10-27
+Bongaigaon,Assam,103.74,96.27,2021-10-27
+Cachar,Assam,104.18,96.73,2021-10-27
+Charaideo,Assam,104.89,97.34,2021-10-27
+Chirang,Assam,103.54,96.08,2021-10-27
+Darrang,Assam,104.31,96.8,2021-10-27
+Dhemaji,Assam,104.75,97.21,2021-10-27
+Dhuburi,Assam,105.02,97.45,2021-10-27
+Dibrugarh,Assam,104.5,96.98,2021-10-27
+Dima Hasao,Assam,105.8,98.28,2021-10-27
+Goalpara,Assam,104.02,96.53,2021-10-27
+Golaghat,Assam,103.62,96.16,2021-10-27
+Hailakandi,Assam,104.7,97.2,2021-10-27
+Hojai,Assam,104.52,97.02,2021-10-27
+Jorhat,Assam,104.21,96.71,2021-10-27
+Kamrup,Assam,103.73,96.26,2021-10-27
+Kamrup Metro,Assam,103.59,96.13,2021-10-27
+Karbi Anglong,Assam,104.74,97.22,2021-10-27
+Karimganj,Assam,104.72,97.22,2021-10-27
+Kokrajhar,Assam,104.17,96.67,2021-10-27
+Lakhimpur,Assam,105.45,97.88,2021-10-27
+Majuli,Assam,105.98,98.35,2021-10-27
+Morigaon,Assam,104.2,96.69,2021-10-27
+Nagaon,Assam,104.3,96.79,2021-10-27
+Nalbari,Assam,104.26,96.76,2021-10-27
+Sibsagar,Assam,104.89,97.34,2021-10-27
+Sonitpur,Assam,104.03,96.56,2021-10-27
+Tinsukia,Assam,103.85,96.37,2021-10-27
+Udalguri,Assam,104.96,97.42,2021-10-27
+West Karbi Anglong,Assam,105.14,97.59,2021-10-27
+Baksa,Assam,104.29,96.82,2021-10-28
+Barpeta,Assam,104.72,97.22,2021-10-28
+Biswanath,Assam,105.19,97.68,2021-10-28
+Bongaigaon,Assam,103.89,96.45,2021-10-28
+Cachar,Assam,104.54,97.1,2021-10-28
+Charaideo,Assam,105.19,97.65,2021-10-28
+Chirang,Assam,103.89,96.45,2021-10-28
+Darrang,Assam,104.34,96.87,2021-10-28
+Dhemaji,Assam,105.72,98.15,2021-10-28
+Dhuburi,Assam,104.96,97.44,2021-10-28
+Dibrugarh,Assam,104.86,97.35,2021-10-28
+Dima Hasao,Assam,107.27,99.59,2021-10-28
+Goalpara,Assam,104.75,97.24,2021-10-28
+Golaghat,Assam,103.98,96.53,2021-10-28
+Hailakandi,Assam,104.6,97.16,2021-10-28
+Hojai,Assam,104.82,97.34,2021-10-28
+Jorhat,Assam,104.57,97.08,2021-10-28
+Kamrup,Assam,103.94,96.5,2021-10-28
+Kamrup Metro,Assam,103.94,96.5,2021-10-28
+Karbi Anglong,Assam,105.25,97.73,2021-10-28
+Karimganj,Assam,105.21,97.72,2021-10-28
+Kokrajhar,Assam,104.13,96.67,2021-10-28
+Lakhimpur,Assam,106.34,98.74,2021-10-28
+Majuli,Assam,106.38,98.76,2021-10-28
+Morigaon,Assam,105.32,97.77,2021-10-28
+Nagaon,Assam,105.12,97.59,2021-10-28
+Nalbari,Assam,104.54,97.05,2021-10-28
+Sibsagar,Assam,105.25,97.71,2021-10-28
+Sonitpur,Assam,104.29,96.84,2021-10-28
+Tinsukia,Assam,104.2,96.74,2021-10-28
+Udalguri,Assam,105.0,97.48,2021-10-28
+West Karbi Anglong,Assam,105.32,97.8,2021-10-28
+Baksa,Assam,104.94,97.47,2021-10-29
+Barpeta,Assam,104.63,97.18,2021-10-29
+Biswanath,Assam,105.21,97.73,2021-10-29
+Bongaigaon,Assam,104.61,97.15,2021-10-29
+Cachar,Assam,105.09,97.65,2021-10-29
+Charaideo,Assam,105.06,97.58,2021-10-29
+Chirang,Assam,104.25,96.82,2021-10-29
+Darrang,Assam,105.02,97.54,2021-10-29
+Dhemaji,Assam,105.93,98.38,2021-10-29
+Dhuburi,Assam,105.73,98.19,2021-10-29
+Dibrugarh,Assam,104.99,97.51,2021-10-29
+Dima Hasao,Assam,106.51,99.02,2021-10-29
+Goalpara,Assam,105.19,97.69,2021-10-29
+Golaghat,Assam,104.46,97.02,2021-10-29
+Hailakandi,Assam,105.58,98.11,2021-10-29
+Hojai,Assam,105.71,98.2,2021-10-29
+Jorhat,Assam,104.61,97.15,2021-10-29
+Kamrup,Assam,104.87,97.4,2021-10-29
+Kamrup Metro,Assam,104.3,96.87,2021-10-29
+Karbi Anglong,Assam,105.61,98.11,2021-10-29
+Karimganj,Assam,105.26,97.81,2021-10-29
+Kokrajhar,Assam,104.92,97.45,2021-10-29
+Lakhimpur,Assam,105.92,98.39,2021-10-29
+Majuli,Assam,106.69,99.09,2021-10-29
+Morigaon,Assam,104.91,97.43,2021-10-29
+Nagaon,Assam,105.44,97.95,2021-10-29
+Nalbari,Assam,104.98,97.5,2021-10-29
+Sibsagar,Assam,105.58,98.06,2021-10-29
+Sonitpur,Assam,104.57,97.14,2021-10-29
+Tinsukia,Assam,104.56,97.11,2021-10-29
+Udalguri,Assam,105.67,98.16,2021-10-29
+West Karbi Anglong,Assam,105.85,98.33,2021-10-29
+Baksa,Assam,105.3,97.84,2021-10-30
+Barpeta,Assam,105.27,97.81,2021-10-30
+Biswanath,Assam,106.02,98.52,2021-10-30
+Bongaigaon,Assam,104.82,97.39,2021-10-30
+Cachar,Assam,105.25,97.84,2021-10-30
+Charaideo,Assam,105.96,98.45,2021-10-30
+Chirang,Assam,104.61,97.2,2021-10-30
+Darrang,Assam,105.05,97.61,2021-10-30
+Dhemaji,Assam,105.82,98.32,2021-10-30
+Dhuburi,Assam,105.28,97.82,2021-10-30
+Dibrugarh,Assam,105.57,98.09,2021-10-30
+Dima Hasao,Assam,106.06,98.64,2021-10-30
+Goalpara,Assam,105.24,97.78,2021-10-30
+Golaghat,Assam,104.67,97.25,2021-10-30
+Hailakandi,Assam,105.62,98.18,2021-10-30
+Hojai,Assam,105.59,98.13,2021-10-30
+Jorhat,Assam,105.28,97.82,2021-10-30
+Kamrup,Assam,104.65,97.24,2021-10-30
+Kamrup Metro,Assam,104.86,97.43,2021-10-30
+Karbi Anglong,Assam,105.38,97.91,2021-10-30
+Karimganj,Assam,105.92,98.46,2021-10-30
+Kokrajhar,Assam,104.85,97.42,2021-10-30
+Lakhimpur,Assam,107.05,99.48,2021-10-30
+Majuli,Assam,107.09,99.5,2021-10-30
+Morigaon,Assam,105.26,97.8,2021-10-30
+Nagaon,Assam,105.98,98.47,2021-10-30
+Nalbari,Assam,105.26,97.8,2021-10-30
+Sibsagar,Assam,105.65,98.16,2021-10-30
+Sonitpur,Assam,104.84,97.43,2021-10-30
+Tinsukia,Assam,104.61,97.2,2021-10-30
+Udalguri,Assam,106.03,98.53,2021-10-30
+West Karbi Anglong,Assam,106.04,98.54,2021-10-30
+Baksa,Assam,105.69,98.28,2021-11-01
+Barpeta,Assam,106.14,98.7,2021-11-01
+Biswanath,Assam,106.28,98.84,2021-11-01
+Bongaigaon,Assam,105.36,97.97,2021-11-01
+Cachar,Assam,105.96,98.58,2021-11-01
+Charaideo,Assam,106.49,99.02,2021-11-01
+Chirang,Assam,105.32,97.94,2021-11-01
+Darrang,Assam,105.76,98.35,2021-11-01
+Dhemaji,Assam,106.53,99.06,2021-11-01
+Dhuburi,Assam,106.82,99.33,2021-11-01
+Dibrugarh,Assam,105.97,98.54,2021-11-01
+Dima Hasao,Assam,107.23,99.8,2021-11-01
+Goalpara,Assam,105.9,98.47,2021-11-01
+Golaghat,Assam,105.53,98.13,2021-11-01
+Hailakandi,Assam,106.24,98.84,2021-11-01
+Hojai,Assam,105.77,98.38,2021-11-01
+Jorhat,Assam,105.88,98.45,2021-11-01
+Kamrup,Assam,105.5,98.11,2021-11-01
+Kamrup Metro,Assam,105.37,97.98,2021-11-01
+Karbi Anglong,Assam,105.57,98.17,2021-11-01
+Karimganj,Assam,106.13,98.73,2021-11-01
+Kokrajhar,Assam,105.95,98.52,2021-11-01
+Lakhimpur,Assam,107.24,99.73,2021-11-01
+Majuli,Assam,107.8,100.24,2021-11-01
+Morigaon,Assam,105.98,98.55,2021-11-01
+Nagaon,Assam,106.92,99.42,2021-11-01
+Nalbari,Assam,106.05,98.61,2021-11-01
+Sibsagar,Assam,106.2,98.76,2021-11-01
+Sonitpur,Assam,105.56,98.18,2021-11-01
+Tinsukia,Assam,105.32,97.94,2021-11-01
+Udalguri,Assam,105.81,98.41,2021-11-01
+West Karbi Anglong,Assam,106.92,99.44,2021-11-01
+Baksa,Assam,106.79,0.0,2021-11-04
+Barpeta,Assam,106.69,0.0,2021-11-04
+Biswanath,Assam,107.53,0.0,2021-11-04
+Bongaigaon,Assam,106.05,0.0,2021-11-04
+Cachar,Assam,106.7,0.0,2021-11-04
+Charaideo,Assam,106.54,0.0,2021-11-04
+Chirang,Assam,106.05,0.0,2021-11-04
+Darrang,Assam,106.52,0.0,2021-11-04
+Dhemaji,Assam,107.65,0.0,2021-11-04
+Dhuburi,Assam,106.9,0.0,2021-11-04
+Dibrugarh,Assam,106.58,0.0,2021-11-04
+Dima Hasao,Assam,107.99,0.0,2021-11-04
+Goalpara,Assam,107.07,0.0,2021-11-04
+Golaghat,Assam,106.79,0.0,2021-11-04
+Hailakandi,Assam,106.76,0.0,2021-11-04
+Hojai,Assam,106.86,0.0,2021-11-04
+Jorhat,Assam,106.59,0.0,2021-11-04
+Kamrup,Assam,106.46,0.0,2021-11-04
+Kamrup Metro,Assam,106.1,0.0,2021-11-04
+Karbi Anglong,Assam,107.29,0.0,2021-11-04
+Karimganj,Assam,107.4,0.0,2021-11-04
+Kokrajhar,Assam,106.72,0.0,2021-11-04
+Lakhimpur,Assam,108.63,0.0,2021-11-04
+Majuli,Assam,108.69,0.0,2021-11-04
+Morigaon,Assam,106.75,0.0,2021-11-04
+Nagaon,Assam,107.36,0.0,2021-11-04
+Nalbari,Assam,106.82,0.0,2021-11-04
+Sibsagar,Assam,107.1,0.0,2021-11-04
+Sonitpur,Assam,106.56,0.0,2021-11-04
+Tinsukia,Assam,106.33,0.0,2021-11-04
+Udalguri,Assam,106.84,0.0,2021-11-04
+West Karbi Anglong,Assam,107.54,0.0,2021-11-04
+Baksa,Assam,105.69,0.0,2021-11-05
+Barpeta,Assam,106.14,0.0,2021-11-05
+Biswanath,Assam,106.28,0.0,2021-11-05
+Bongaigaon,Assam,105.36,0.0,2021-11-05
+Cachar,Assam,105.96,0.0,2021-11-05
+Charaideo,Assam,106.49,0.0,2021-11-05
+Chirang,Assam,105.32,0.0,2021-11-05
+Darrang,Assam,105.76,0.0,2021-11-05
+Dhemaji,Assam,106.53,0.0,2021-11-05
+Dhuburi,Assam,106.82,0.0,2021-11-05
+Dibrugarh,Assam,105.97,0.0,2021-11-05
+Dima Hasao,Assam,107.23,0.0,2021-11-05
+Goalpara,Assam,105.9,0.0,2021-11-05
+Golaghat,Assam,105.53,0.0,2021-11-05
+Hailakandi,Assam,106.24,0.0,2021-11-05
+Hojai,Assam,105.77,0.0,2021-11-05
+Jorhat,Assam,105.88,0.0,2021-11-05
+Kamrup,Assam,105.5,0.0,2021-11-05
+Kamrup Metro,Assam,105.37,0.0,2021-11-05
+Karbi Anglong,Assam,105.57,0.0,2021-11-05
+Karimganj,Assam,106.13,0.0,2021-11-05
+Kokrajhar,Assam,105.95,0.0,2021-11-05
+Lakhimpur,Assam,107.24,0.0,2021-11-05
+Majuli,Assam,107.8,0.0,2021-11-05
+Morigaon,Assam,105.98,0.0,2021-11-05
+Nagaon,Assam,106.92,0.0,2021-11-05
+Nalbari,Assam,106.05,0.0,2021-11-05
+Sibsagar,Assam,106.2,0.0,2021-11-05
+Sonitpur,Assam,105.56,0.0,2021-11-05
+Tinsukia,Assam,105.32,0.0,2021-11-05
+Udalguri,Assam,105.81,0.0,2021-11-05
+West Karbi Anglong,Assam,106.92,0.0,2021-11-05
+Baksa,Assam,95.2,81.75,2021-11-07
+Barpeta,Assam,95.26,81.8,2021-11-07
+Biswanath,Assam,95.22,81.79,2021-11-07
+Bongaigaon,Assam,94.67,81.36,2021-11-07
+Cachar,Assam,95.17,81.77,2021-11-07
+Charaideo,Assam,95.39,81.9,2021-11-07
+Chirang,Assam,94.53,81.25,2021-11-07
+Darrang,Assam,95.34,81.86,2021-11-07
+Dhemaji,Assam,96.12,82.45,2021-11-07
+Dhuburi,Assam,96.1,82.43,2021-11-07
+Dibrugarh,Assam,95.55,82.02,2021-11-07
+Dima Hasao,Assam,96.84,83.25,2021-11-07
+Goalpara,Assam,95.43,81.93,2021-11-07
+Golaghat,Assam,94.59,81.3,2021-11-07
+Hailakandi,Assam,95.47,82.0,2021-11-07
+Hojai,Assam,95.55,82.03,2021-11-07
+Jorhat,Assam,95.06,81.65,2021-11-07
+Kamrup,Assam,94.75,81.42,2021-11-07
+Kamrup Metro,Assam,94.58,81.29,2021-11-07
+Karbi Anglong,Assam,95.33,81.87,2021-11-07
+Karimganj,Assam,95.74,82.2,2021-11-07
+Kokrajhar,Assam,94.84,81.48,2021-11-07
+Lakhimpur,Assam,96.29,82.59,2021-11-07
+Majuli,Assam,97.12,83.19,2021-11-07
+Morigaon,Assam,95.3,81.83,2021-11-07
+Nagaon,Assam,95.57,82.04,2021-11-07
+Nalbari,Assam,94.95,81.57,2021-11-07
+Sibsagar,Assam,95.58,82.04,2021-11-07
+Sonitpur,Assam,95.07,81.67,2021-11-07
+Tinsukia,Assam,94.72,81.4,2021-11-07
+Udalguri,Assam,95.38,81.89,2021-11-07
+West Karbi Anglong,Assam,96.2,82.52,2021-11-07
+Baksa,Assam,95.26,81.8,2021-11-08
+Barpeta,Assam,95.26,81.8,2021-11-08
+Biswanath,Assam,95.22,81.79,2021-11-08
+Bongaigaon,Assam,94.74,81.41,2021-11-08
+Cachar,Assam,95.17,81.77,2021-11-08
+Charaideo,Assam,95.39,81.9,2021-11-08
+Chirang,Assam,94.53,81.26,2021-11-08
+Darrang,Assam,95.34,81.86,2021-11-08
+Dhemaji,Assam,95.81,82.22,2021-11-08
+Dhuburi,Assam,96.1,82.43,2021-11-08
+Dibrugarh,Assam,95.55,82.02,2021-11-08
+Dima Hasao,Assam,96.84,83.25,2021-11-08
+Goalpara,Assam,95.04,81.64,2021-11-08
+Golaghat,Assam,94.61,81.32,2021-11-08
+Hailakandi,Assam,95.72,82.18,2021-11-08
+Hojai,Assam,95.55,82.03,2021-11-08
+Jorhat,Assam,95.55,82.01,2021-11-08
+Kamrup,Assam,94.73,81.4,2021-11-08
+Kamrup Metro,Assam,94.58,81.29,2021-11-08
+Karbi Anglong,Assam,95.33,81.87,2021-11-08
+Karimganj,Assam,95.74,82.2,2021-11-08
+Kokrajhar,Assam,94.84,81.48,2021-11-08
+Lakhimpur,Assam,96.55,82.78,2021-11-08
+Majuli,Assam,97.12,83.19,2021-11-08
+Morigaon,Assam,95.22,81.77,2021-11-08
+Nagaon,Assam,95.98,82.34,2021-11-08
+Nalbari,Assam,95.38,81.89,2021-11-08
+Sibsagar,Assam,95.58,82.04,2021-11-08
+Sonitpur,Assam,95.89,82.29,2021-11-08
+Tinsukia,Assam,94.72,81.4,2021-11-08
+Udalguri,Assam,95.42,81.92,2021-11-08
+West Karbi Anglong,Assam,96.2,82.52,2021-11-08
+Baksa,Assam,95.26,81.8,2021-11-09
+Barpeta,Assam,94.93,81.56,2021-11-09
+Biswanath,Assam,96.01,82.38,2021-11-09
+Bongaigaon,Assam,94.53,81.25,2021-11-09
+Cachar,Assam,95.38,81.93,2021-11-09
+Charaideo,Assam,95.39,81.9,2021-11-09
+Chirang,Assam,94.53,81.25,2021-11-09
+Darrang,Assam,95.57,82.03,2021-11-09
+Dhemaji,Assam,95.81,82.22,2021-11-09
+Dhuburi,Assam,96.1,82.43,2021-11-09
+Dibrugarh,Assam,95.69,82.12,2021-11-09
+Dima Hasao,Assam,98.07,84.13,2021-11-09
+Goalpara,Assam,95.52,82.0,2021-11-09
+Golaghat,Assam,94.75,81.42,2021-11-09
+Hailakandi,Assam,95.9,82.32,2021-11-09
+Hojai,Assam,96.05,82.41,2021-11-09
+Jorhat,Assam,95.08,81.67,2021-11-09
+Kamrup,Assam,95.38,81.89,2021-11-09
+Kamrup Metro,Assam,94.58,81.29,2021-11-09
+Karbi Anglong,Assam,94.8,81.45,2021-11-09
+Karimganj,Assam,95.56,82.06,2021-11-09
+Kokrajhar,Assam,95.24,81.79,2021-11-09
+Lakhimpur,Assam,96.81,82.98,2021-11-09
+Majuli,Assam,97.12,83.19,2021-11-09
+Morigaon,Assam,95.55,82.02,2021-11-09
+Nagaon,Assam,95.76,82.2,2021-11-09
+Nalbari,Assam,94.94,81.56,2021-11-09
+Sibsagar,Assam,95.81,82.22,2021-11-09
+Sonitpur,Assam,94.86,81.51,2021-11-09
+Tinsukia,Assam,94.53,81.25,2021-11-09
+Udalguri,Assam,95.38,81.89,2021-11-09
+West Karbi Anglong,Assam,96.2,82.52,2021-11-09
+Baksa,Assam,94.95,81.57,2021-11-11
+Barpeta,Assam,95.06,81.65,2021-11-11
+Biswanath,Assam,95.53,82.02,2021-11-11
+Bongaigaon,Assam,94.57,81.28,2021-11-11
+Cachar,Assam,95.38,81.93,2021-11-11
+Charaideo,Assam,95.16,81.73,2021-11-11
+Chirang,Assam,94.53,81.25,2021-11-11
+Darrang,Assam,95.34,81.86,2021-11-11
+Dhemaji,Assam,96.12,82.45,2021-11-11
+Dhuburi,Assam,95.38,81.89,2021-11-11
+Dibrugarh,Assam,95.69,82.12,2021-11-11
+Dima Hasao,Assam,98.07,84.13,2021-11-11
+Goalpara,Assam,95.43,81.93,2021-11-11
+Golaghat,Assam,94.75,81.42,2021-11-11
+Hailakandi,Assam,95.51,82.03,2021-11-11
+Hojai,Assam,95.55,82.03,2021-11-11
+Jorhat,Assam,95.06,81.65,2021-11-11
+Kamrup,Assam,94.83,81.48,2021-11-11
+Kamrup Metro,Assam,94.58,81.29,2021-11-11
+Karbi Anglong,Assam,95.33,81.87,2021-11-11
+Karimganj,Assam,95.74,82.2,2021-11-11
+Kokrajhar,Assam,95.24,81.79,2021-11-11
+Lakhimpur,Assam,97.77,83.79,2021-11-11
+Majuli,Assam,97.12,83.19,2021-11-11
+Morigaon,Assam,95.55,82.02,2021-11-11
+Nagaon,Assam,95.76,82.2,2021-11-11
+Nalbari,Assam,95.3,81.83,2021-11-11
+Sibsagar,Assam,95.96,82.33,2021-11-11
+Sonitpur,Assam,95.04,81.65,2021-11-11
+Tinsukia,Assam,94.85,81.5,2021-11-11
+Udalguri,Assam,95.42,81.92,2021-11-11
+West Karbi Anglong,Assam,96.2,82.52,2021-11-11
+Baksa,Assam,95.26,81.8,2021-11-12
+Barpeta,Assam,94.93,81.56,2021-11-12
+Biswanath,Assam,95.53,82.02,2021-11-12
+Bongaigaon,Assam,94.9,81.53,2021-11-12
+Cachar,Assam,95.38,81.93,2021-11-12
+Charaideo,Assam,95.39,81.9,2021-11-12
+Chirang,Assam,94.53,81.25,2021-11-12
+Darrang,Assam,95.0,81.61,2021-11-12
+Dhemaji,Assam,96.3,82.58,2021-11-12
+Dhuburi,Assam,95.38,81.89,2021-11-12
+Dibrugarh,Assam,95.31,81.84,2021-11-12
+Dima Hasao,Assam,96.47,82.98,2021-11-12
+Goalpara,Assam,95.43,81.93,2021-11-12
+Golaghat,Assam,94.75,81.42,2021-11-12
+Hailakandi,Assam,95.9,82.32,2021-11-12
+Hojai,Assam,95.98,82.34,2021-11-12
+Jorhat,Assam,95.06,81.65,2021-11-12
+Kamrup,Assam,94.94,81.56,2021-11-12
+Kamrup Metro,Assam,94.58,81.29,2021-11-12
+Karbi Anglong,Assam,95.96,82.35,2021-11-12
+Karimganj,Assam,95.56,82.06,2021-11-12
+Kokrajhar,Assam,95.2,81.75,2021-11-12
+Lakhimpur,Assam,97.11,83.2,2021-11-12
+Majuli,Assam,97.12,83.19,2021-11-12
+Morigaon,Assam,95.3,81.83,2021-11-12
+Nagaon,Assam,95.83,82.23,2021-11-12
+Nalbari,Assam,95.3,81.83,2021-11-12
+Sibsagar,Assam,95.73,82.15,2021-11-12
+Sonitpur,Assam,95.04,81.65,2021-11-12
+Tinsukia,Assam,94.81,81.46,2021-11-12
+Udalguri,Assam,95.38,81.89,2021-11-12
+West Karbi Anglong,Assam,96.2,82.52,2021-11-12
+Baksa,Assam,95.26,81.8,2021-11-14
+Barpeta,Assam,95.13,81.71,2021-11-14
+Biswanath,Assam,95.53,82.02,2021-11-14
+Bongaigaon,Assam,94.57,81.28,2021-11-14
+Cachar,Assam,95.17,81.77,2021-11-14
+Charaideo,Assam,95.16,81.73,2021-11-14
+Chirang,Assam,94.53,81.25,2021-11-14
+Darrang,Assam,95.34,81.86,2021-11-14
+Dhemaji,Assam,96.3,82.58,2021-11-14
+Dhuburi,Assam,96.1,82.43,2021-11-14
+Dibrugarh,Assam,95.55,82.02,2021-11-14
+Dima Hasao,Assam,96.62,83.09,2021-11-14
+Goalpara,Assam,95.52,82.0,2021-11-14
+Golaghat,Assam,95.04,81.64,2021-11-14
+Hailakandi,Assam,95.56,82.06,2021-11-14
+Hojai,Assam,95.33,81.87,2021-11-14
+Jorhat,Assam,95.06,81.65,2021-11-14
+Kamrup,Assam,94.83,81.48,2021-11-14
+Kamrup Metro,Assam,94.58,81.29,2021-11-14
+Karbi Anglong,Assam,95.96,82.35,2021-11-14
+Karimganj,Assam,95.35,81.9,2021-11-14
+Kokrajhar,Assam,95.2,81.75,2021-11-14
+Lakhimpur,Assam,96.28,82.58,2021-11-14
+Majuli,Assam,97.16,83.23,2021-11-14
+Morigaon,Assam,95.22,81.77,2021-11-14
+Nagaon,Assam,95.31,81.85,2021-11-14
+Nalbari,Assam,95.3,81.83,2021-11-14
+Sibsagar,Assam,96.01,82.36,2021-11-14
+Sonitpur,Assam,94.86,81.51,2021-11-14
+Tinsukia,Assam,94.81,81.46,2021-11-14
+Udalguri,Assam,95.38,81.89,2021-11-14
+West Karbi Anglong,Assam,96.2,82.52,2021-11-14
+Baksa,Assam,94.95,81.57,2021-11-16
+Barpeta,Assam,94.92,81.54,2021-11-16
+Biswanath,Assam,95.89,82.29,2021-11-16
+Bongaigaon,Assam,94.67,81.36,2021-11-16
+Cachar,Assam,95.19,81.79,2021-11-16
+Charaideo,Assam,95.2,81.76,2021-11-16
+Chirang,Assam,94.53,81.25,2021-11-16
+Darrang,Assam,95.34,81.86,2021-11-16
+Dhemaji,Assam,95.81,82.22,2021-11-16
+Dhuburi,Assam,95.38,81.89,2021-11-16
+Dibrugarh,Assam,94.62,81.32,2021-11-16
+Dima Hasao,Assam,98.07,84.13,2021-11-16
+Goalpara,Assam,95.4,81.91,2021-11-16
+Golaghat,Assam,94.75,81.42,2021-11-16
+Hailakandi,Assam,95.51,82.03,2021-11-16
+Hojai,Assam,95.48,81.99,2021-11-16
+Jorhat,Assam,95.2,81.75,2021-11-16
+Kamrup,Assam,94.7,81.38,2021-11-16
+Kamrup Metro,Assam,94.58,81.29,2021-11-16
+Karbi Anglong,Assam,95.26,81.8,2021-11-16
+Karimganj,Assam,95.44,81.97,2021-11-16
+Kokrajhar,Assam,95.13,81.7,2021-11-16
+Lakhimpur,Assam,96.28,82.58,2021-11-16
+Majuli,Assam,97.12,83.19,2021-11-16
+Morigaon,Assam,95.18,81.74,2021-11-16
+Nagaon,Assam,95.83,82.23,2021-11-16
+Nalbari,Assam,95.3,81.83,2021-11-16
+Sibsagar,Assam,95.96,82.33,2021-11-16
+Sonitpur,Assam,95.04,81.65,2021-11-16
+Tinsukia,Assam,94.53,81.25,2021-11-16
+Udalguri,Assam,95.42,81.92,2021-11-16
+West Karbi Anglong,Assam,95.33,81.87,2021-11-16
+Baksa,Assam,95.26,81.8,2021-11-17
+Barpeta,Assam,95.4,81.9,2021-11-17
+Biswanath,Assam,95.22,81.79,2021-11-17
+Bongaigaon,Assam,94.74,81.41,2021-11-17
+Cachar,Assam,95.25,81.83,2021-11-17
+Charaideo,Assam,95.96,82.33,2021-11-17
+Chirang,Assam,94.53,81.25,2021-11-17
+Darrang,Assam,95.34,81.86,2021-11-17
+Dhemaji,Assam,96.12,82.45,2021-11-17
+Dhuburi,Assam,96.1,82.43,2021-11-17
+Dibrugarh,Assam,95.21,81.77,2021-11-17
+Dima Hasao,Assam,96.84,83.25,2021-11-17
+Goalpara,Assam,95.04,81.64,2021-11-17
+Golaghat,Assam,94.86,81.5,2021-11-17
+Hailakandi,Assam,95.47,82.0,2021-11-17
+Hojai,Assam,95.55,82.03,2021-11-17
+Jorhat,Assam,95.24,81.79,2021-11-17
+Kamrup,Assam,94.73,81.4,2021-11-17
+Kamrup Metro,Assam,94.58,81.29,2021-11-17
+Karbi Anglong,Assam,95.35,81.87,2021-11-17
+Karimganj,Assam,95.74,82.2,2021-11-17
+Kokrajhar,Assam,94.84,81.48,2021-11-17
+Lakhimpur,Assam,97.18,83.25,2021-11-17
+Majuli,Assam,97.16,83.23,2021-11-17
+Morigaon,Assam,95.3,81.83,2021-11-17
+Nagaon,Assam,95.33,81.85,2021-11-17
+Nalbari,Assam,94.95,81.57,2021-11-17
+Sibsagar,Assam,95.96,82.33,2021-11-17
+Sonitpur,Assam,95.89,82.29,2021-11-17
+Tinsukia,Assam,94.85,81.5,2021-11-17
+Udalguri,Assam,95.7,82.13,2021-11-17
+West Karbi Anglong,Assam,96.2,82.52,2021-11-17
+Baksa,Assam,95.26,81.8,2021-11-19
+Barpeta,Assam,94.93,81.56,2021-11-19
+Biswanath,Assam,95.53,82.02,2021-11-19
+Bongaigaon,Assam,94.9,81.53,2021-11-19
+Cachar,Assam,95.17,81.77,2021-11-19
+Charaideo,Assam,95.16,81.73,2021-11-19
+Chirang,Assam,94.53,81.25,2021-11-19
+Darrang,Assam,95.0,81.61,2021-11-19
+Dhemaji,Assam,96.3,82.58,2021-11-19
+Dhuburi,Assam,96.1,82.43,2021-11-19
+Dibrugarh,Assam,95.06,81.65,2021-11-19
+Dima Hasao,Assam,96.47,82.98,2021-11-19
+Goalpara,Assam,95.43,81.93,2021-11-19
+Golaghat,Assam,94.53,81.25,2021-11-19
+Hailakandi,Assam,95.9,82.32,2021-11-19
+Hojai,Assam,95.98,82.34,2021-11-19
+Jorhat,Assam,95.06,81.65,2021-11-19
+Kamrup,Assam,94.63,81.33,2021-11-19
+Kamrup Metro,Assam,94.58,81.29,2021-11-19
+Karbi Anglong,Assam,95.77,82.2,2021-11-19
+Karimganj,Assam,95.56,82.06,2021-11-19
+Kokrajhar,Assam,95.2,81.75,2021-11-19
+Lakhimpur,Assam,97.11,83.2,2021-11-19
+Majuli,Assam,97.12,83.19,2021-11-19
+Morigaon,Assam,95.3,81.83,2021-11-19
+Nagaon,Assam,95.33,81.85,2021-11-19
+Nalbari,Assam,95.3,81.83,2021-11-19
+Sibsagar,Assam,95.73,82.15,2021-11-19
+Sonitpur,Assam,95.04,81.65,2021-11-19
+Tinsukia,Assam,94.81,81.46,2021-11-19
+Udalguri,Assam,95.38,81.89,2021-11-19
+West Karbi Anglong,Assam,96.2,82.52,2021-11-19
+Baksa,Assam,95.26,81.8,2021-11-23
+Barpeta,Assam,95.38,81.89,2021-11-23
+Biswanath,Assam,95.53,82.02,2021-11-23
+Bongaigaon,Assam,94.63,81.33,2021-11-23
+Cachar,Assam,95.17,81.77,2021-11-23
+Charaideo,Assam,95.39,81.9,2021-11-23
+Chirang,Assam,94.53,81.25,2021-11-23
+Darrang,Assam,95.34,81.86,2021-11-23
+Dhemaji,Assam,96.12,82.45,2021-11-23
+Dhuburi,Assam,96.1,82.43,2021-11-23
+Dibrugarh,Assam,95.21,81.77,2021-11-23
+Dima Hasao,Assam,98.07,84.13,2021-11-23
+Goalpara,Assam,95.43,81.93,2021-11-23
+Golaghat,Assam,95.13,81.7,2021-11-23
+Hailakandi,Assam,95.72,82.18,2021-11-23
+Hojai,Assam,95.33,81.87,2021-11-23
+Jorhat,Assam,95.13,81.7,2021-11-23
+Kamrup,Assam,94.75,81.42,2021-11-23
+Kamrup Metro,Assam,94.58,81.29,2021-11-23
+Karbi Anglong,Assam,95.94,82.33,2021-11-23
+Karimganj,Assam,95.88,82.3,2021-11-23
+Kokrajhar,Assam,94.84,81.48,2021-11-23
+Lakhimpur,Assam,96.64,82.84,2021-11-23
+Majuli,Assam,97.16,83.23,2021-11-23
+Morigaon,Assam,94.9,81.53,2021-11-23
+Nagaon,Assam,96.23,82.53,2021-11-23
+Nalbari,Assam,95.3,81.83,2021-11-23
+Sibsagar,Assam,95.99,82.35,2021-11-23
+Sonitpur,Assam,94.86,81.51,2021-11-23
+Tinsukia,Assam,94.85,81.5,2021-11-23
+Udalguri,Assam,95.03,81.64,2021-11-23
+West Karbi Anglong,Assam,96.2,82.52,2021-11-23
+Baksa,Assam,94.95,81.57,2021-11-24
+Barpeta,Assam,95.13,81.71,2021-11-24
+Biswanath,Assam,95.22,81.79,2021-11-24
+Bongaigaon,Assam,94.9,81.53,2021-11-24
+Cachar,Assam,95.17,81.77,2021-11-24
+Charaideo,Assam,95.39,81.9,2021-11-24
+Chirang,Assam,94.53,81.26,2021-11-24
+Darrang,Assam,95.34,81.86,2021-11-24
+Dhemaji,Assam,95.81,82.22,2021-11-24
+Dhuburi,Assam,95.24,81.79,2021-11-24
+Dibrugarh,Assam,94.62,81.32,2021-11-24
+Dima Hasao,Assam,96.47,82.98,2021-11-24
+Goalpara,Assam,95.4,81.91,2021-11-24
+Golaghat,Assam,94.53,81.25,2021-11-24
+Hailakandi,Assam,95.47,82.0,2021-11-24
+Hojai,Assam,95.48,81.99,2021-11-24
+Jorhat,Assam,95.24,81.79,2021-11-24
+Kamrup,Assam,94.7,81.38,2021-11-24
+Kamrup Metro,Assam,94.58,81.29,2021-11-24
+Karbi Anglong,Assam,95.33,81.87,2021-11-24
+Karimganj,Assam,95.44,81.97,2021-11-24
+Kokrajhar,Assam,94.84,81.48,2021-11-24
+Lakhimpur,Assam,96.29,82.59,2021-11-24
+Majuli,Assam,97.12,83.19,2021-11-24
+Morigaon,Assam,95.22,81.77,2021-11-24
+Nagaon,Assam,95.33,81.85,2021-11-24
+Nalbari,Assam,95.3,81.83,2021-11-24
+Sibsagar,Assam,95.58,82.04,2021-11-24
+Sonitpur,Assam,95.04,81.65,2021-11-24
+Tinsukia,Assam,94.85,81.5,2021-11-24
+Udalguri,Assam,95.42,81.92,2021-11-24
+West Karbi Anglong,Assam,96.2,82.52,2021-11-24
+Baksa,Assam,94.92,81.54,2021-11-29
+Barpeta,Assam,94.99,81.6,2021-11-29
+Biswanath,Assam,96.01,82.38,2021-11-29
+Bongaigaon,Assam,94.57,81.28,2021-11-29
+Cachar,Assam,95.17,81.77,2021-11-29
+Charaideo,Assam,95.39,81.9,2021-11-29
+Chirang,Assam,94.53,81.25,2021-11-29
+Darrang,Assam,95.34,81.86,2021-11-29
+Dhemaji,Assam,96.26,82.55,2021-11-29
+Dhuburi,Assam,95.66,82.1,2021-11-29
+Dibrugarh,Assam,95.55,82.02,2021-11-29
+Dima Hasao,Assam,96.84,83.25,2021-11-29
+Goalpara,Assam,95.52,82.0,2021-11-29
+Golaghat,Assam,94.75,81.42,2021-11-29
+Hailakandi,Assam,95.51,82.03,2021-11-29
+Hojai,Assam,95.55,82.03,2021-11-29
+Jorhat,Assam,95.11,81.69,2021-11-29
+Kamrup,Assam,94.75,81.42,2021-11-29
+Kamrup Metro,Assam,94.58,81.29,2021-11-29
+Karbi Anglong,Assam,95.96,82.35,2021-11-29
+Karimganj,Assam,95.59,82.08,2021-11-29
+Kokrajhar,Assam,95.2,81.75,2021-11-29
+Lakhimpur,Assam,96.81,82.98,2021-11-29
+Majuli,Assam,97.12,83.19,2021-11-29
+Morigaon,Assam,94.9,81.53,2021-11-29
+Nagaon,Assam,95.98,82.34,2021-11-29
+Nalbari,Assam,95.3,81.83,2021-11-29
+Sibsagar,Assam,95.96,82.33,2021-11-29
+Sonitpur,Assam,94.8,81.48,2021-11-29
+Tinsukia,Assam,94.65,81.34,2021-11-29
+Udalguri,Assam,95.42,81.92,2021-11-29
+West Karbi Anglong,Assam,95.33,81.87,2021-11-29
+Baksa,Assam,94.92,81.54,2021-12-01
+Barpeta,Assam,95.06,81.65,2021-12-01
+Biswanath,Assam,96.01,82.38,2021-12-01
+Bongaigaon,Assam,94.57,81.28,2021-12-01
+Cachar,Assam,95.17,81.77,2021-12-01
+Charaideo,Assam,95.39,81.9,2021-12-01
+Chirang,Assam,94.53,81.25,2021-12-01
+Darrang,Assam,95.34,81.86,2021-12-01
+Dhemaji,Assam,96.26,82.55,2021-12-01
+Dhuburi,Assam,95.66,82.1,2021-12-01
+Dibrugarh,Assam,95.55,82.02,2021-12-01
+Dima Hasao,Assam,96.84,83.25,2021-12-01
+Goalpara,Assam,95.04,81.64,2021-12-01
+Golaghat,Assam,94.75,81.42,2021-12-01
+Hailakandi,Assam,95.72,82.18,2021-12-01
+Hojai,Assam,95.55,82.03,2021-12-01
+Jorhat,Assam,95.11,81.69,2021-12-01
+Kamrup,Assam,94.75,81.42,2021-12-01
+Kamrup Metro,Assam,94.58,81.29,2021-12-01
+Karbi Anglong,Assam,95.96,82.35,2021-12-01
+Karimganj,Assam,95.35,81.9,2021-12-01
+Kokrajhar,Assam,95.2,81.75,2021-12-01
+Lakhimpur,Assam,96.81,82.98,2021-12-01
+Majuli,Assam,97.12,83.19,2021-12-01
+Morigaon,Assam,95.22,81.77,2021-12-01
+Nagaon,Assam,95.98,82.34,2021-12-01
+Nalbari,Assam,95.3,81.83,2021-12-01
+Sibsagar,Assam,95.96,82.33,2021-12-01
+Sonitpur,Assam,94.77,81.45,2021-12-01
+Tinsukia,Assam,94.65,81.34,2021-12-01
+Udalguri,Assam,95.32,81.85,2021-12-01
+West Karbi Anglong,Assam,95.33,81.87,2021-12-01
+Baksa,Assam,95.26,81.8,2021-12-02
+Barpeta,Assam,95.42,81.92,2021-12-02
+Biswanath,Assam,95.32,81.86,2021-12-02
+Bongaigaon,Assam,94.71,81.39,2021-12-02
+Cachar,Assam,95.33,81.89,2021-12-02
+Charaideo,Assam,95.76,82.18,2021-12-02
+Chirang,Assam,94.53,81.25,2021-12-02
+Darrang,Assam,95.0,81.61,2021-12-02
+Dhemaji,Assam,95.81,82.22,2021-12-02
+Dhuburi,Assam,95.73,82.15,2021-12-02
+Dibrugarh,Assam,95.69,82.12,2021-12-02
+Dima Hasao,Assam,96.47,82.98,2021-12-02
+Goalpara,Assam,95.52,82.0,2021-12-02
+Golaghat,Assam,94.76,81.42,2021-12-02
+Hailakandi,Assam,95.24,81.82,2021-12-02
+Hojai,Assam,95.48,81.99,2021-12-02
+Jorhat,Assam,95.24,81.79,2021-12-02
+Kamrup,Assam,94.94,81.56,2021-12-02
+Kamrup Metro,Assam,94.58,81.29,2021-12-02
+Karbi Anglong,Assam,95.35,81.87,2021-12-02
+Karimganj,Assam,95.9,82.32,2021-12-02
+Kokrajhar,Assam,95.2,81.75,2021-12-02
+Lakhimpur,Assam,96.81,82.98,2021-12-02
+Majuli,Assam,97.16,83.23,2021-12-02
+Morigaon,Assam,95.3,81.83,2021-12-02
+Nagaon,Assam,95.83,82.23,2021-12-02
+Nalbari,Assam,94.81,81.47,2021-12-02
+Sibsagar,Assam,95.58,82.04,2021-12-02
+Sonitpur,Assam,94.9,81.55,2021-12-02
+Tinsukia,Assam,94.87,81.51,2021-12-02
+Udalguri,Assam,95.03,81.64,2021-12-02
+West Karbi Anglong,Assam,96.2,82.52,2021-12-02
+Baksa,Assam,95.26,81.8,2021-12-03
+Barpeta,Assam,95.42,81.92,2021-12-03
+Biswanath,Assam,95.32,81.86,2021-12-03
+Bongaigaon,Assam,94.71,81.39,2021-12-03
+Cachar,Assam,95.33,81.89,2021-12-03
+Charaideo,Assam,95.76,82.18,2021-12-03
+Chirang,Assam,94.53,81.25,2021-12-03
+Darrang,Assam,95.0,81.61,2021-12-03
+Dhemaji,Assam,95.81,82.22,2021-12-03
+Dhuburi,Assam,95.73,82.15,2021-12-03
+Dibrugarh,Assam,95.69,82.12,2021-12-03
+Dima Hasao,Assam,96.47,82.98,2021-12-03
+Goalpara,Assam,95.52,82.0,2021-12-03
+Golaghat,Assam,94.76,81.42,2021-12-03
+Hailakandi,Assam,95.24,81.82,2021-12-03
+Hojai,Assam,95.48,81.99,2021-12-03
+Jorhat,Assam,95.24,81.79,2021-12-03
+Kamrup,Assam,94.94,81.56,2021-12-03
+Kamrup Metro,Assam,94.58,81.29,2021-12-03
+Karbi Anglong,Assam,95.35,81.87,2021-12-03
+Karimganj,Assam,95.9,82.32,2021-12-03
+Kokrajhar,Assam,95.2,81.75,2021-12-03
+Lakhimpur,Assam,96.81,82.98,2021-12-03
+Majuli,Assam,97.16,83.23,2021-12-03
+Morigaon,Assam,95.3,81.83,2021-12-03
+Nagaon,Assam,95.83,82.23,2021-12-03
+Nalbari,Assam,94.81,81.47,2021-12-03
+Sibsagar,Assam,95.58,82.04,2021-12-03
+Sonitpur,Assam,94.9,81.55,2021-12-03
+Tinsukia,Assam,94.87,81.51,2021-12-03
+Udalguri,Assam,95.03,81.64,2021-12-03
+West Karbi Anglong,Assam,96.2,82.52,2021-12-03
+Baksa,Assam,95.26,81.8,2021-12-06
+Barpeta,Assam,95.4,81.9,2021-12-06
+Biswanath,Assam,96.01,82.38,2021-12-06
+Bongaigaon,Assam,94.9,81.53,2021-12-06
+Cachar,Assam,95.27,81.85,2021-12-06
+Charaideo,Assam,95.76,82.18,2021-12-06
+Chirang,Assam,94.53,81.25,2021-12-06
+Darrang,Assam,94.81,81.47,2021-12-06
+Dhemaji,Assam,96.26,82.55,2021-12-06
+Dhuburi,Assam,96.1,82.43,2021-12-06
+Dibrugarh,Assam,95.69,82.12,2021-12-06
+Dima Hasao,Assam,98.07,84.13,2021-12-06
+Goalpara,Assam,95.52,82.0,2021-12-06
+Golaghat,Assam,95.13,81.7,2021-12-06
+Hailakandi,Assam,95.72,82.18,2021-12-06
+Hojai,Assam,95.48,81.99,2021-12-06
+Jorhat,Assam,95.55,82.01,2021-12-06
+Kamrup,Assam,94.73,81.4,2021-12-06
+Kamrup Metro,Assam,94.58,81.29,2021-12-06
+Karbi Anglong,Assam,95.26,81.8,2021-12-06
+Karimganj,Assam,95.4,81.94,2021-12-06
+Kokrajhar,Assam,95.2,81.75,2021-12-06
+Lakhimpur,Assam,98.0,84.0,2021-12-06
+Majuli,Assam,97.12,83.19,2021-12-06
+Morigaon,Assam,94.9,81.53,2021-12-06
+Nagaon,Assam,95.83,82.23,2021-12-06
+Nalbari,Assam,94.81,81.47,2021-12-06
+Sibsagar,Assam,95.58,82.04,2021-12-06
+Sonitpur,Assam,95.89,82.29,2021-12-06
+Tinsukia,Assam,94.85,81.5,2021-12-06
+Udalguri,Assam,95.38,81.89,2021-12-06
+West Karbi Anglong,Assam,96.2,82.52,2021-12-06
+Baksa,Assam,94.92,81.54,2021-12-22
+Barpeta,Assam,95.4,81.9,2021-12-22
+Biswanath,Assam,95.53,82.02,2021-12-22
+Bongaigaon,Assam,94.57,81.28,2021-12-22
+Cachar,Assam,95.17,81.77,2021-12-22
+Charaideo,Assam,95.39,81.9,2021-12-22
+Chirang,Assam,94.53,81.25,2021-12-22
+Darrang,Assam,95.0,81.61,2021-12-22
+Dhemaji,Assam,95.81,82.22,2021-12-22
+Dhuburi,Assam,96.12,82.44,2021-12-22
+Dibrugarh,Assam,95.69,82.12,2021-12-22
+Dima Hasao,Assam,96.47,82.98,2021-12-22
+Goalpara,Assam,95.52,82.0,2021-12-22
+Golaghat,Assam,94.59,81.3,2021-12-22
+Hailakandi,Assam,95.24,81.82,2021-12-22
+Hojai,Assam,95.55,82.03,2021-12-22
+Jorhat,Assam,95.11,81.69,2021-12-22
+Kamrup,Assam,94.58,81.29,2021-12-22
+Kamrup Metro,Assam,94.58,81.29,2021-12-22
+Karbi Anglong,Assam,95.77,82.2,2021-12-22
+Karimganj,Assam,95.88,82.3,2021-12-22
+Kokrajhar,Assam,95.2,81.75,2021-12-22
+Lakhimpur,Assam,96.55,82.78,2021-12-22
+Majuli,Assam,97.16,83.23,2021-12-22
+Morigaon,Assam,95.22,81.77,2021-12-22
+Nagaon,Assam,95.31,81.85,2021-12-22
+Nalbari,Assam,95.3,81.83,2021-12-22
+Sibsagar,Assam,95.96,82.33,2021-12-22
+Sonitpur,Assam,94.77,81.45,2021-12-22
+Tinsukia,Assam,94.53,81.25,2021-12-22
+Udalguri,Assam,95.38,81.89,2021-12-22
+West Karbi Anglong,Assam,96.2,82.52,2021-12-22
+Baksa,Assam,94.95,81.57,2021-12-29
+Barpeta,Assam,94.99,81.6,2021-12-29
+Biswanath,Assam,95.53,82.02,2021-12-29
+Bongaigaon,Assam,94.9,81.53,2021-12-29
+Cachar,Assam,95.17,81.77,2021-12-29
+Charaideo,Assam,95.39,81.9,2021-12-29
+Chirang,Assam,94.53,81.25,2021-12-29
+Darrang,Assam,95.34,81.86,2021-12-29
+Dhemaji,Assam,95.81,82.22,2021-12-29
+Dhuburi,Assam,96.1,82.43,2021-12-29
+Dibrugarh,Assam,94.87,81.5,2021-12-29
+Dima Hasao,Assam,96.84,83.25,2021-12-29
+Goalpara,Assam,95.52,82.0,2021-12-29
+Golaghat,Assam,94.59,81.3,2021-12-29
+Hailakandi,Assam,95.24,81.82,2021-12-29
+Hojai,Assam,95.48,81.99,2021-12-29
+Jorhat,Assam,95.11,81.69,2021-12-29
+Kamrup,Assam,94.58,81.29,2021-12-29
+Kamrup Metro,Assam,94.58,81.29,2021-12-29
+Karbi Anglong,Assam,95.33,81.87,2021-12-29
+Karimganj,Assam,95.88,82.3,2021-12-29
+Kokrajhar,Assam,95.2,81.75,2021-12-29
+Lakhimpur,Assam,96.55,82.78,2021-12-29
+Majuli,Assam,97.16,83.23,2021-12-29
+Morigaon,Assam,95.18,81.74,2021-12-29
+Nagaon,Assam,95.76,82.2,2021-12-29
+Nalbari,Assam,95.3,81.83,2021-12-29
+Sibsagar,Assam,96.04,82.38,2021-12-29
+Sonitpur,Assam,94.8,81.48,2021-12-29
+Tinsukia,Assam,94.53,81.25,2021-12-29
+Udalguri,Assam,95.38,81.89,2021-12-29
+West Karbi Anglong,Assam,96.2,82.52,2021-12-29

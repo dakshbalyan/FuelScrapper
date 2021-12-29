@@ -1,0 +1,376 @@
+City,State,Petrol_Rate,Diesel_Rate,Date
+Bishnupur,Manipur,109.46,97.8,2021-10-27
+Chandel,Manipur,109.68,98.0,2021-10-27
+Churachandpur,Manipur,109.63,97.95,2021-10-27
+East Imphal,Manipur,109.15,97.53,2021-10-27
+Jiribam,Manipur,111.28,99.42,2021-10-27
+Kakching,Manipur,109.52,97.85,2021-10-27
+Kangpokpi,Manipur,109.53,97.86,2021-10-27
+Noney,Manipur,109.6,97.93,2021-10-27
+Pherzawl,Manipur,111.08,99.25,2021-10-27
+Senapati,Manipur,109.69,98.01,2021-10-27
+Tamenglong,Manipur,110.67,98.88,2021-10-27
+Tengnoupal,Manipur,110.16,98.43,2021-10-27
+Thoubal,Manipur,109.25,97.62,2021-10-27
+Ukhrul,Manipur,109.97,98.26,2021-10-27
+West Imphal,Manipur,109.2,97.58,2021-10-27
+Bishnupur,Manipur,109.5,97.88,2021-10-28
+Chandel,Manipur,110.03,98.35,2021-10-28
+Churachandpur,Manipur,109.99,98.31,2021-10-28
+East Imphal,Manipur,109.56,97.93,2021-10-28
+Jiribam,Manipur,111.64,99.78,2021-10-28
+Kakching,Manipur,109.87,98.21,2021-10-28
+Kangpokpi,Manipur,109.88,98.22,2021-10-28
+Noney,Manipur,109.95,98.28,2021-10-28
+Pherzawl,Manipur,111.44,99.6,2021-10-28
+Senapati,Manipur,110.04,98.36,2021-10-28
+Tamenglong,Manipur,111.02,99.23,2021-10-28
+Tengnoupal,Manipur,110.51,98.78,2021-10-28
+Thoubal,Manipur,109.74,98.1,2021-10-28
+Ukhrul,Manipur,110.33,98.62,2021-10-28
+West Imphal,Manipur,109.56,97.93,2021-10-28
+Bishnupur,Manipur,109.96,98.32,2021-10-29
+Chandel,Manipur,110.39,98.71,2021-10-29
+Churachandpur,Manipur,110.42,98.74,2021-10-29
+East Imphal,Manipur,109.99,98.35,2021-10-29
+Jiribam,Manipur,111.99,100.13,2021-10-29
+Kakching,Manipur,110.22,98.56,2021-10-29
+Kangpokpi,Manipur,110.24,98.57,2021-10-29
+Noney,Manipur,110.31,98.64,2021-10-29
+Pherzawl,Manipur,111.79,99.95,2021-10-29
+Senapati,Manipur,110.82,99.09,2021-10-29
+Tamenglong,Manipur,110.99,99.25,2021-10-29
+Tengnoupal,Manipur,110.87,99.13,2021-10-29
+Thoubal,Manipur,110.1,98.45,2021-10-29
+Ukhrul,Manipur,110.68,98.97,2021-10-29
+West Imphal,Manipur,109.86,98.23,2021-10-29
+Bishnupur,Manipur,109.96,98.32,2021-10-30
+Chandel,Manipur,110.39,98.71,2021-10-30
+Churachandpur,Manipur,110.42,98.74,2021-10-30
+East Imphal,Manipur,109.99,98.35,2021-10-30
+Jiribam,Manipur,111.99,100.13,2021-10-30
+Kakching,Manipur,110.22,98.56,2021-10-30
+Kangpokpi,Manipur,110.24,98.57,2021-10-30
+Noney,Manipur,110.31,98.64,2021-10-30
+Pherzawl,Manipur,111.79,99.95,2021-10-30
+Senapati,Manipur,110.82,99.09,2021-10-30
+Tamenglong,Manipur,110.99,99.25,2021-10-30
+Tengnoupal,Manipur,110.87,99.13,2021-10-30
+Thoubal,Manipur,110.1,98.45,2021-10-30
+Ukhrul,Manipur,110.68,98.97,2021-10-30
+West Imphal,Manipur,109.86,98.23,2021-10-30
+Bishnupur,Manipur,111.09,99.43,2021-11-01
+Chandel,Manipur,111.55,99.84,2021-11-01
+Churachandpur,Manipur,112.43,100.62,2021-11-01
+East Imphal,Manipur,110.99,99.34,2021-11-01
+Jiribam,Manipur,113.25,101.35,2021-11-01
+Kakching,Manipur,111.38,99.69,2021-11-01
+Kangpokpi,Manipur,111.39,99.7,2021-11-01
+Noney,Manipur,111.47,99.77,2021-11-01
+Pherzawl,Manipur,113.04,101.16,2021-11-01
+Senapati,Manipur,111.56,99.85,2021-11-01
+Tamenglong,Manipur,112.6,100.78,2021-11-01
+Tengnoupal,Manipur,112.06,100.29,2021-11-01
+Thoubal,Manipur,111.09,99.43,2021-11-01
+Ukhrul,Manipur,111.87,100.12,2021-11-01
+West Imphal,Manipur,111.05,99.39,2021-11-01
+Bishnupur,Manipur,111.46,0.0,2021-11-04
+Chandel,Manipur,111.92,0.0,2021-11-04
+Churachandpur,Manipur,111.87,0.0,2021-11-04
+East Imphal,Manipur,111.41,0.0,2021-11-04
+Jiribam,Manipur,113.62,0.0,2021-11-04
+Kakching,Manipur,111.74,0.0,2021-11-04
+Kangpokpi,Manipur,111.75,0.0,2021-11-04
+Noney,Manipur,111.83,0.0,2021-11-04
+Pherzawl,Manipur,113.4,0.0,2021-11-04
+Senapati,Manipur,111.93,0.0,2021-11-04
+Tamenglong,Manipur,112.56,0.0,2021-11-04
+Tengnoupal,Manipur,112.43,0.0,2021-11-04
+Thoubal,Manipur,111.46,0.0,2021-11-04
+Ukhrul,Manipur,112.23,0.0,2021-11-04
+West Imphal,Manipur,111.35,0.0,2021-11-04
+Bishnupur,Manipur,105.31,0.0,2021-11-05
+Chandel,Manipur,105.77,0.0,2021-11-05
+Churachandpur,Manipur,105.8,0.0,2021-11-05
+East Imphal,Manipur,105.41,0.0,2021-11-05
+Jiribam,Manipur,107.47,0.0,2021-11-05
+Kakching,Manipur,105.6,0.0,2021-11-05
+Kangpokpi,Manipur,105.61,0.0,2021-11-05
+Noney,Manipur,105.69,0.0,2021-11-05
+Pherzawl,Manipur,107.26,0.0,2021-11-05
+Senapati,Manipur,106.23,0.0,2021-11-05
+Tamenglong,Manipur,106.82,0.0,2021-11-05
+Tengnoupal,Manipur,106.28,0.0,2021-11-05
+Thoubal,Manipur,105.46,0.0,2021-11-05
+Ukhrul,Manipur,106.08,0.0,2021-11-05
+West Imphal,Manipur,105.27,0.0,2021-11-05
+Bishnupur,Manipur,99.77,84.21,2021-11-07
+Chandel,Manipur,100.3,84.69,2021-11-07
+Churachandpur,Manipur,99.87,84.3,2021-11-07
+East Imphal,Manipur,99.82,84.26,2021-11-07
+Jiribam,Manipur,101.91,86.15,2021-11-07
+Kakching,Manipur,100.14,84.54,2021-11-07
+Kangpokpi,Manipur,100.15,84.55,2021-11-07
+Noney,Manipur,100.22,84.62,2021-11-07
+Pherzawl,Manipur,101.71,85.96,2021-11-07
+Senapati,Manipur,100.31,84.7,2021-11-07
+Tamenglong,Manipur,101.3,85.59,2021-11-07
+Tengnoupal,Manipur,100.78,85.13,2021-11-07
+Thoubal,Manipur,100.01,84.43,2021-11-07
+Ukhrul,Manipur,100.6,84.96,2021-11-07
+West Imphal,Manipur,99.87,84.3,2021-11-07
+Bishnupur,Manipur,99.87,84.3,2021-11-08
+Chandel,Manipur,100.3,84.69,2021-11-08
+Churachandpur,Manipur,100.26,84.65,2021-11-08
+East Imphal,Manipur,99.82,84.26,2021-11-08
+Jiribam,Manipur,101.91,86.15,2021-11-08
+Kakching,Manipur,100.14,84.54,2021-11-08
+Kangpokpi,Manipur,100.15,84.55,2021-11-08
+Noney,Manipur,100.22,84.62,2021-11-08
+Pherzawl,Manipur,101.71,85.96,2021-11-08
+Senapati,Manipur,100.73,85.08,2021-11-08
+Tamenglong,Manipur,100.91,85.24,2021-11-08
+Tengnoupal,Manipur,100.78,85.13,2021-11-08
+Thoubal,Manipur,99.87,84.3,2021-11-08
+Ukhrul,Manipur,100.6,84.96,2021-11-08
+West Imphal,Manipur,99.82,84.26,2021-11-08
+Bishnupur,Manipur,100.08,84.49,2021-11-09
+Chandel,Manipur,100.3,84.69,2021-11-09
+Churachandpur,Manipur,100.26,84.65,2021-11-09
+East Imphal,Manipur,99.82,84.26,2021-11-09
+Jiribam,Manipur,101.91,86.15,2021-11-09
+Kakching,Manipur,100.14,84.54,2021-11-09
+Kangpokpi,Manipur,100.15,84.55,2021-11-09
+Noney,Manipur,100.22,84.62,2021-11-09
+Pherzawl,Manipur,101.71,85.96,2021-11-09
+Senapati,Manipur,100.31,84.7,2021-11-09
+Tamenglong,Manipur,101.3,85.59,2021-11-09
+Tengnoupal,Manipur,100.78,85.13,2021-11-09
+Thoubal,Manipur,100.01,84.43,2021-11-09
+Ukhrul,Manipur,100.6,84.96,2021-11-09
+West Imphal,Manipur,99.77,84.21,2021-11-09
+Bishnupur,Manipur,99.77,84.21,2021-11-11
+Chandel,Manipur,100.3,84.69,2021-11-11
+Churachandpur,Manipur,100.26,84.65,2021-11-11
+East Imphal,Manipur,99.82,84.26,2021-11-11
+Jiribam,Manipur,101.91,86.15,2021-11-11
+Kakching,Manipur,100.14,84.54,2021-11-11
+Kangpokpi,Manipur,100.15,84.55,2021-11-11
+Noney,Manipur,100.22,84.62,2021-11-11
+Pherzawl,Manipur,101.71,85.96,2021-11-11
+Senapati,Manipur,100.31,84.7,2021-11-11
+Tamenglong,Manipur,101.3,85.59,2021-11-11
+Tengnoupal,Manipur,100.78,85.13,2021-11-11
+Thoubal,Manipur,100.01,84.43,2021-11-11
+Ukhrul,Manipur,100.6,84.96,2021-11-11
+West Imphal,Manipur,99.82,84.26,2021-11-11
+Bishnupur,Manipur,99.87,84.3,2021-11-12
+Chandel,Manipur,100.3,84.69,2021-11-12
+Churachandpur,Manipur,100.26,84.65,2021-11-12
+East Imphal,Manipur,99.82,84.26,2021-11-12
+Jiribam,Manipur,101.91,86.15,2021-11-12
+Kakching,Manipur,100.14,84.54,2021-11-12
+Kangpokpi,Manipur,100.15,84.55,2021-11-12
+Noney,Manipur,100.22,84.62,2021-11-12
+Pherzawl,Manipur,101.71,85.96,2021-11-12
+Senapati,Manipur,100.73,85.08,2021-11-12
+Tamenglong,Manipur,101.3,85.59,2021-11-12
+Tengnoupal,Manipur,100.78,85.13,2021-11-12
+Thoubal,Manipur,99.87,84.3,2021-11-12
+Ukhrul,Manipur,100.6,84.96,2021-11-12
+West Imphal,Manipur,99.87,84.3,2021-11-12
+Bishnupur,Manipur,99.77,84.21,2021-11-14
+Chandel,Manipur,100.3,84.69,2021-11-14
+Churachandpur,Manipur,100.26,84.65,2021-11-14
+East Imphal,Manipur,99.82,84.26,2021-11-14
+Jiribam,Manipur,101.91,86.15,2021-11-14
+Kakching,Manipur,100.14,84.54,2021-11-14
+Kangpokpi,Manipur,100.15,84.55,2021-11-14
+Noney,Manipur,100.22,84.62,2021-11-14
+Pherzawl,Manipur,101.71,85.96,2021-11-14
+Senapati,Manipur,100.31,84.7,2021-11-14
+Tamenglong,Manipur,101.3,85.59,2021-11-14
+Tengnoupal,Manipur,100.78,85.13,2021-11-14
+Thoubal,Manipur,99.96,84.39,2021-11-14
+Ukhrul,Manipur,100.6,84.96,2021-11-14
+West Imphal,Manipur,99.82,84.26,2021-11-14
+Bishnupur,Manipur,99.77,84.21,2021-11-16
+Chandel,Manipur,100.3,84.69,2021-11-16
+Churachandpur,Manipur,99.87,84.3,2021-11-16
+East Imphal,Manipur,99.9,84.33,2021-11-16
+Jiribam,Manipur,101.91,86.15,2021-11-16
+Kakching,Manipur,100.45,84.83,2021-11-16
+Kangpokpi,Manipur,100.15,84.55,2021-11-16
+Noney,Manipur,100.22,84.62,2021-11-16
+Pherzawl,Manipur,101.71,85.96,2021-11-16
+Senapati,Manipur,100.73,85.08,2021-11-16
+Tamenglong,Manipur,101.3,85.59,2021-11-16
+Tengnoupal,Manipur,100.78,85.13,2021-11-16
+Thoubal,Manipur,99.87,84.3,2021-11-16
+Ukhrul,Manipur,100.6,84.96,2021-11-16
+West Imphal,Manipur,99.77,84.21,2021-11-16
+Bishnupur,Manipur,99.77,84.21,2021-11-17
+Chandel,Manipur,100.3,84.69,2021-11-17
+Churachandpur,Manipur,100.26,84.65,2021-11-17
+East Imphal,Manipur,99.82,84.26,2021-11-17
+Jiribam,Manipur,101.91,86.15,2021-11-17
+Kakching,Manipur,100.14,84.54,2021-11-17
+Kangpokpi,Manipur,100.15,84.55,2021-11-17
+Noney,Manipur,100.22,84.62,2021-11-17
+Pherzawl,Manipur,101.71,85.96,2021-11-17
+Senapati,Manipur,100.73,85.08,2021-11-17
+Tamenglong,Manipur,100.91,85.24,2021-11-17
+Tengnoupal,Manipur,100.78,85.13,2021-11-17
+Thoubal,Manipur,99.87,84.3,2021-11-17
+Ukhrul,Manipur,100.6,84.96,2021-11-17
+West Imphal,Manipur,99.82,84.26,2021-11-17
+Bishnupur,Manipur,99.77,84.21,2021-11-19
+Chandel,Manipur,100.3,84.69,2021-11-19
+Churachandpur,Manipur,100.26,84.65,2021-11-19
+East Imphal,Manipur,99.82,84.26,2021-11-19
+Jiribam,Manipur,101.91,86.15,2021-11-19
+Kakching,Manipur,100.14,84.54,2021-11-19
+Kangpokpi,Manipur,100.15,84.55,2021-11-19
+Noney,Manipur,100.22,84.62,2021-11-19
+Pherzawl,Manipur,101.71,85.96,2021-11-19
+Senapati,Manipur,100.31,84.7,2021-11-19
+Tamenglong,Manipur,101.3,85.59,2021-11-19
+Tengnoupal,Manipur,100.78,85.13,2021-11-19
+Thoubal,Manipur,100.01,84.43,2021-11-19
+Ukhrul,Manipur,100.6,84.96,2021-11-19
+West Imphal,Manipur,99.82,84.26,2021-11-19
+Bishnupur,Manipur,99.87,84.3,2021-11-23
+Chandel,Manipur,100.3,84.69,2021-11-23
+Churachandpur,Manipur,100.26,84.65,2021-11-23
+East Imphal,Manipur,99.82,84.26,2021-11-23
+Jiribam,Manipur,101.91,86.15,2021-11-23
+Kakching,Manipur,100.14,84.54,2021-11-23
+Kangpokpi,Manipur,100.15,84.55,2021-11-23
+Noney,Manipur,100.22,84.62,2021-11-23
+Pherzawl,Manipur,101.71,85.96,2021-11-23
+Senapati,Manipur,100.31,84.7,2021-11-23
+Tamenglong,Manipur,101.3,85.59,2021-11-23
+Tengnoupal,Manipur,100.78,85.13,2021-11-23
+Thoubal,Manipur,100.01,84.43,2021-11-23
+Ukhrul,Manipur,100.6,84.96,2021-11-23
+West Imphal,Manipur,99.77,84.21,2021-11-23
+Bishnupur,Manipur,99.87,84.3,2021-11-24
+Chandel,Manipur,100.3,84.69,2021-11-24
+Churachandpur,Manipur,100.26,84.65,2021-11-24
+East Imphal,Manipur,99.9,84.33,2021-11-24
+Jiribam,Manipur,101.91,86.15,2021-11-24
+Kakching,Manipur,100.14,84.54,2021-11-24
+Kangpokpi,Manipur,100.15,84.55,2021-11-24
+Noney,Manipur,100.22,84.62,2021-11-24
+Pherzawl,Manipur,101.71,85.96,2021-11-24
+Senapati,Manipur,100.31,84.7,2021-11-24
+Tamenglong,Manipur,101.3,85.59,2021-11-24
+Tengnoupal,Manipur,100.78,85.13,2021-11-24
+Thoubal,Manipur,99.87,84.3,2021-11-24
+Ukhrul,Manipur,100.6,84.96,2021-11-24
+West Imphal,Manipur,99.77,84.21,2021-11-24
+Bishnupur,Manipur,99.77,84.21,2021-11-29
+Chandel,Manipur,100.3,84.69,2021-11-29
+Churachandpur,Manipur,100.26,84.65,2021-11-29
+East Imphal,Manipur,99.82,84.26,2021-11-29
+Jiribam,Manipur,101.91,86.15,2021-11-29
+Kakching,Manipur,100.14,84.54,2021-11-29
+Kangpokpi,Manipur,100.15,84.55,2021-11-29
+Noney,Manipur,100.22,84.62,2021-11-29
+Pherzawl,Manipur,101.71,85.96,2021-11-29
+Senapati,Manipur,100.73,85.08,2021-11-29
+Tamenglong,Manipur,101.3,85.59,2021-11-29
+Tengnoupal,Manipur,100.78,85.13,2021-11-29
+Thoubal,Manipur,100.01,84.43,2021-11-29
+Ukhrul,Manipur,100.6,84.96,2021-11-29
+West Imphal,Manipur,99.77,84.21,2021-11-29
+Bishnupur,Manipur,99.87,84.3,2021-12-01
+Chandel,Manipur,100.3,84.69,2021-12-01
+Churachandpur,Manipur,100.26,84.65,2021-12-01
+East Imphal,Manipur,99.82,84.26,2021-12-01
+Jiribam,Manipur,101.91,86.15,2021-12-01
+Kakching,Manipur,100.14,84.54,2021-12-01
+Kangpokpi,Manipur,100.15,84.55,2021-12-01
+Noney,Manipur,100.22,84.62,2021-12-01
+Pherzawl,Manipur,101.71,85.96,2021-12-01
+Senapati,Manipur,100.73,85.08,2021-12-01
+Tamenglong,Manipur,101.3,85.59,2021-12-01
+Tengnoupal,Manipur,100.78,85.13,2021-12-01
+Thoubal,Manipur,100.01,84.43,2021-12-01
+Ukhrul,Manipur,100.6,84.96,2021-12-01
+West Imphal,Manipur,100.15,84.55,2021-12-01
+Bishnupur,Manipur,99.77,84.21,2021-12-02
+Chandel,Manipur,100.3,84.69,2021-12-02
+Churachandpur,Manipur,100.26,84.65,2021-12-02
+East Imphal,Manipur,99.82,84.26,2021-12-02
+Jiribam,Manipur,101.91,86.15,2021-12-02
+Kakching,Manipur,100.45,84.83,2021-12-02
+Kangpokpi,Manipur,100.19,84.6,2021-12-02
+Noney,Manipur,100.22,84.62,2021-12-02
+Pherzawl,Manipur,101.71,85.96,2021-12-02
+Senapati,Manipur,100.31,84.7,2021-12-02
+Tamenglong,Manipur,101.3,85.59,2021-12-02
+Tengnoupal,Manipur,100.78,85.13,2021-12-02
+Thoubal,Manipur,99.96,84.39,2021-12-02
+Ukhrul,Manipur,100.6,84.96,2021-12-02
+West Imphal,Manipur,99.82,84.26,2021-12-02
+Bishnupur,Manipur,99.77,84.21,2021-12-03
+Chandel,Manipur,100.3,84.69,2021-12-03
+Churachandpur,Manipur,100.26,84.65,2021-12-03
+East Imphal,Manipur,99.82,84.26,2021-12-03
+Jiribam,Manipur,101.91,86.15,2021-12-03
+Kakching,Manipur,100.45,84.83,2021-12-03
+Kangpokpi,Manipur,100.19,84.6,2021-12-03
+Noney,Manipur,100.22,84.62,2021-12-03
+Pherzawl,Manipur,101.71,85.96,2021-12-03
+Senapati,Manipur,100.31,84.7,2021-12-03
+Tamenglong,Manipur,101.3,85.59,2021-12-03
+Tengnoupal,Manipur,100.78,85.13,2021-12-03
+Thoubal,Manipur,99.96,84.39,2021-12-03
+Ukhrul,Manipur,100.6,84.96,2021-12-03
+West Imphal,Manipur,99.82,84.26,2021-12-03
+Bishnupur,Manipur,99.87,84.3,2021-12-06
+Chandel,Manipur,100.3,84.69,2021-12-06
+Churachandpur,Manipur,100.26,84.65,2021-12-06
+East Imphal,Manipur,99.82,84.26,2021-12-06
+Jiribam,Manipur,101.91,86.15,2021-12-06
+Kakching,Manipur,100.14,84.54,2021-12-06
+Kangpokpi,Manipur,100.19,84.6,2021-12-06
+Noney,Manipur,100.22,84.62,2021-12-06
+Pherzawl,Manipur,101.71,85.96,2021-12-06
+Senapati,Manipur,100.73,85.08,2021-12-06
+Tamenglong,Manipur,101.3,85.59,2021-12-06
+Tengnoupal,Manipur,100.78,85.13,2021-12-06
+Thoubal,Manipur,99.96,84.39,2021-12-06
+Ukhrul,Manipur,100.6,84.96,2021-12-06
+West Imphal,Manipur,99.87,84.3,2021-12-06
+Bishnupur,Manipur,99.77,84.21,2021-12-22
+Chandel,Manipur,100.3,84.69,2021-12-22
+Churachandpur,Manipur,100.26,84.65,2021-12-22
+East Imphal,Manipur,99.82,84.26,2021-12-22
+Jiribam,Manipur,101.91,86.15,2021-12-22
+Kakching,Manipur,100.14,84.54,2021-12-22
+Kangpokpi,Manipur,100.19,84.6,2021-12-22
+Noney,Manipur,100.22,84.62,2021-12-22
+Pherzawl,Manipur,101.71,85.96,2021-12-22
+Senapati,Manipur,100.73,85.08,2021-12-22
+Tamenglong,Manipur,101.3,85.59,2021-12-22
+Tengnoupal,Manipur,100.78,85.13,2021-12-22
+Thoubal,Manipur,100.01,84.43,2021-12-22
+Ukhrul,Manipur,100.6,84.96,2021-12-22
+West Imphal,Manipur,99.82,84.26,2021-12-22
+Bishnupur,Manipur,99.77,84.21,2021-12-29
+Chandel,Manipur,100.3,84.69,2021-12-29
+Churachandpur,Manipur,99.87,84.3,2021-12-29
+East Imphal,Manipur,99.96,84.39,2021-12-29
+Jiribam,Manipur,101.91,86.15,2021-12-29
+Kakching,Manipur,100.14,84.54,2021-12-29
+Kangpokpi,Manipur,100.19,84.6,2021-12-29
+Noney,Manipur,100.22,84.62,2021-12-29
+Pherzawl,Manipur,101.71,85.96,2021-12-29
+Senapati,Manipur,100.73,85.08,2021-12-29
+Tamenglong,Manipur,101.3,85.59,2021-12-29
+Tengnoupal,Manipur,100.78,85.13,2021-12-29
+Thoubal,Manipur,100.01,84.43,2021-12-29
+Ukhrul,Manipur,100.6,84.96,2021-12-29
+West Imphal,Manipur,99.77,84.21,2021-12-29

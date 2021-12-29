@@ -1,0 +1,313 @@
+City,State,Petrol_Rate,Diesel_Rate,Date
+Almora,Uttarakhand,104.17,97.74,2021-10-27
+Bageshwar,Uttarakhand,104.65,98.24,2021-10-27
+Chamoli,Uttarakhand,106.24,99.67,2021-10-27
+Champawat,Uttarakhand,105.18,98.57,2021-10-27
+Dehradun,Uttarakhand,103.62,97.27,2021-10-27
+Haridwar,Uttarakhand,103.11,96.82,2021-10-27
+Nainital,Uttarakhand,103.17,96.88,2021-10-27
+Pauri,Uttarakhand,104.04,97.68,2021-10-27
+Pithoragarh,Uttarakhand,105.77,99.13,2021-10-27
+Rudraprayag,Uttarakhand,106.16,99.57,2021-10-27
+Tehri Garhwal,Uttarakhand,105.42,98.93,2021-10-27
+Udham Singh Nagar,Uttarakhand,103.83,97.51,2021-10-27
+Uttarkashi,Uttarakhand,105.44,98.91,2021-10-27
+Almora,Uttarakhand,104.47,98.04,2021-10-28
+Bageshwar,Uttarakhand,104.99,98.59,2021-10-28
+Chamoli,Uttarakhand,106.9,100.23,2021-10-28
+Champawat,Uttarakhand,104.32,98.0,2021-10-28
+Dehradun,Uttarakhand,104.12,97.76,2021-10-28
+Haridwar,Uttarakhand,103.35,97.09,2021-10-28
+Nainital,Uttarakhand,103.6,97.33,2021-10-28
+Pauri,Uttarakhand,105.38,98.9,2021-10-28
+Pithoragarh,Uttarakhand,106.1,99.49,2021-10-28
+Rudraprayag,Uttarakhand,106.17,99.64,2021-10-28
+Tehri Garhwal,Uttarakhand,104.74,98.26,2021-10-28
+Udham Singh Nagar,Uttarakhand,103.81,97.53,2021-10-28
+Uttarkashi,Uttarakhand,105.47,98.98,2021-10-28
+Almora,Uttarakhand,104.81,98.39,2021-10-29
+Bageshwar,Uttarakhand,105.33,98.94,2021-10-29
+Chamoli,Uttarakhand,107.24,100.58,2021-10-29
+Champawat,Uttarakhand,105.62,99.21,2021-10-29
+Dehradun,Uttarakhand,104.59,98.24,2021-10-29
+Haridwar,Uttarakhand,103.78,97.53,2021-10-29
+Nainital,Uttarakhand,103.8,97.56,2021-10-29
+Pauri,Uttarakhand,105.72,99.25,2021-10-29
+Pithoragarh,Uttarakhand,105.66,99.3,2021-10-29
+Rudraprayag,Uttarakhand,106.93,100.37,2021-10-29
+Tehri Garhwal,Uttarakhand,105.68,99.23,2021-10-29
+Udham Singh Nagar,Uttarakhand,104.51,98.21,2021-10-29
+Uttarkashi,Uttarakhand,106.11,99.61,2021-10-29
+Almora,Uttarakhand,104.81,0.0,2021-10-30
+Bageshwar,Uttarakhand,105.33,0.0,2021-10-30
+Chamoli,Uttarakhand,107.24,0.0,2021-10-30
+Champawat,Uttarakhand,105.62,0.0,2021-10-30
+Dehradun,Uttarakhand,104.59,0.0,2021-10-30
+Haridwar,Uttarakhand,103.78,0.0,2021-10-30
+Nainital,Uttarakhand,103.8,0.0,2021-10-30
+Pauri,Uttarakhand,105.72,0.0,2021-10-30
+Pithoragarh,Uttarakhand,105.66,0.0,2021-10-30
+Rudraprayag,Uttarakhand,106.93,0.0,2021-10-30
+Tehri Garhwal,Uttarakhand,105.68,0.0,2021-10-30
+Udham Singh Nagar,Uttarakhand,104.51,0.0,2021-10-30
+Uttarkashi,Uttarakhand,106.11,0.0,2021-10-30
+Almora,Uttarakhand,105.97,99.6,2021-11-01
+Bageshwar,Uttarakhand,106.46,100.11,2021-11-01
+Chamoli,Uttarakhand,107.07,100.71,2021-11-01
+Champawat,Uttarakhand,106.78,100.39,2021-11-01
+Dehradun,Uttarakhand,105.53,99.21,2021-11-01
+Haridwar,Uttarakhand,104.78,98.58,2021-11-01
+Nainital,Uttarakhand,104.82,98.62,2021-11-01
+Pauri,Uttarakhand,106.39,100.04,2021-11-01
+Pithoragarh,Uttarakhand,107.73,101.12,2021-11-01
+Rudraprayag,Uttarakhand,108.1,101.56,2021-11-01
+Tehri Garhwal,Uttarakhand,106.6,100.12,2021-11-01
+Udham Singh Nagar,Uttarakhand,105.23,99.01,2021-11-01
+Uttarkashi,Uttarakhand,106.93,100.49,2021-11-01
+Almora,Uttarakhand,102.42,0.0,2021-11-04
+Bageshwar,Uttarakhand,102.98,0.0,2021-11-04
+Chamoli,Uttarakhand,105.04,0.0,2021-11-04
+Champawat,Uttarakhand,102.31,0.0,2021-11-04
+Dehradun,Uttarakhand,101.97,0.0,2021-11-04
+Haridwar,Uttarakhand,101.39,0.0,2021-11-04
+Nainital,Uttarakhand,101.56,0.0,2021-11-04
+Pauri,Uttarakhand,102.41,0.0,2021-11-04
+Pithoragarh,Uttarakhand,104.09,0.0,2021-11-04
+Rudraprayag,Uttarakhand,104.16,0.0,2021-11-04
+Tehri Garhwal,Uttarakhand,103.74,0.0,2021-11-04
+Udham Singh Nagar,Uttarakhand,101.87,0.0,2021-11-04
+Uttarkashi,Uttarakhand,103.46,0.0,2021-11-04
+Almora,Uttarakhand,94.26,87.49,2021-11-07
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-07
+Chamoli,Uttarakhand,96.02,89.3,2021-11-07
+Champawat,Uttarakhand,94.98,88.33,2021-11-07
+Dehradun,Uttarakhand,93.8,87.19,2021-11-07
+Haridwar,Uttarakhand,93.16,86.45,2021-11-07
+Nainital,Uttarakhand,93.28,86.6,2021-11-07
+Pauri,Uttarakhand,95.11,88.4,2021-11-07
+Pithoragarh,Uttarakhand,96.41,89.64,2021-11-07
+Rudraprayag,Uttarakhand,95.89,89.18,2021-11-07
+Tehri Garhwal,Uttarakhand,95.06,88.37,2021-11-07
+Udham Singh Nagar,Uttarakhand,93.55,86.91,2021-11-07
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-07
+Almora,Uttarakhand,94.26,87.49,2021-11-08
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-08
+Chamoli,Uttarakhand,99.38,92.04,2021-11-08
+Champawat,Uttarakhand,93.98,87.41,2021-11-08
+Dehradun,Uttarakhand,93.87,87.16,2021-11-08
+Haridwar,Uttarakhand,93.25,86.55,2021-11-08
+Nainital,Uttarakhand,93.37,86.7,2021-11-08
+Pauri,Uttarakhand,94.08,87.5,2021-11-08
+Pithoragarh,Uttarakhand,95.91,89.06,2021-11-08
+Rudraprayag,Uttarakhand,96.23,89.49,2021-11-08
+Tehri Garhwal,Uttarakhand,95.45,88.79,2021-11-08
+Udham Singh Nagar,Uttarakhand,93.85,87.26,2021-11-08
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-08
+Almora,Uttarakhand,94.3,87.68,2021-11-09
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-09
+Chamoli,Uttarakhand,96.7,89.85,2021-11-09
+Champawat,Uttarakhand,94.98,88.33,2021-11-09
+Dehradun,Uttarakhand,93.76,87.04,2021-11-09
+Haridwar,Uttarakhand,93.29,86.59,2021-11-09
+Nainital,Uttarakhand,93.72,87.11,2021-11-09
+Pauri,Uttarakhand,95.11,88.4,2021-11-09
+Pithoragarh,Uttarakhand,96.41,89.64,2021-11-09
+Rudraprayag,Uttarakhand,95.89,89.18,2021-11-09
+Tehri Garhwal,Uttarakhand,95.06,88.37,2021-11-09
+Udham Singh Nagar,Uttarakhand,93.85,87.26,2021-11-09
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-09
+Almora,Uttarakhand,94.09,87.52,2021-11-11
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-11
+Chamoli,Uttarakhand,96.81,90.02,2021-11-11
+Champawat,Uttarakhand,93.98,87.41,2021-11-11
+Dehradun,Uttarakhand,93.88,87.18,2021-11-11
+Haridwar,Uttarakhand,93.19,86.48,2021-11-11
+Nainital,Uttarakhand,93.25,86.57,2021-11-11
+Pauri,Uttarakhand,95.11,88.4,2021-11-11
+Pithoragarh,Uttarakhand,95.91,89.06,2021-11-11
+Rudraprayag,Uttarakhand,95.89,89.18,2021-11-11
+Tehri Garhwal,Uttarakhand,94.51,87.74,2021-11-11
+Udham Singh Nagar,Uttarakhand,93.34,86.67,2021-11-11
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-11
+Almora,Uttarakhand,94.26,87.54,2021-11-12
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-12
+Chamoli,Uttarakhand,95.23,88.65,2021-11-12
+Champawat,Uttarakhand,93.98,87.41,2021-11-12
+Dehradun,Uttarakhand,94.0,87.32,2021-11-12
+Haridwar,Uttarakhand,93.16,86.45,2021-11-12
+Nainital,Uttarakhand,93.25,86.57,2021-11-12
+Pauri,Uttarakhand,94.05,87.46,2021-11-12
+Pithoragarh,Uttarakhand,96.41,89.64,2021-11-12
+Rudraprayag,Uttarakhand,96.23,89.49,2021-11-12
+Tehri Garhwal,Uttarakhand,94.83,88.06,2021-11-12
+Udham Singh Nagar,Uttarakhand,93.55,86.91,2021-11-12
+Uttarkashi,Uttarakhand,95.5,88.78,2021-11-12
+Almora,Uttarakhand,94.26,87.49,2021-11-14
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-14
+Chamoli,Uttarakhand,96.7,89.85,2021-11-14
+Champawat,Uttarakhand,93.98,87.41,2021-11-14
+Dehradun,Uttarakhand,94.0,87.32,2021-11-14
+Haridwar,Uttarakhand,93.16,86.45,2021-11-14
+Nainital,Uttarakhand,93.25,86.57,2021-11-14
+Pauri,Uttarakhand,95.11,88.4,2021-11-14
+Pithoragarh,Uttarakhand,95.91,89.06,2021-11-14
+Rudraprayag,Uttarakhand,95.89,89.18,2021-11-14
+Tehri Garhwal,Uttarakhand,94.51,87.74,2021-11-14
+Udham Singh Nagar,Uttarakhand,93.34,86.67,2021-11-14
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-14
+Almora,Uttarakhand,94.3,87.68,2021-11-16
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-16
+Chamoli,Uttarakhand,96.81,90.02,2021-11-16
+Champawat,Uttarakhand,94.98,88.33,2021-11-16
+Dehradun,Uttarakhand,94.15,87.53,2021-11-16
+Haridwar,Uttarakhand,93.16,86.45,2021-11-16
+Nainital,Uttarakhand,93.28,86.6,2021-11-16
+Pauri,Uttarakhand,94.05,87.46,2021-11-16
+Pithoragarh,Uttarakhand,96.41,89.64,2021-11-16
+Rudraprayag,Uttarakhand,96.23,89.49,2021-11-16
+Tehri Garhwal,Uttarakhand,95.06,88.37,2021-11-16
+Udham Singh Nagar,Uttarakhand,93.55,86.91,2021-11-16
+Uttarkashi,Uttarakhand,95.48,88.73,2021-11-16
+Almora,Uttarakhand,94.26,87.54,2021-11-17
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-17
+Chamoli,Uttarakhand,95.93,89.23,2021-11-17
+Champawat,Uttarakhand,95.34,88.47,2021-11-17
+Dehradun,Uttarakhand,94.0,87.32,2021-11-17
+Haridwar,Uttarakhand,93.25,86.55,2021-11-17
+Nainital,Uttarakhand,93.62,86.99,2021-11-17
+Pauri,Uttarakhand,94.05,87.46,2021-11-17
+Pithoragarh,Uttarakhand,96.41,89.64,2021-11-17
+Rudraprayag,Uttarakhand,96.33,89.59,2021-11-17
+Tehri Garhwal,Uttarakhand,93.83,87.14,2021-11-17
+Udham Singh Nagar,Uttarakhand,93.61,86.98,2021-11-17
+Uttarkashi,Uttarakhand,95.5,88.78,2021-11-17
+Almora,Uttarakhand,94.09,87.52,2021-11-19
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-19
+Chamoli,Uttarakhand,96.7,89.85,2021-11-19
+Champawat,Uttarakhand,93.98,87.41,2021-11-19
+Dehradun,Uttarakhand,95.02,88.14,2021-11-19
+Haridwar,Uttarakhand,93.21,86.5,2021-11-19
+Nainital,Uttarakhand,93.25,86.57,2021-11-19
+Pauri,Uttarakhand,95.11,88.4,2021-11-19
+Pithoragarh,Uttarakhand,95.91,89.06,2021-11-19
+Rudraprayag,Uttarakhand,95.89,89.18,2021-11-19
+Tehri Garhwal,Uttarakhand,94.51,87.74,2021-11-19
+Udham Singh Nagar,Uttarakhand,93.85,87.26,2021-11-19
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-19
+Almora,Uttarakhand,94.26,87.49,2021-11-23
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-23
+Chamoli,Uttarakhand,96.02,89.3,2021-11-23
+Champawat,Uttarakhand,93.98,87.41,2021-11-23
+Dehradun,Uttarakhand,93.99,87.31,2021-11-23
+Haridwar,Uttarakhand,93.21,86.5,2021-11-23
+Nainital,Uttarakhand,93.31,86.62,2021-11-23
+Pauri,Uttarakhand,94.05,87.46,2021-11-23
+Pithoragarh,Uttarakhand,95.91,89.06,2021-11-23
+Rudraprayag,Uttarakhand,95.89,89.18,2021-11-23
+Tehri Garhwal,Uttarakhand,95.06,88.37,2021-11-23
+Udham Singh Nagar,Uttarakhand,93.58,86.94,2021-11-23
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-23
+Almora,Uttarakhand,94.26,87.49,2021-11-24
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-24
+Chamoli,Uttarakhand,96.02,89.3,2021-11-24
+Champawat,Uttarakhand,93.98,87.41,2021-11-24
+Dehradun,Uttarakhand,93.99,87.31,2021-11-24
+Haridwar,Uttarakhand,93.21,86.5,2021-11-24
+Nainital,Uttarakhand,93.31,86.62,2021-11-24
+Pauri,Uttarakhand,94.05,87.46,2021-11-24
+Pithoragarh,Uttarakhand,95.91,89.06,2021-11-24
+Rudraprayag,Uttarakhand,95.89,89.18,2021-11-24
+Tehri Garhwal,Uttarakhand,95.06,88.37,2021-11-24
+Udham Singh Nagar,Uttarakhand,93.58,86.94,2021-11-24
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-24
+Almora,Uttarakhand,94.09,87.52,2021-11-29
+Bageshwar,Uttarakhand,94.67,88.05,2021-11-29
+Chamoli,Uttarakhand,96.7,89.85,2021-11-29
+Champawat,Uttarakhand,93.98,87.41,2021-11-29
+Dehradun,Uttarakhand,95.02,88.14,2021-11-29
+Haridwar,Uttarakhand,93.21,86.5,2021-11-29
+Nainital,Uttarakhand,93.25,86.57,2021-11-29
+Pauri,Uttarakhand,95.11,88.4,2021-11-29
+Pithoragarh,Uttarakhand,95.91,89.06,2021-11-29
+Rudraprayag,Uttarakhand,95.89,89.18,2021-11-29
+Tehri Garhwal,Uttarakhand,94.51,87.74,2021-11-29
+Udham Singh Nagar,Uttarakhand,93.64,87.01,2021-11-29
+Uttarkashi,Uttarakhand,95.2,88.49,2021-11-29
+Almora,Uttarakhand,94.26,87.49,2021-12-01
+Bageshwar,Uttarakhand,94.67,88.05,2021-12-01
+Chamoli,Uttarakhand,96.7,89.85,2021-12-01
+Champawat,Uttarakhand,93.98,87.41,2021-12-01
+Dehradun,Uttarakhand,93.95,87.29,2021-12-01
+Haridwar,Uttarakhand,93.16,86.45,2021-12-01
+Nainital,Uttarakhand,93.25,86.57,2021-12-01
+Pauri,Uttarakhand,95.11,88.4,2021-12-01
+Pithoragarh,Uttarakhand,96.41,89.64,2021-12-01
+Rudraprayag,Uttarakhand,96.23,89.49,2021-12-01
+Tehri Garhwal,Uttarakhand,94.73,87.96,2021-12-01
+Udham Singh Nagar,Uttarakhand,93.61,86.98,2021-12-01
+Uttarkashi,Uttarakhand,95.5,88.78,2021-12-01
+Almora,Uttarakhand,94.09,87.52,2021-12-02
+Bageshwar,Uttarakhand,94.67,88.05,2021-12-02
+Chamoli,Uttarakhand,96.7,89.85,2021-12-02
+Champawat,Uttarakhand,93.98,87.41,2021-12-02
+Dehradun,Uttarakhand,93.8,87.19,2021-12-02
+Haridwar,Uttarakhand,93.31,86.62,2021-12-02
+Nainital,Uttarakhand,93.28,86.6,2021-12-02
+Pauri,Uttarakhand,95.2,88.5,2021-12-02
+Pithoragarh,Uttarakhand,94.98,88.41,2021-12-02
+Rudraprayag,Uttarakhand,95.89,89.18,2021-12-02
+Tehri Garhwal,Uttarakhand,94.73,87.96,2021-12-02
+Udham Singh Nagar,Uttarakhand,93.59,86.95,2021-12-02
+Uttarkashi,Uttarakhand,95.5,88.78,2021-12-02
+Almora,Uttarakhand,94.09,87.52,2021-12-03
+Bageshwar,Uttarakhand,94.67,88.05,2021-12-03
+Chamoli,Uttarakhand,96.7,89.85,2021-12-03
+Champawat,Uttarakhand,93.98,87.41,2021-12-03
+Dehradun,Uttarakhand,93.8,87.19,2021-12-03
+Haridwar,Uttarakhand,93.31,86.62,2021-12-03
+Nainital,Uttarakhand,93.28,86.6,2021-12-03
+Pauri,Uttarakhand,95.2,88.5,2021-12-03
+Pithoragarh,Uttarakhand,94.98,88.41,2021-12-03
+Rudraprayag,Uttarakhand,95.89,89.18,2021-12-03
+Tehri Garhwal,Uttarakhand,94.73,87.96,2021-12-03
+Udham Singh Nagar,Uttarakhand,93.59,86.95,2021-12-03
+Uttarkashi,Uttarakhand,95.5,88.78,2021-12-03
+Almora,Uttarakhand,94.26,87.49,2021-12-06
+Bageshwar,Uttarakhand,94.67,88.05,2021-12-06
+Chamoli,Uttarakhand,95.23,88.65,2021-12-06
+Champawat,Uttarakhand,93.98,87.41,2021-12-06
+Dehradun,Uttarakhand,94.0,87.32,2021-12-06
+Haridwar,Uttarakhand,93.24,86.54,2021-12-06
+Nainital,Uttarakhand,93.25,86.57,2021-12-06
+Pauri,Uttarakhand,94.05,87.46,2021-12-06
+Pithoragarh,Uttarakhand,96.41,89.64,2021-12-06
+Rudraprayag,Uttarakhand,95.89,89.18,2021-12-06
+Tehri Garhwal,Uttarakhand,93.73,87.03,2021-12-06
+Udham Singh Nagar,Uttarakhand,93.59,86.95,2021-12-06
+Uttarkashi,Uttarakhand,95.5,88.78,2021-12-06
+Almora,Uttarakhand,94.26,87.49,2021-12-22
+Bageshwar,Uttarakhand,94.67,88.05,2021-12-22
+Chamoli,Uttarakhand,96.7,89.85,2021-12-22
+Champawat,Uttarakhand,93.98,87.41,2021-12-22
+Dehradun,Uttarakhand,94.0,87.32,2021-12-22
+Haridwar,Uttarakhand,93.16,86.45,2021-12-22
+Nainital,Uttarakhand,93.72,87.11,2021-12-22
+Pauri,Uttarakhand,94.05,87.46,2021-12-22
+Pithoragarh,Uttarakhand,96.41,89.64,2021-12-22
+Rudraprayag,Uttarakhand,95.89,89.18,2021-12-22
+Tehri Garhwal,Uttarakhand,93.73,87.03,2021-12-22
+Udham Singh Nagar,Uttarakhand,93.61,86.98,2021-12-22
+Uttarkashi,Uttarakhand,95.2,88.49,2021-12-22
+Almora,Uttarakhand,94.26,87.49,2021-12-29
+Bageshwar,Uttarakhand,94.67,88.05,2021-12-29
+Chamoli,Uttarakhand,96.7,89.85,2021-12-29
+Champawat,Uttarakhand,93.98,87.41,2021-12-29
+Dehradun,Uttarakhand,93.73,87.03,2021-12-29
+Haridwar,Uttarakhand,93.16,86.45,2021-12-29
+Nainital,Uttarakhand,93.72,87.11,2021-12-29
+Pauri,Uttarakhand,94.05,87.46,2021-12-29
+Pithoragarh,Uttarakhand,96.41,89.64,2021-12-29
+Rudraprayag,Uttarakhand,95.89,89.18,2021-12-29
+Tehri Garhwal,Uttarakhand,93.73,87.03,2021-12-29
+Udham Singh Nagar,Uttarakhand,93.87,87.29,2021-12-29
+Uttarkashi,Uttarakhand,95.2,88.49,2021-12-29

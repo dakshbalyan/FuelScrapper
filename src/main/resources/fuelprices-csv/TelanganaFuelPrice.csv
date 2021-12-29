@@ -1,0 +1,792 @@
+City,State,Petrol_Rate,Diesel_Rate,Date
+Adilabad,Telangana,114.51,107.54,2021-10-27
+Bhadradri Kothagudem,Telangana,113.29,106.41,2021-10-27
+Hyderabad,Telangana,112.27,105.46,2021-10-27
+Jagitial,Telangana,113.0,106.13,2021-10-27
+Jangaon,Telangana,112.04,105.24,2021-10-27
+Jayashankar Bhupalpa,Telangana,112.08,105.28,2021-10-27
+Jogulamba Gadwal,Telangana,114.07,107.13,2021-10-27
+Kamareddy,Telangana,113.52,106.62,2021-10-27
+Karim Nagar,Telangana,112.44,105.61,2021-10-27
+Khammam,Telangana,112.35,105.52,2021-10-27
+Komram Bheem Asifaba,Telangana,114.07,107.13,2021-10-27
+Mahabubabad,Telangana,112.57,105.73,2021-10-27
+Mancherial,Telangana,113.18,106.29,2021-10-27
+Medak,Telangana,112.7,105.86,2021-10-27
+Medchal Malkajgiri,Telangana,112.27,105.46,2021-10-27
+Mehabubnagar,Telangana,113.45,106.56,2021-10-27
+Mulugu,Telangana,112.17,105.36,2021-10-27
+Nagarkurnool,Telangana,113.88,106.96,2021-10-27
+Nalgonda,Telangana,112.25,105.41,2021-10-27
+Narayanpet,Telangana,113.34,106.46,2021-10-27
+Nirmal,Telangana,113.75,106.83,2021-10-27
+Nizamabad,Telangana,114.05,107.11,2021-10-27
+Peddapalli,Telangana,112.58,105.74,2021-10-27
+Rajanna Sircilla,Telangana,112.84,105.98,2021-10-27
+Rangareddi,Telangana,112.81,105.97,2021-10-27
+Sangareddy,Telangana,113.3,106.42,2021-10-27
+Siddipet,Telangana,112.7,105.86,2021-10-27
+Suryapet,Telangana,112.05,105.23,2021-10-27
+Vikarabad,Telangana,112.97,106.11,2021-10-27
+Wanaparthy,Telangana,113.78,106.87,2021-10-27
+Warangal,Telangana,111.79,105.0,2021-10-27
+Warangal Rural,Telangana,112.15,105.34,2021-10-27
+Yadadri Bhuvanagiri,Telangana,112.54,105.69,2021-10-27
+Adilabad,Telangana,114.88,107.93,2021-10-28
+Bhadradri Kothagudem,Telangana,114.22,107.31,2021-10-28
+Hyderabad,Telangana,112.64,105.84,2021-10-28
+Jagitial,Telangana,113.18,106.34,2021-10-28
+Jangaon,Telangana,112.78,105.97,2021-10-28
+Jayashankar Bhupalpa,Telangana,112.78,105.96,2021-10-28
+Jogulamba Gadwal,Telangana,114.8,107.86,2021-10-28
+Kamareddy,Telangana,113.72,106.85,2021-10-28
+Karim Nagar,Telangana,112.76,105.95,2021-10-28
+Khammam,Telangana,112.72,105.9,2021-10-28
+Komram Bheem Asifaba,Telangana,114.13,107.23,2021-10-28
+Mahabubabad,Telangana,112.51,105.72,2021-10-28
+Mancherial,Telangana,113.67,106.8,2021-10-28
+Medak,Telangana,113.24,106.41,2021-10-28
+Medchal Malkajgiri,Telangana,112.64,105.84,2021-10-28
+Mehabubnagar,Telangana,113.15,106.33,2021-10-28
+Mulugu,Telangana,112.91,106.09,2021-10-28
+Nagarkurnool,Telangana,113.37,106.53,2021-10-28
+Nalgonda,Telangana,112.68,105.86,2021-10-28
+Narayanpet,Telangana,114.53,107.61,2021-10-28
+Nirmal,Telangana,114.81,107.86,2021-10-28
+Nizamabad,Telangana,114.35,107.44,2021-10-28
+Peddapalli,Telangana,113.53,106.67,2021-10-28
+Rajanna Sircilla,Telangana,113.27,106.42,2021-10-28
+Rangareddi,Telangana,113.19,106.36,2021-10-28
+Sangareddy,Telangana,113.47,106.62,2021-10-28
+Siddipet,Telangana,113.07,106.24,2021-10-28
+Suryapet,Telangana,112.41,105.61,2021-10-28
+Vikarabad,Telangana,113.54,106.68,2021-10-28
+Wanaparthy,Telangana,114.15,107.25,2021-10-28
+Warangal,Telangana,112.15,105.38,2021-10-28
+Warangal Rural,Telangana,112.15,105.38,2021-10-28
+Yadadri Bhuvanagiri,Telangana,112.67,105.87,2021-10-28
+Adilabad,Telangana,115.45,108.5,2021-10-29
+Bhadradri Kothagudem,Telangana,113.58,106.75,2021-10-29
+Hyderabad,Telangana,113.0,106.22,2021-10-29
+Jagitial,Telangana,113.73,106.89,2021-10-29
+Jangaon,Telangana,112.68,105.92,2021-10-29
+Jayashankar Bhupalpa,Telangana,113.14,106.34,2021-10-29
+Jogulamba Gadwal,Telangana,114.89,107.99,2021-10-29
+Kamareddy,Telangana,114.76,107.86,2021-10-29
+Karim Nagar,Telangana,112.95,106.17,2021-10-29
+Khammam,Telangana,113.49,106.66,2021-10-29
+Komram Bheem Asifaba,Telangana,114.79,107.88,2021-10-29
+Mahabubabad,Telangana,113.4,106.59,2021-10-29
+Mancherial,Telangana,114.33,107.46,2021-10-29
+Medak,Telangana,113.74,106.92,2021-10-29
+Medchal Malkajgiri,Telangana,113.0,106.22,2021-10-29
+Mehabubnagar,Telangana,113.92,107.08,2021-10-29
+Mulugu,Telangana,112.9,106.12,2021-10-29
+Nagarkurnool,Telangana,114.29,107.43,2021-10-29
+Nalgonda,Telangana,112.82,106.03,2021-10-29
+Narayanpet,Telangana,114.76,107.87,2021-10-29
+Nirmal,Telangana,115.33,108.39,2021-10-29
+Nizamabad,Telangana,114.46,107.58,2021-10-29
+Peddapalli,Telangana,113.74,106.91,2021-10-29
+Rajanna Sircilla,Telangana,113.4,106.59,2021-10-29
+Rangareddi,Telangana,113.51,106.7,2021-10-29
+Sangareddy,Telangana,114.24,107.38,2021-10-29
+Siddipet,Telangana,113.37,106.56,2021-10-29
+Suryapet,Telangana,112.72,105.94,2021-10-29
+Vikarabad,Telangana,113.71,106.89,2021-10-29
+Wanaparthy,Telangana,114.35,107.48,2021-10-29
+Warangal,Telangana,112.54,105.78,2021-10-29
+Warangal Rural,Telangana,112.51,105.76,2021-10-29
+Yadadri Bhuvanagiri,Telangana,113.26,106.45,2021-10-29
+Adilabad,Telangana,115.45,108.5,2021-10-30
+Bhadradri Kothagudem,Telangana,113.58,106.75,2021-10-30
+Hyderabad,Telangana,113.0,106.22,2021-10-30
+Jagitial,Telangana,113.73,106.89,2021-10-30
+Jangaon,Telangana,112.68,105.92,2021-10-30
+Jayashankar Bhupalpa,Telangana,113.14,106.34,2021-10-30
+Jogulamba Gadwal,Telangana,114.89,107.99,2021-10-30
+Kamareddy,Telangana,114.76,107.86,2021-10-30
+Karim Nagar,Telangana,112.95,106.17,2021-10-30
+Khammam,Telangana,113.49,106.66,2021-10-30
+Komram Bheem Asifaba,Telangana,114.79,107.88,2021-10-30
+Mahabubabad,Telangana,113.4,106.59,2021-10-30
+Mancherial,Telangana,114.33,107.46,2021-10-30
+Medak,Telangana,113.74,106.92,2021-10-30
+Medchal Malkajgiri,Telangana,113.0,106.22,2021-10-30
+Mehabubnagar,Telangana,113.92,107.08,2021-10-30
+Mulugu,Telangana,112.9,106.12,2021-10-30
+Nagarkurnool,Telangana,114.29,107.43,2021-10-30
+Nalgonda,Telangana,112.82,106.03,2021-10-30
+Narayanpet,Telangana,114.76,107.87,2021-10-30
+Nirmal,Telangana,115.33,108.39,2021-10-30
+Nizamabad,Telangana,114.46,107.58,2021-10-30
+Peddapalli,Telangana,113.74,106.91,2021-10-30
+Rajanna Sircilla,Telangana,113.4,106.59,2021-10-30
+Rangareddi,Telangana,113.51,106.7,2021-10-30
+Sangareddy,Telangana,114.24,107.38,2021-10-30
+Siddipet,Telangana,113.37,106.56,2021-10-30
+Suryapet,Telangana,112.72,105.94,2021-10-30
+Vikarabad,Telangana,113.71,106.89,2021-10-30
+Wanaparthy,Telangana,114.35,107.48,2021-10-30
+Warangal,Telangana,112.54,105.78,2021-10-30
+Warangal Rural,Telangana,112.51,105.76,2021-10-30
+Yadadri Bhuvanagiri,Telangana,113.26,106.45,2021-10-30
+Adilabad,Telangana,115.91,109.06,2021-11-01
+Bhadradri Kothagudem,Telangana,115.42,108.58,2021-11-01
+Hyderabad,Telangana,114.12,107.4,2021-11-01
+Jagitial,Telangana,115.25,108.44,2021-11-01
+Jangaon,Telangana,113.68,106.97,2021-11-01
+Jayashankar Bhupalpa,Telangana,113.85,107.13,2021-11-01
+Jogulamba Gadwal,Telangana,116.37,109.49,2021-11-01
+Kamareddy,Telangana,115.28,108.47,2021-11-01
+Karim Nagar,Telangana,114.31,107.56,2021-11-01
+Khammam,Telangana,114.04,107.3,2021-11-01
+Komram Bheem Asifaba,Telangana,116.54,109.64,2021-11-01
+Mahabubabad,Telangana,114.38,107.62,2021-11-01
+Mancherial,Telangana,115.25,108.44,2021-11-01
+Medak,Telangana,114.43,107.68,2021-11-01
+Medchal Malkajgiri,Telangana,114.12,107.4,2021-11-01
+Mehabubnagar,Telangana,115.37,108.56,2021-11-01
+Mulugu,Telangana,115.42,108.6,2021-11-01
+Nagarkurnool,Telangana,114.73,107.96,2021-11-01
+Nalgonda,Telangana,114.1,107.36,2021-11-01
+Narayanpet,Telangana,115.26,108.45,2021-11-01
+Nirmal,Telangana,115.86,109.01,2021-11-01
+Nizamabad,Telangana,116.08,109.22,2021-11-01
+Peddapalli,Telangana,114.85,108.07,2021-11-01
+Rajanna Sircilla,Telangana,114.73,107.95,2021-11-01
+Rangareddi,Telangana,114.69,107.93,2021-11-01
+Sangareddy,Telangana,114.29,107.56,2021-11-01
+Siddipet,Telangana,114.36,107.62,2021-11-01
+Suryapet,Telangana,113.59,106.88,2021-11-01
+Vikarabad,Telangana,115.08,108.29,2021-11-01
+Wanaparthy,Telangana,115.73,108.89,2021-11-01
+Warangal,Telangana,113.83,107.11,2021-11-01
+Warangal Rural,Telangana,114.0,107.27,2021-11-01
+Yadadri Bhuvanagiri,Telangana,114.44,107.67,2021-11-01
+Adilabad,Telangana,116.9,0.0,2021-11-04
+Bhadradri Kothagudem,Telangana,115.11,0.0,2021-11-04
+Hyderabad,Telangana,114.49,0.0,2021-11-04
+Jagitial,Telangana,115.27,0.0,2021-11-04
+Jangaon,Telangana,114.66,0.0,2021-11-04
+Jayashankar Bhupalpa,Telangana,114.93,0.0,2021-11-04
+Jogulamba Gadwal,Telangana,116.79,0.0,2021-11-04
+Kamareddy,Telangana,115.43,0.0,2021-11-04
+Karim Nagar,Telangana,114.86,0.0,2021-11-04
+Khammam,Telangana,114.27,0.0,2021-11-04
+Komram Bheem Asifaba,Telangana,116.88,0.0,2021-11-04
+Mahabubabad,Telangana,114.39,0.0,2021-11-04
+Mancherial,Telangana,115.46,0.0,2021-11-04
+Medak,Telangana,115.66,0.0,2021-11-04
+Medchal Malkajgiri,Telangana,114.09,0.0,2021-11-04
+Mehabubnagar,Telangana,115.53,0.0,2021-11-04
+Mulugu,Telangana,114.99,0.0,2021-11-04
+Nagarkurnool,Telangana,115.46,0.0,2021-11-04
+Nalgonda,Telangana,114.91,0.0,2021-11-04
+Narayanpet,Telangana,115.63,0.0,2021-11-04
+Nirmal,Telangana,116.71,0.0,2021-11-04
+Nizamabad,Telangana,116.39,0.0,2021-11-04
+Peddapalli,Telangana,115.12,0.0,2021-11-04
+Rajanna Sircilla,Telangana,115.17,0.0,2021-11-04
+Rangareddi,Telangana,115.01,0.0,2021-11-04
+Sangareddy,Telangana,115.58,0.0,2021-11-04
+Siddipet,Telangana,114.99,0.0,2021-11-04
+Suryapet,Telangana,113.93,0.0,2021-11-04
+Vikarabad,Telangana,115.24,0.0,2021-11-04
+Wanaparthy,Telangana,116.36,0.0,2021-11-04
+Warangal,Telangana,113.99,0.0,2021-11-04
+Warangal Rural,Telangana,114.06,0.0,2021-11-04
+Yadadri Bhuvanagiri,Telangana,114.73,0.0,2021-11-04
+Adilabad,Telangana,110.41,96.68,2021-11-07
+Bhadradri Kothagudem,Telangana,108.82,95.19,2021-11-07
+Hyderabad,Telangana,108.2,94.62,2021-11-07
+Jagitial,Telangana,108.69,95.07,2021-11-07
+Jangaon,Telangana,107.87,94.3,2021-11-07
+Jayashankar Bhupalpa,Telangana,108.63,95.01,2021-11-07
+Jogulamba Gadwal,Telangana,110.42,96.69,2021-11-07
+Kamareddy,Telangana,110.35,96.62,2021-11-07
+Karim Nagar,Telangana,108.38,94.78,2021-11-07
+Khammam,Telangana,108.29,94.69,2021-11-07
+Komram Bheem Asifaba,Telangana,110.11,96.4,2021-11-07
+Mahabubabad,Telangana,108.19,94.61,2021-11-07
+Mancherial,Telangana,109.72,96.03,2021-11-07
+Medak,Telangana,108.66,95.05,2021-11-07
+Medchal Malkajgiri,Telangana,107.91,94.35,2021-11-07
+Mehabubnagar,Telangana,109.0,95.37,2021-11-07
+Mulugu,Telangana,108.84,95.21,2021-11-07
+Nagarkurnool,Telangana,109.29,95.64,2021-11-07
+Nalgonda,Telangana,108.25,94.65,2021-11-07
+Narayanpet,Telangana,110.0,96.3,2021-11-07
+Nirmal,Telangana,110.02,96.31,2021-11-07
+Nizamabad,Telangana,109.51,95.83,2021-11-07
+Peddapalli,Telangana,108.85,95.22,2021-11-07
+Rajanna Sircilla,Telangana,108.55,94.94,2021-11-07
+Rangareddi,Telangana,108.2,94.62,2021-11-07
+Sangareddy,Telangana,108.75,95.13,2021-11-07
+Siddipet,Telangana,108.77,95.15,2021-11-07
+Suryapet,Telangana,108.25,94.65,2021-11-07
+Vikarabad,Telangana,108.95,95.33,2021-11-07
+Wanaparthy,Telangana,109.63,95.96,2021-11-07
+Warangal,Telangana,107.91,94.34,2021-11-07
+Warangal Rural,Telangana,108.07,94.49,2021-11-07
+Yadadri Bhuvanagiri,Telangana,108.24,94.66,2021-11-07
+Adilabad,Telangana,110.58,96.84,2021-11-08
+Bhadradri Kothagudem,Telangana,109.35,95.68,2021-11-08
+Hyderabad,Telangana,108.2,94.62,2021-11-08
+Jagitial,Telangana,109.24,95.58,2021-11-08
+Jangaon,Telangana,108.36,94.76,2021-11-08
+Jayashankar Bhupalpa,Telangana,108.63,95.01,2021-11-08
+Jogulamba Gadwal,Telangana,110.49,96.76,2021-11-08
+Kamareddy,Telangana,109.36,95.69,2021-11-08
+Karim Nagar,Telangana,108.55,94.94,2021-11-08
+Khammam,Telangana,108.84,95.2,2021-11-08
+Komram Bheem Asifaba,Telangana,110.27,96.55,2021-11-08
+Mahabubabad,Telangana,108.07,94.49,2021-11-08
+Mancherial,Telangana,109.34,95.68,2021-11-08
+Medak,Telangana,108.31,94.73,2021-11-08
+Medchal Malkajgiri,Telangana,108.23,94.65,2021-11-08
+Mehabubnagar,Telangana,108.75,95.13,2021-11-08
+Mulugu,Telangana,109.5,95.83,2021-11-08
+Nagarkurnool,Telangana,108.98,95.35,2021-11-08
+Nalgonda,Telangana,108.48,94.86,2021-11-08
+Narayanpet,Telangana,110.06,96.36,2021-11-08
+Nirmal,Telangana,110.57,96.83,2021-11-08
+Nizamabad,Telangana,110.27,96.54,2021-11-08
+Peddapalli,Telangana,109.16,95.5,2021-11-08
+Rajanna Sircilla,Telangana,108.84,95.21,2021-11-08
+Rangareddi,Telangana,108.2,94.62,2021-11-08
+Sangareddy,Telangana,108.37,94.78,2021-11-08
+Siddipet,Telangana,108.59,94.97,2021-11-08
+Suryapet,Telangana,108.02,94.44,2021-11-08
+Vikarabad,Telangana,109.57,95.9,2021-11-08
+Wanaparthy,Telangana,109.74,96.06,2021-11-08
+Warangal,Telangana,107.69,94.14,2021-11-08
+Warangal Rural,Telangana,107.69,94.14,2021-11-08
+Yadadri Bhuvanagiri,Telangana,108.25,94.65,2021-11-08
+Adilabad,Telangana,110.8,97.04,2021-11-09
+Bhadradri Kothagudem,Telangana,109.62,95.94,2021-11-09
+Hyderabad,Telangana,108.2,94.62,2021-11-09
+Jagitial,Telangana,109.09,95.45,2021-11-09
+Jangaon,Telangana,108.21,94.62,2021-11-09
+Jayashankar Bhupalpa,Telangana,108.63,95.01,2021-11-09
+Jogulamba Gadwal,Telangana,110.2,96.49,2021-11-09
+Kamareddy,Telangana,109.71,96.02,2021-11-09
+Karim Nagar,Telangana,108.38,94.78,2021-11-09
+Khammam,Telangana,108.36,94.75,2021-11-09
+Komram Bheem Asifaba,Telangana,110.22,96.49,2021-11-09
+Mahabubabad,Telangana,108.33,94.73,2021-11-09
+Mancherial,Telangana,109.94,96.24,2021-11-09
+Medak,Telangana,108.99,95.36,2021-11-09
+Medchal Malkajgiri,Telangana,108.24,94.66,2021-11-09
+Mehabubnagar,Telangana,109.45,95.79,2021-11-09
+Mulugu,Telangana,108.5,94.89,2021-11-09
+Nagarkurnool,Telangana,108.98,95.35,2021-11-09
+Nalgonda,Telangana,107.88,94.3,2021-11-09
+Narayanpet,Telangana,110.06,96.36,2021-11-09
+Nirmal,Telangana,110.02,96.31,2021-11-09
+Nizamabad,Telangana,110.09,96.38,2021-11-09
+Peddapalli,Telangana,108.82,95.19,2021-11-09
+Rajanna Sircilla,Telangana,108.81,95.18,2021-11-09
+Rangareddi,Telangana,108.35,94.76,2021-11-09
+Sangareddy,Telangana,109.51,95.85,2021-11-09
+Siddipet,Telangana,108.36,94.76,2021-11-09
+Suryapet,Telangana,107.97,94.38,2021-11-09
+Vikarabad,Telangana,109.05,95.41,2021-11-09
+Wanaparthy,Telangana,109.74,96.06,2021-11-09
+Warangal,Telangana,107.88,94.31,2021-11-09
+Warangal Rural,Telangana,107.74,94.18,2021-11-09
+Yadadri Bhuvanagiri,Telangana,108.0,94.44,2021-11-09
+Adilabad,Telangana,110.8,97.04,2021-11-11
+Bhadradri Kothagudem,Telangana,109.35,95.68,2021-11-11
+Hyderabad,Telangana,108.2,94.62,2021-11-11
+Jagitial,Telangana,109.16,95.5,2021-11-11
+Jangaon,Telangana,108.21,94.62,2021-11-11
+Jayashankar Bhupalpa,Telangana,108.14,94.55,2021-11-11
+Jogulamba Gadwal,Telangana,110.2,96.49,2021-11-11
+Kamareddy,Telangana,110.15,96.43,2021-11-11
+Karim Nagar,Telangana,107.92,94.35,2021-11-11
+Khammam,Telangana,109.55,95.86,2021-11-11
+Komram Bheem Asifaba,Telangana,110.11,96.4,2021-11-11
+Mahabubabad,Telangana,108.07,94.49,2021-11-11
+Mancherial,Telangana,109.34,95.68,2021-11-11
+Medak,Telangana,108.5,94.9,2021-11-11
+Medchal Malkajgiri,Telangana,108.28,94.69,2021-11-11
+Mehabubnagar,Telangana,109.0,95.37,2021-11-11
+Mulugu,Telangana,108.5,94.89,2021-11-11
+Nagarkurnool,Telangana,108.98,95.35,2021-11-11
+Nalgonda,Telangana,108.28,94.67,2021-11-11
+Narayanpet,Telangana,109.54,95.87,2021-11-11
+Nirmal,Telangana,110.51,96.77,2021-11-11
+Nizamabad,Telangana,109.89,96.19,2021-11-11
+Peddapalli,Telangana,108.82,95.19,2021-11-11
+Rajanna Sircilla,Telangana,108.96,95.32,2021-11-11
+Rangareddi,Telangana,108.2,94.62,2021-11-11
+Sangareddy,Telangana,108.9,95.27,2021-11-11
+Siddipet,Telangana,108.69,95.07,2021-11-11
+Suryapet,Telangana,108.13,94.54,2021-11-11
+Vikarabad,Telangana,109.15,95.51,2021-11-11
+Wanaparthy,Telangana,109.74,96.06,2021-11-11
+Warangal,Telangana,107.88,94.31,2021-11-11
+Warangal Rural,Telangana,107.69,94.14,2021-11-11
+Yadadri Bhuvanagiri,Telangana,108.41,94.81,2021-11-11
+Adilabad,Telangana,110.6,96.86,2021-11-12
+Bhadradri Kothagudem,Telangana,108.82,95.19,2021-11-12
+Hyderabad,Telangana,108.2,94.62,2021-11-12
+Jagitial,Telangana,108.69,95.07,2021-11-12
+Jangaon,Telangana,108.31,94.72,2021-11-12
+Jayashankar Bhupalpa,Telangana,108.28,94.69,2021-11-12
+Jogulamba Gadwal,Telangana,110.41,96.68,2021-11-12
+Kamareddy,Telangana,110.27,96.54,2021-11-12
+Karim Nagar,Telangana,108.38,94.78,2021-11-12
+Khammam,Telangana,108.49,94.88,2021-11-12
+Komram Bheem Asifaba,Telangana,110.34,96.61,2021-11-12
+Mahabubabad,Telangana,108.07,94.49,2021-11-12
+Mancherial,Telangana,109.94,96.24,2021-11-12
+Medak,Telangana,108.77,95.15,2021-11-12
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-11-12
+Mehabubnagar,Telangana,109.97,96.28,2021-11-12
+Mulugu,Telangana,108.69,95.07,2021-11-12
+Nagarkurnool,Telangana,109.29,95.64,2021-11-12
+Nalgonda,Telangana,107.97,94.38,2021-11-12
+Narayanpet,Telangana,110.2,96.49,2021-11-12
+Nirmal,Telangana,109.94,96.24,2021-11-12
+Nizamabad,Telangana,110.0,96.29,2021-11-12
+Peddapalli,Telangana,108.93,95.3,2021-11-12
+Rajanna Sircilla,Telangana,109.31,95.65,2021-11-12
+Rangareddi,Telangana,108.2,94.62,2021-11-12
+Sangareddy,Telangana,108.37,94.78,2021-11-12
+Siddipet,Telangana,108.77,95.15,2021-11-12
+Suryapet,Telangana,108.13,94.53,2021-11-12
+Vikarabad,Telangana,109.57,95.9,2021-11-12
+Wanaparthy,Telangana,109.63,95.96,2021-11-12
+Warangal,Telangana,107.88,94.31,2021-11-12
+Warangal Rural,Telangana,108.07,94.49,2021-11-12
+Yadadri Bhuvanagiri,Telangana,108.85,95.21,2021-11-12
+Adilabad,Telangana,110.58,96.84,2021-11-14
+Bhadradri Kothagudem,Telangana,109.55,95.86,2021-11-14
+Hyderabad,Telangana,108.2,94.62,2021-11-14
+Jagitial,Telangana,109.16,95.5,2021-11-14
+Jangaon,Telangana,108.36,94.76,2021-11-14
+Jayashankar Bhupalpa,Telangana,108.63,95.01,2021-11-14
+Jogulamba Gadwal,Telangana,110.11,96.41,2021-11-14
+Kamareddy,Telangana,109.36,95.69,2021-11-14
+Karim Nagar,Telangana,108.38,94.78,2021-11-14
+Khammam,Telangana,108.72,95.09,2021-11-14
+Komram Bheem Asifaba,Telangana,110.11,96.4,2021-11-14
+Mahabubabad,Telangana,108.07,94.49,2021-11-14
+Mancherial,Telangana,109.34,95.68,2021-11-14
+Medak,Telangana,108.84,95.22,2021-11-14
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-11-14
+Mehabubnagar,Telangana,108.75,95.13,2021-11-14
+Mulugu,Telangana,108.5,94.89,2021-11-14
+Nagarkurnool,Telangana,109.24,95.59,2021-11-14
+Nalgonda,Telangana,108.28,94.67,2021-11-14
+Narayanpet,Telangana,110.2,96.49,2021-11-14
+Nirmal,Telangana,110.67,96.92,2021-11-14
+Nizamabad,Telangana,110.09,96.38,2021-11-14
+Peddapalli,Telangana,108.82,95.19,2021-11-14
+Rajanna Sircilla,Telangana,108.84,95.21,2021-11-14
+Rangareddi,Telangana,108.2,94.62,2021-11-14
+Sangareddy,Telangana,108.61,95.0,2021-11-14
+Siddipet,Telangana,108.69,95.07,2021-11-14
+Suryapet,Telangana,107.97,94.38,2021-11-14
+Vikarabad,Telangana,109.56,95.89,2021-11-14
+Wanaparthy,Telangana,110.14,96.44,2021-11-14
+Warangal,Telangana,107.88,94.31,2021-11-14
+Warangal Rural,Telangana,107.69,94.14,2021-11-14
+Yadadri Bhuvanagiri,Telangana,108.35,94.74,2021-11-14
+Adilabad,Telangana,110.8,97.04,2021-11-16
+Bhadradri Kothagudem,Telangana,108.82,95.19,2021-11-16
+Hyderabad,Telangana,108.2,94.62,2021-11-16
+Jagitial,Telangana,108.69,95.07,2021-11-16
+Jangaon,Telangana,107.98,94.41,2021-11-16
+Jayashankar Bhupalpa,Telangana,108.63,95.01,2021-11-16
+Jogulamba Gadwal,Telangana,110.41,96.68,2021-11-16
+Kamareddy,Telangana,110.27,96.54,2021-11-16
+Karim Nagar,Telangana,108.34,94.74,2021-11-16
+Khammam,Telangana,108.9,95.25,2021-11-16
+Komram Bheem Asifaba,Telangana,110.34,96.61,2021-11-16
+Mahabubabad,Telangana,108.17,94.58,2021-11-16
+Mancherial,Telangana,109.94,96.24,2021-11-16
+Medak,Telangana,108.5,94.9,2021-11-16
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-11-16
+Mehabubnagar,Telangana,109.97,96.28,2021-11-16
+Mulugu,Telangana,108.84,95.21,2021-11-16
+Nagarkurnool,Telangana,109.29,95.64,2021-11-16
+Nalgonda,Telangana,108.25,94.65,2021-11-16
+Narayanpet,Telangana,109.33,95.68,2021-11-16
+Nirmal,Telangana,110.57,96.83,2021-11-16
+Nizamabad,Telangana,109.51,95.83,2021-11-16
+Peddapalli,Telangana,109.16,95.5,2021-11-16
+Rajanna Sircilla,Telangana,108.55,94.94,2021-11-16
+Rangareddi,Telangana,108.2,94.62,2021-11-16
+Sangareddy,Telangana,108.37,94.78,2021-11-16
+Siddipet,Telangana,108.69,95.07,2021-11-16
+Suryapet,Telangana,108.25,94.65,2021-11-16
+Vikarabad,Telangana,108.94,95.31,2021-11-16
+Wanaparthy,Telangana,109.63,95.96,2021-11-16
+Warangal,Telangana,107.96,94.39,2021-11-16
+Warangal Rural,Telangana,108.07,94.49,2021-11-16
+Yadadri Bhuvanagiri,Telangana,108.24,94.66,2021-11-16
+Adilabad,Telangana,109.99,96.28,2021-11-17
+Bhadradri Kothagudem,Telangana,109.29,95.63,2021-11-17
+Hyderabad,Telangana,108.2,94.62,2021-11-17
+Jagitial,Telangana,109.33,95.66,2021-11-17
+Jangaon,Telangana,107.98,94.41,2021-11-17
+Jayashankar Bhupalpa,Telangana,108.18,94.59,2021-11-17
+Jogulamba Gadwal,Telangana,110.23,96.51,2021-11-17
+Kamareddy,Telangana,109.36,95.69,2021-11-17
+Karim Nagar,Telangana,108.07,94.49,2021-11-17
+Khammam,Telangana,108.12,94.52,2021-11-17
+Komram Bheem Asifaba,Telangana,110.22,96.49,2021-11-17
+Mahabubabad,Telangana,108.07,94.49,2021-11-17
+Mancherial,Telangana,109.16,95.51,2021-11-17
+Medak,Telangana,108.66,95.05,2021-11-17
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-11-17
+Mehabubnagar,Telangana,109.0,95.37,2021-11-17
+Mulugu,Telangana,108.1,94.51,2021-11-17
+Nagarkurnool,Telangana,108.98,95.35,2021-11-17
+Nalgonda,Telangana,108.29,94.68,2021-11-17
+Narayanpet,Telangana,109.9,96.21,2021-11-17
+Nirmal,Telangana,109.77,96.08,2021-11-17
+Nizamabad,Telangana,109.79,96.09,2021-11-17
+Peddapalli,Telangana,108.53,94.92,2021-11-17
+Rajanna Sircilla,Telangana,108.81,95.18,2021-11-17
+Rangareddi,Telangana,108.2,94.62,2021-11-17
+Sangareddy,Telangana,109.29,95.64,2021-11-17
+Siddipet,Telangana,108.07,94.49,2021-11-17
+Suryapet,Telangana,107.63,94.07,2021-11-17
+Vikarabad,Telangana,109.57,95.9,2021-11-17
+Wanaparthy,Telangana,110.14,96.44,2021-11-17
+Warangal,Telangana,107.69,94.14,2021-11-17
+Warangal Rural,Telangana,107.84,94.28,2021-11-17
+Yadadri Bhuvanagiri,Telangana,108.2,94.62,2021-11-17
+Adilabad,Telangana,110.8,97.04,2021-11-19
+Bhadradri Kothagudem,Telangana,109.35,95.68,2021-11-19
+Hyderabad,Telangana,108.2,94.62,2021-11-19
+Jagitial,Telangana,109.06,95.41,2021-11-19
+Jangaon,Telangana,108.21,94.62,2021-11-19
+Jayashankar Bhupalpa,Telangana,108.35,94.76,2021-11-19
+Jogulamba Gadwal,Telangana,110.11,96.41,2021-11-19
+Kamareddy,Telangana,110.15,96.43,2021-11-19
+Karim Nagar,Telangana,107.92,94.35,2021-11-19
+Khammam,Telangana,108.84,95.2,2021-11-19
+Komram Bheem Asifaba,Telangana,110.26,96.54,2021-11-19
+Mahabubabad,Telangana,108.07,94.49,2021-11-19
+Mancherial,Telangana,109.34,95.68,2021-11-19
+Medak,Telangana,108.5,94.9,2021-11-19
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-11-19
+Mehabubnagar,Telangana,109.17,95.53,2021-11-19
+Mulugu,Telangana,108.5,94.89,2021-11-19
+Nagarkurnool,Telangana,108.98,95.35,2021-11-19
+Nalgonda,Telangana,108.25,94.65,2021-11-19
+Narayanpet,Telangana,109.9,96.21,2021-11-19
+Nirmal,Telangana,110.02,96.31,2021-11-19
+Nizamabad,Telangana,109.53,95.85,2021-11-19
+Peddapalli,Telangana,108.85,95.22,2021-11-19
+Rajanna Sircilla,Telangana,108.96,95.32,2021-11-19
+Sangareddy,Telangana,108.61,95.0,2021-11-19
+Siddipet,Telangana,108.44,94.84,2021-11-19
+Suryapet,Telangana,107.63,94.07,2021-11-19
+Vikarabad,Telangana,109.57,95.9,2021-11-19
+Wanaparthy,Telangana,109.8,96.12,2021-11-19
+Warangal,Telangana,107.69,94.14,2021-11-19
+Warangal Rural,Telangana,107.69,94.14,2021-11-19
+Yadadri Bhuvanagiri,Telangana,108.35,94.74,2021-11-19
+Adilabad,Telangana,110.51,96.77,2021-11-23
+Bhadradri Kothagudem,Telangana,109.69,95.99,2021-11-23
+Hyderabad,Telangana,108.2,94.62,2021-11-23
+Jagitial,Telangana,109.16,95.5,2021-11-23
+Jangaon,Telangana,108.41,94.8,2021-11-23
+Jayashankar Bhupalpa,Telangana,108.35,94.76,2021-11-23
+Jogulamba Gadwal,Telangana,110.23,96.51,2021-11-23
+Kamareddy,Telangana,109.36,95.69,2021-11-23
+Karim Nagar,Telangana,108.39,94.79,2021-11-23
+Khammam,Telangana,108.84,95.2,2021-11-23
+Komram Bheem Asifaba,Telangana,110.26,96.54,2021-11-23
+Mahabubabad,Telangana,108.42,94.81,2021-11-23
+Mancherial,Telangana,109.94,96.24,2021-11-23
+Medak,Telangana,108.44,94.84,2021-11-23
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-11-23
+Mehabubnagar,Telangana,108.87,95.25,2021-11-23
+Mulugu,Telangana,108.21,94.62,2021-11-23
+Nagarkurnool,Telangana,109.53,95.86,2021-11-23
+Nalgonda,Telangana,108.74,95.1,2021-11-23
+Narayanpet,Telangana,109.9,96.21,2021-11-23
+Nirmal,Telangana,110.51,96.77,2021-11-23
+Nizamabad,Telangana,109.74,96.05,2021-11-23
+Peddapalli,Telangana,108.85,95.22,2021-11-23
+Rajanna Sircilla,Telangana,108.81,95.18,2021-11-23
+Rangareddi,Telangana,108.2,94.62,2021-11-23
+Sangareddy,Telangana,109.6,95.93,2021-11-23
+Siddipet,Telangana,108.59,94.97,2021-11-23
+Suryapet,Telangana,107.81,94.23,2021-11-23
+Vikarabad,Telangana,108.95,95.33,2021-11-23
+Wanaparthy,Telangana,110.06,96.36,2021-11-23
+Warangal,Telangana,107.69,94.14,2021-11-23
+Warangal Rural,Telangana,108.07,94.49,2021-11-23
+Yadadri Bhuvanagiri,Telangana,108.25,94.65,2021-11-23
+Adilabad,Telangana,110.51,96.77,2021-11-24
+Bhadradri Kothagudem,Telangana,109.69,95.99,2021-11-24
+Hyderabad,Telangana,108.2,94.62,2021-11-24
+Jagitial,Telangana,109.16,95.5,2021-11-24
+Jangaon,Telangana,108.41,94.8,2021-11-24
+Jayashankar Bhupalpa,Telangana,108.35,94.76,2021-11-24
+Jogulamba Gadwal,Telangana,110.23,96.51,2021-11-24
+Kamareddy,Telangana,109.36,95.69,2021-11-24
+Karim Nagar,Telangana,108.39,94.79,2021-11-24
+Khammam,Telangana,108.84,95.2,2021-11-24
+Komram Bheem Asifaba,Telangana,110.26,96.54,2021-11-24
+Mahabubabad,Telangana,108.42,94.81,2021-11-24
+Mancherial,Telangana,109.94,96.24,2021-11-24
+Medak,Telangana,108.44,94.84,2021-11-24
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-11-24
+Mehabubnagar,Telangana,108.87,95.25,2021-11-24
+Mulugu,Telangana,108.21,94.62,2021-11-24
+Nagarkurnool,Telangana,109.53,95.86,2021-11-24
+Nalgonda,Telangana,108.74,95.1,2021-11-24
+Narayanpet,Telangana,109.9,96.21,2021-11-24
+Nirmal,Telangana,110.51,96.77,2021-11-24
+Nizamabad,Telangana,109.74,96.05,2021-11-24
+Peddapalli,Telangana,108.85,95.22,2021-11-24
+Rajanna Sircilla,Telangana,108.81,95.18,2021-11-24
+Rangareddi,Telangana,108.2,94.62,2021-11-24
+Sangareddy,Telangana,109.6,95.93,2021-11-24
+Siddipet,Telangana,108.59,94.97,2021-11-24
+Suryapet,Telangana,107.81,94.23,2021-11-24
+Vikarabad,Telangana,108.95,95.33,2021-11-24
+Wanaparthy,Telangana,110.06,96.36,2021-11-24
+Warangal,Telangana,107.69,94.14,2021-11-24
+Warangal Rural,Telangana,108.07,94.49,2021-11-24
+Yadadri Bhuvanagiri,Telangana,108.25,94.65,2021-11-24
+Adilabad,Telangana,110.8,97.04,2021-11-29
+Bhadradri Kothagudem,Telangana,109.88,96.18,2021-11-29
+Hyderabad,Telangana,108.2,94.62,2021-11-29
+Jagitial,Telangana,109.06,95.41,2021-11-29
+Jangaon,Telangana,107.87,94.3,2021-11-29
+Jayashankar Bhupalpa,Telangana,108.35,94.76,2021-11-29
+Jogulamba Gadwal,Telangana,110.2,96.49,2021-11-29
+Kamareddy,Telangana,110.15,96.43,2021-11-29
+Karim Nagar,Telangana,108.52,94.91,2021-11-29
+Khammam,Telangana,108.55,94.93,2021-11-29
+Komram Bheem Asifaba,Telangana,110.26,96.54,2021-11-29
+Mahabubabad,Telangana,108.07,94.49,2021-11-29
+Mancherial,Telangana,109.54,95.86,2021-11-29
+Medak,Telangana,108.5,94.9,2021-11-29
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-11-29
+Mehabubnagar,Telangana,109.17,95.53,2021-11-29
+Mulugu,Telangana,108.5,94.89,2021-11-29
+Nagarkurnool,Telangana,109.09,95.45,2021-11-29
+Nalgonda,Telangana,108.59,94.97,2021-11-29
+Narayanpet,Telangana,109.54,95.87,2021-11-29
+Nirmal,Telangana,110.02,96.31,2021-11-29
+Nizamabad,Telangana,109.76,96.07,2021-11-29
+Peddapalli,Telangana,108.82,95.19,2021-11-29
+Rajanna Sircilla,Telangana,108.63,95.02,2021-11-29
+Rangareddi,Telangana,108.62,95.01,2021-11-29
+Sangareddy,Telangana,109.29,95.64,2021-11-29
+Siddipet,Telangana,108.44,94.84,2021-11-29
+Suryapet,Telangana,107.92,94.34,2021-11-29
+Vikarabad,Telangana,109.57,95.9,2021-11-29
+Wanaparthy,Telangana,109.8,96.12,2021-11-29
+Warangal,Telangana,107.72,94.16,2021-11-29
+Warangal Rural,Telangana,107.69,94.14,2021-11-29
+Yadadri Bhuvanagiri,Telangana,108.24,94.66,2021-11-29
+Adilabad,Telangana,109.99,96.28,2021-12-01
+Bhadradri Kothagudem,Telangana,109.29,95.63,2021-12-01
+Hyderabad,Telangana,108.2,94.62,2021-12-01
+Jagitial,Telangana,108.74,95.11,2021-12-01
+Jangaon,Telangana,108.31,94.72,2021-12-01
+Jayashankar Bhupalpa,Telangana,108.28,94.69,2021-12-01
+Jogulamba Gadwal,Telangana,110.23,96.51,2021-12-01
+Kamareddy,Telangana,109.36,95.69,2021-12-01
+Karim Nagar,Telangana,108.6,94.99,2021-12-01
+Khammam,Telangana,109.07,95.41,2021-12-01
+Komram Bheem Asifaba,Telangana,109.79,96.1,2021-12-01
+Mahabubabad,Telangana,108.07,94.49,2021-12-01
+Mancherial,Telangana,109.34,95.68,2021-12-01
+Medak,Telangana,108.5,94.9,2021-12-01
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-12-01
+Mehabubnagar,Telangana,109.23,95.58,2021-12-01
+Mulugu,Telangana,109.5,95.83,2021-12-01
+Nagarkurnool,Telangana,109.35,95.7,2021-12-01
+Nalgonda,Telangana,108.24,94.64,2021-12-01
+Narayanpet,Telangana,109.54,95.87,2021-12-01
+Nirmal,Telangana,110.51,96.77,2021-12-01
+Nizamabad,Telangana,109.89,96.19,2021-12-01
+Peddapalli,Telangana,109.0,95.35,2021-12-01
+Rajanna Sircilla,Telangana,108.88,95.24,2021-12-01
+Rangareddi,Telangana,108.6,94.99,2021-12-01
+Sangareddy,Telangana,108.64,95.04,2021-12-01
+Siddipet,Telangana,108.38,94.79,2021-12-01
+Suryapet,Telangana,108.13,94.53,2021-12-01
+Vikarabad,Telangana,109.15,95.51,2021-12-01
+Wanaparthy,Telangana,110.14,96.44,2021-12-01
+Warangal,Telangana,107.69,94.14,2021-12-01
+Warangal Rural,Telangana,107.69,94.14,2021-12-01
+Yadadri Bhuvanagiri,Telangana,108.51,94.89,2021-12-01
+Adilabad,Telangana,110.58,96.84,2021-12-02
+Bhadradri Kothagudem,Telangana,108.82,95.19,2021-12-02
+Hyderabad,Telangana,108.2,94.62,2021-12-02
+Jagitial,Telangana,108.94,95.31,2021-12-02
+Jangaon,Telangana,108.21,94.62,2021-12-02
+Jayashankar Bhupalpa,Telangana,108.0,94.43,2021-12-02
+Jogulamba Gadwal,Telangana,110.11,96.41,2021-12-02
+Kamareddy,Telangana,109.13,95.48,2021-12-02
+Karim Nagar,Telangana,108.25,94.65,2021-12-02
+Khammam,Telangana,107.97,94.39,2021-12-02
+Komram Bheem Asifaba,Telangana,110.58,96.84,2021-12-02
+Mahabubabad,Telangana,108.63,95.02,2021-12-02
+Mancherial,Telangana,109.39,95.72,2021-12-02
+Medak,Telangana,108.77,95.15,2021-12-02
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-12-02
+Mehabubnagar,Telangana,109.25,95.6,2021-12-02
+Mulugu,Telangana,108.69,95.07,2021-12-02
+Nagarkurnool,Telangana,109.24,95.59,2021-12-02
+Nalgonda,Telangana,108.01,94.43,2021-12-02
+Narayanpet,Telangana,110.0,96.3,2021-12-02
+Nirmal,Telangana,110.41,96.68,2021-12-02
+Nizamabad,Telangana,110.41,96.68,2021-12-02
+Peddapalli,Telangana,109.16,95.5,2021-12-02
+Rajanna Sircilla,Telangana,108.84,95.21,2021-12-02
+Rangareddi,Telangana,108.71,95.1,2021-12-02
+Sangareddy,Telangana,108.77,95.15,2021-12-02
+Siddipet,Telangana,108.69,95.07,2021-12-02
+Suryapet,Telangana,107.63,94.07,2021-12-02
+Vikarabad,Telangana,109.57,95.9,2021-12-02
+Wanaparthy,Telangana,109.79,96.11,2021-12-02
+Warangal,Telangana,107.69,94.14,2021-12-02
+Warangal Rural,Telangana,108.07,94.49,2021-12-02
+Yadadri Bhuvanagiri,Telangana,108.44,94.82,2021-12-02
+Adilabad,Telangana,110.58,96.84,2021-12-03
+Bhadradri Kothagudem,Telangana,108.82,95.19,2021-12-03
+Hyderabad,Telangana,108.2,94.62,2021-12-03
+Jagitial,Telangana,108.94,95.31,2021-12-03
+Jangaon,Telangana,108.21,94.62,2021-12-03
+Jayashankar Bhupalpa,Telangana,108.0,94.43,2021-12-03
+Jogulamba Gadwal,Telangana,110.11,96.41,2021-12-03
+Kamareddy,Telangana,109.13,95.48,2021-12-03
+Karim Nagar,Telangana,108.25,94.65,2021-12-03
+Khammam,Telangana,107.97,94.39,2021-12-03
+Komram Bheem Asifaba,Telangana,110.58,96.84,2021-12-03
+Mahabubabad,Telangana,108.63,95.02,2021-12-03
+Mancherial,Telangana,109.39,95.72,2021-12-03
+Medak,Telangana,108.77,95.15,2021-12-03
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-12-03
+Mehabubnagar,Telangana,109.25,95.6,2021-12-03
+Mulugu,Telangana,108.69,95.07,2021-12-03
+Nagarkurnool,Telangana,109.24,95.59,2021-12-03
+Nalgonda,Telangana,108.01,94.43,2021-12-03
+Narayanpet,Telangana,110.0,96.3,2021-12-03
+Nirmal,Telangana,110.41,96.68,2021-12-03
+Nizamabad,Telangana,110.41,96.68,2021-12-03
+Peddapalli,Telangana,109.16,95.5,2021-12-03
+Rajanna Sircilla,Telangana,108.84,95.21,2021-12-03
+Rangareddi,Telangana,108.71,95.1,2021-12-03
+Sangareddy,Telangana,108.77,95.15,2021-12-03
+Siddipet,Telangana,108.69,95.07,2021-12-03
+Suryapet,Telangana,107.63,94.07,2021-12-03
+Vikarabad,Telangana,109.57,95.9,2021-12-03
+Wanaparthy,Telangana,109.79,96.11,2021-12-03
+Warangal,Telangana,107.69,94.14,2021-12-03
+Warangal Rural,Telangana,108.07,94.49,2021-12-03
+Yadadri Bhuvanagiri,Telangana,108.44,94.82,2021-12-03
+Adilabad,Telangana,110.8,97.04,2021-12-06
+Bhadradri Kothagudem,Telangana,109.62,95.94,2021-12-06
+Hyderabad,Telangana,108.2,94.62,2021-12-06
+Jagitial,Telangana,108.98,95.34,2021-12-06
+Jangaon,Telangana,108.36,94.76,2021-12-06
+Jayashankar Bhupalpa,Telangana,108.28,94.67,2021-12-06
+Jogulamba Gadwal,Telangana,110.59,96.85,2021-12-06
+Kamareddy,Telangana,109.71,96.02,2021-12-06
+Karim Nagar,Telangana,108.07,94.49,2021-12-06
+Khammam,Telangana,107.97,94.39,2021-12-06
+Komram Bheem Asifaba,Telangana,110.62,96.87,2021-12-06
+Mahabubabad,Telangana,108.42,94.81,2021-12-06
+Mancherial,Telangana,109.29,95.63,2021-12-06
+Medak,Telangana,108.84,95.22,2021-12-06
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-12-06
+Mehabubnagar,Telangana,108.75,95.13,2021-12-06
+Mulugu,Telangana,107.89,94.32,2021-12-06
+Nagarkurnool,Telangana,109.9,96.21,2021-12-06
+Nalgonda,Telangana,108.01,94.43,2021-12-06
+Narayanpet,Telangana,110.0,96.3,2021-12-06
+Nirmal,Telangana,109.77,96.08,2021-12-06
+Nizamabad,Telangana,110.4,96.66,2021-12-06
+Peddapalli,Telangana,108.82,95.19,2021-12-06
+Rajanna Sircilla,Telangana,109.31,95.65,2021-12-06
+Rangareddi,Telangana,108.6,94.99,2021-12-06
+Sangareddy,Telangana,108.37,94.78,2021-12-06
+Siddipet,Telangana,108.69,95.07,2021-12-06
+Suryapet,Telangana,108.25,94.65,2021-12-06
+Vikarabad,Telangana,109.41,95.75,2021-12-06
+Wanaparthy,Telangana,109.29,95.64,2021-12-06
+Warangal,Telangana,107.88,94.31,2021-12-06
+Warangal Rural,Telangana,107.74,94.18,2021-12-06
+Yadadri Bhuvanagiri,Telangana,108.47,94.85,2021-12-06
+Adilabad,Telangana,109.99,96.28,2021-12-22
+Bhadradri Kothagudem,Telangana,109.29,95.63,2021-12-22
+Hyderabad,Telangana,108.2,94.62,2021-12-22
+Jagitial,Telangana,109.3,95.64,2021-12-22
+Jangaon,Telangana,108.61,95.0,2021-12-22
+Jayashankar Bhupalpa,Telangana,108.28,94.67,2021-12-22
+Jogulamba Gadwal,Telangana,110.11,96.41,2021-12-22
+Kamareddy,Telangana,110.15,96.43,2021-12-22
+Karim Nagar,Telangana,108.07,94.49,2021-12-22
+Khammam,Telangana,108.29,94.69,2021-12-22
+Komram Bheem Asifaba,Telangana,110.1,96.39,2021-12-22
+Mahabubabad,Telangana,108.07,94.49,2021-12-22
+Mancherial,Telangana,109.94,96.24,2021-12-22
+Medak,Telangana,109.37,95.71,2021-12-22
+Medchal Malkajgiri,Telangana,108.2,94.62,2021-12-22
+Mehabubnagar,Telangana,109.0,95.37,2021-12-22
+Mulugu,Telangana,107.89,94.32,2021-12-22
+Nagarkurnool,Telangana,108.98,95.35,2021-12-22
+Nalgonda,Telangana,107.84,94.27,2021-12-22
+Narayanpet,Telangana,110.0,96.3,2021-12-22
+Nirmal,Telangana,110.02,96.31,2021-12-22
+Nizamabad,Telangana,109.69,96.01,2021-12-22
+Peddapalli,Telangana,109.16,95.5,2021-12-22
+Rajanna Sircilla,Telangana,108.81,95.18,2021-12-22
+Rangareddi,Telangana,108.2,94.62,2021-12-22
+Sangareddy,Telangana,109.29,95.64,2021-12-22
+Siddipet,Telangana,108.07,94.49,2021-12-22
+Suryapet,Telangana,107.97,94.38,2021-12-22
+Vikarabad,Telangana,109.41,95.75,2021-12-22
+Wanaparthy,Telangana,110.14,96.44,2021-12-22
+Warangal,Telangana,107.69,94.14,2021-12-22
+Warangal Rural,Telangana,108.07,94.49,2021-12-22
+Yadadri Bhuvanagiri,Telangana,108.24,94.66,2021-12-22
+Adilabad,Telangana,109.99,96.28,2021-12-29
+Bhadradri Kothagudem,Telangana,109.35,95.68,2021-12-29
+Hyderabad,Telangana,108.2,94.62,2021-12-29
+Jagitial,Telangana,109.09,95.45,2021-12-29
+Jangaon,Telangana,107.98,94.41,2021-12-29
+Jayashankar Bhupalpa,Telangana,107.92,94.35,2021-12-29
+Jogulamba Gadwal,Telangana,110.59,96.85,2021-12-29
+Kamareddy,Telangana,109.47,95.8,2021-12-29
+Karim Nagar,Telangana,107.92,94.35,2021-12-29
+Khammam,Telangana,108.36,94.75,2021-12-29
+Komram Bheem Asifaba,Telangana,110.1,96.39,2021-12-29
+Mahabubabad,Telangana,108.63,95.02,2021-12-29
+Mancherial,Telangana,109.94,96.24,2021-12-29
+Medak,Telangana,108.99,95.36,2021-12-29
+Medchal Malkajgiri,Telangana,107.79,94.24,2021-12-29
+Mehabubnagar,Telangana,108.75,95.13,2021-12-29
+Mulugu,Telangana,107.89,94.32,2021-12-29
+Nagarkurnool,Telangana,109.35,95.7,2021-12-29
+Nalgonda,Telangana,107.84,94.27,2021-12-29
+Narayanpet,Telangana,110.0,96.3,2021-12-29
+Nirmal,Telangana,110.57,96.83,2021-12-29
+Nizamabad,Telangana,110.11,96.39,2021-12-29
+Peddapalli,Telangana,108.97,95.33,2021-12-29
+Rajanna Sircilla,Telangana,109.31,95.65,2021-12-29
+Rangareddi,Telangana,108.71,95.1,2021-12-29
+Sangareddy,Telangana,109.6,95.93,2021-12-29
+Siddipet,Telangana,108.07,94.49,2021-12-29
+Suryapet,Telangana,108.01,94.43,2021-12-29
+Vikarabad,Telangana,108.95,95.33,2021-12-29
+Wanaparthy,Telangana,109.8,96.12,2021-12-29
+Warangal,Telangana,107.88,94.31,2021-12-29
+Warangal Rural,Telangana,108.07,94.49,2021-12-29
+Yadadri Bhuvanagiri,Telangana,108.49,94.87,2021-12-29

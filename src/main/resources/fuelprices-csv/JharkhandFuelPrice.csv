@@ -1,0 +1,601 @@
+City,State,Petrol_Rate,Diesel_Rate,Date
+Bokaro,Jharkhand,102.29,102.02,2021-10-27
+Chatra,Jharkhand,102.78,102.48,2021-10-27
+Deogarh,Jharkhand,101.57,101.28,2021-10-27
+Dhanbad,Jharkhand,101.95,101.67,2021-10-27
+Dumka,Jharkhand,102.54,102.24,2021-10-27
+East Singhbhum,Jharkhand,101.82,101.55,2021-10-27
+Garhwa,Jharkhand,104.29,104.01,2021-10-27
+Giridih,Jharkhand,103.05,102.77,2021-10-27
+Godda,Jharkhand,102.41,102.12,2021-10-27
+Gumla,Jharkhand,102.7,102.44,2021-10-27
+Hazaribagh,Jharkhand,102.86,102.6,2021-10-27
+Jamtara,Jharkhand,102.2,101.91,2021-10-27
+Khunti,Jharkhand,101.81,101.55,2021-10-27
+Koderma,Jharkhand,102.65,102.35,2021-10-27
+Latehar,Jharkhand,103.09,102.82,2021-10-27
+Lohardaga,Jharkhand,102.65,102.39,2021-10-27
+Pakur,Jharkhand,103.18,102.88,2021-10-27
+Palamau,Jharkhand,104.09,103.82,2021-10-27
+Ramgarh,Jharkhand,102.44,102.18,2021-10-27
+Ranchi,Jharkhand,102.28,102.02,2021-10-27
+Sahibganj,Jharkhand,103.03,102.73,2021-10-27
+Saraikela Kharasawan,Jharkhand,102.16,101.88,2021-10-27
+Simdega,Jharkhand,103.19,102.93,2021-10-27
+West Singhbhum,Jharkhand,102.42,102.14,2021-10-27
+Bokaro,Jharkhand,102.86,102.66,2021-10-28
+Chatra,Jharkhand,104.11,103.92,2021-10-28
+Deogarh,Jharkhand,102.23,102.01,2021-10-28
+Dhanbad,Jharkhand,102.71,102.51,2021-10-28
+Dumka,Jharkhand,103.19,102.97,2021-10-28
+East Singhbhum,Jharkhand,102.47,102.28,2021-10-28
+Garhwa,Jharkhand,104.93,104.74,2021-10-28
+Giridih,Jharkhand,103.34,103.14,2021-10-28
+Godda,Jharkhand,102.91,102.69,2021-10-28
+Gumla,Jharkhand,103.36,103.17,2021-10-28
+Hazaribagh,Jharkhand,103.67,103.48,2021-10-28
+Jamtara,Jharkhand,102.86,102.64,2021-10-28
+Khunti,Jharkhand,102.47,102.28,2021-10-28
+Koderma,Jharkhand,103.55,103.33,2021-10-28
+Latehar,Jharkhand,103.74,103.55,2021-10-28
+Lohardaga,Jharkhand,103.4,103.22,2021-10-28
+Pakur,Jharkhand,103.64,103.42,2021-10-28
+Palamau,Jharkhand,104.42,104.23,2021-10-28
+Ramgarh,Jharkhand,103.07,102.89,2021-10-28
+Ranchi,Jharkhand,102.6,102.42,2021-10-28
+Sahibganj,Jharkhand,103.82,103.59,2021-10-28
+Saraikela Kharasawan,Jharkhand,102.47,102.28,2021-10-28
+Simdega,Jharkhand,103.33,103.14,2021-10-28
+West Singhbhum,Jharkhand,103.47,103.27,2021-10-28
+Bokaro,Jharkhand,103.21,103.05,2021-10-29
+Chatra,Jharkhand,104.45,104.3,2021-10-29
+Deogarh,Jharkhand,102.55,102.38,2021-10-29
+Dhanbad,Jharkhand,102.79,102.63,2021-10-29
+Dumka,Jharkhand,102.98,102.8,2021-10-29
+East Singhbhum,Jharkhand,103.46,103.29,2021-10-29
+Garhwa,Jharkhand,105.44,105.29,2021-10-29
+Giridih,Jharkhand,103.9,103.73,2021-10-29
+Godda,Jharkhand,103.07,102.89,2021-10-29
+Gumla,Jharkhand,103.67,103.53,2021-10-29
+Hazaribagh,Jharkhand,104.24,104.09,2021-10-29
+Jamtara,Jharkhand,103.18,103.0,2021-10-29
+Khunti,Jharkhand,102.79,102.65,2021-10-29
+Koderma,Jharkhand,103.74,103.56,2021-10-29
+Latehar,Jharkhand,104.07,103.92,2021-10-29
+Lohardaga,Jharkhand,103.73,103.58,2021-10-29
+Pakur,Jharkhand,103.87,103.69,2021-10-29
+Palamau,Jharkhand,105.7,105.54,2021-10-29
+Ramgarh,Jharkhand,103.4,103.25,2021-10-29
+Ranchi,Jharkhand,102.87,102.73,2021-10-29
+Sahibganj,Jharkhand,104.24,104.05,2021-10-29
+Saraikela Kharasawan,Jharkhand,103.17,103.01,2021-10-29
+Simdega,Jharkhand,103.82,103.67,2021-10-29
+West Singhbhum,Jharkhand,104.05,103.89,2021-10-29
+Bokaro,Jharkhand,103.21,103.05,2021-10-30
+Chatra,Jharkhand,104.45,104.3,2021-10-30
+Deogarh,Jharkhand,102.55,102.38,2021-10-30
+Dhanbad,Jharkhand,102.79,102.63,2021-10-30
+Dumka,Jharkhand,102.98,102.8,2021-10-30
+East Singhbhum,Jharkhand,103.46,103.29,2021-10-30
+Garhwa,Jharkhand,105.44,105.29,2021-10-30
+Giridih,Jharkhand,103.9,103.73,2021-10-30
+Godda,Jharkhand,103.07,102.89,2021-10-30
+Gumla,Jharkhand,103.67,103.53,2021-10-30
+Hazaribagh,Jharkhand,104.24,104.09,2021-10-30
+Jamtara,Jharkhand,103.18,103.0,2021-10-30
+Khunti,Jharkhand,102.79,102.65,2021-10-30
+Koderma,Jharkhand,103.74,103.56,2021-10-30
+Latehar,Jharkhand,104.07,103.92,2021-10-30
+Lohardaga,Jharkhand,103.73,103.58,2021-10-30
+Pakur,Jharkhand,103.87,103.69,2021-10-30
+Palamau,Jharkhand,105.7,105.54,2021-10-30
+Ramgarh,Jharkhand,103.4,103.25,2021-10-30
+Ranchi,Jharkhand,102.87,102.73,2021-10-30
+Sahibganj,Jharkhand,104.24,104.05,2021-10-30
+Saraikela Kharasawan,Jharkhand,103.17,103.01,2021-10-30
+Simdega,Jharkhand,103.82,103.67,2021-10-30
+West Singhbhum,Jharkhand,104.05,103.89,2021-10-30
+Bokaro,Jharkhand,103.84,103.76,2021-11-01
+Chatra,Jharkhand,105.11,105.03,2021-11-01
+Deogarh,Jharkhand,103.23,103.13,2021-11-01
+Dhanbad,Jharkhand,103.45,103.37,2021-11-01
+Dumka,Jharkhand,104.17,104.07,2021-11-01
+East Singhbhum,Jharkhand,103.95,103.86,2021-11-01
+Garhwa,Jharkhand,105.92,105.84,2021-11-01
+Giridih,Jharkhand,103.77,103.69,2021-11-01
+Godda,Jharkhand,104.17,104.06,2021-11-01
+Gumla,Jharkhand,103.9,103.83,2021-11-01
+Hazaribagh,Jharkhand,104.16,104.09,2021-11-01
+Jamtara,Jharkhand,104.06,103.95,2021-11-01
+Khunti,Jharkhand,103.58,103.51,2021-11-01
+Koderma,Jharkhand,104.28,104.17,2021-11-01
+Latehar,Jharkhand,104.53,104.46,2021-11-01
+Lohardaga,Jharkhand,104.38,104.31,2021-11-01
+Pakur,Jharkhand,104.82,104.71,2021-11-01
+Palamau,Jharkhand,106.36,106.27,2021-11-01
+Ramgarh,Jharkhand,104.05,103.98,2021-11-01
+Ranchi,Jharkhand,103.53,103.46,2021-11-01
+Sahibganj,Jharkhand,104.81,104.7,2021-11-01
+Saraikela Kharasawan,Jharkhand,103.46,103.37,2021-11-01
+Simdega,Jharkhand,104.47,104.4,2021-11-01
+West Singhbhum,Jharkhand,104.77,104.68,2021-11-01
+Bokaro,Jharkhand,104.57,0.0,2021-11-04
+Chatra,Jharkhand,105.87,0.0,2021-11-04
+Deogarh,Jharkhand,104.09,0.0,2021-11-04
+Dhanbad,Jharkhand,104.36,0.0,2021-11-04
+Dumka,Jharkhand,104.26,0.0,2021-11-04
+East Singhbhum,Jharkhand,104.16,0.0,2021-11-04
+Garhwa,Jharkhand,106.73,0.0,2021-11-04
+Giridih,Jharkhand,104.68,0.0,2021-11-04
+Godda,Jharkhand,105.13,0.0,2021-11-04
+Gumla,Jharkhand,105.07,0.0,2021-11-04
+Hazaribagh,Jharkhand,104.85,0.0,2021-11-04
+Jamtara,Jharkhand,104.78,0.0,2021-11-04
+Khunti,Jharkhand,104.12,0.0,2021-11-04
+Koderma,Jharkhand,105.17,0.0,2021-11-04
+Latehar,Jharkhand,106.3,0.0,2021-11-04
+Lohardaga,Jharkhand,105.17,0.0,2021-11-04
+Pakur,Jharkhand,105.59,0.0,2021-11-04
+Palamau,Jharkhand,107.18,0.0,2021-11-04
+Ramgarh,Jharkhand,104.76,0.0,2021-11-04
+Ranchi,Jharkhand,104.2,0.0,2021-11-04
+Sahibganj,Jharkhand,105.22,0.0,2021-11-04
+Saraikela Kharasawan,Jharkhand,104.13,0.0,2021-11-04
+Simdega,Jharkhand,104.9,0.0,2021-11-04
+West Singhbhum,Jharkhand,104.21,0.0,2021-11-04
+Bokaro,Jharkhand,103.84,0.0,2021-11-05
+Chatra,Jharkhand,105.11,0.0,2021-11-05
+Deogarh,Jharkhand,103.23,0.0,2021-11-05
+Dhanbad,Jharkhand,103.45,0.0,2021-11-05
+Dumka,Jharkhand,104.17,0.0,2021-11-05
+East Singhbhum,Jharkhand,103.95,0.0,2021-11-05
+Garhwa,Jharkhand,105.92,0.0,2021-11-05
+Giridih,Jharkhand,103.77,0.0,2021-11-05
+Godda,Jharkhand,104.17,0.0,2021-11-05
+Gumla,Jharkhand,103.9,0.0,2021-11-05
+Hazaribagh,Jharkhand,104.16,0.0,2021-11-05
+Jamtara,Jharkhand,104.06,0.0,2021-11-05
+Khunti,Jharkhand,103.58,0.0,2021-11-05
+Koderma,Jharkhand,104.28,0.0,2021-11-05
+Latehar,Jharkhand,104.53,0.0,2021-11-05
+Lohardaga,Jharkhand,104.38,0.0,2021-11-05
+Pakur,Jharkhand,104.82,0.0,2021-11-05
+Palamau,Jharkhand,106.36,0.0,2021-11-05
+Ramgarh,Jharkhand,104.05,0.0,2021-11-05
+Ranchi,Jharkhand,103.53,0.0,2021-11-05
+Sahibganj,Jharkhand,104.81,0.0,2021-11-05
+Saraikela Kharasawan,Jharkhand,103.46,0.0,2021-11-05
+Simdega,Jharkhand,104.47,0.0,2021-11-05
+West Singhbhum,Jharkhand,104.77,0.0,2021-11-05
+Bokaro,Jharkhand,98.59,91.62,2021-11-07
+Chatra,Jharkhand,99.92,92.96,2021-11-07
+Deogarh,Jharkhand,98.84,91.85,2021-11-07
+Dhanbad,Jharkhand,98.66,91.68,2021-11-07
+Dumka,Jharkhand,98.82,91.82,2021-11-07
+East Singhbhum,Jharkhand,99.0,92.02,2021-11-07
+Garhwa,Jharkhand,101.24,94.27,2021-11-07
+Giridih,Jharkhand,99.79,92.81,2021-11-07
+Godda,Jharkhand,99.1,92.1,2021-11-07
+Gumla,Jharkhand,99.34,92.38,2021-11-07
+Hazaribagh,Jharkhand,99.55,92.59,2021-11-07
+Jamtara,Jharkhand,98.87,91.87,2021-11-07
+Khunti,Jharkhand,98.44,91.48,2021-11-07
+Koderma,Jharkhand,99.22,92.23,2021-11-07
+Latehar,Jharkhand,99.79,92.83,2021-11-07
+Lohardaga,Jharkhand,99.31,92.35,2021-11-07
+Pakur,Jharkhand,99.91,92.91,2021-11-07
+Palamau,Jharkhand,100.53,93.57,2021-11-07
+Ramgarh,Jharkhand,99.08,92.12,2021-11-07
+Ranchi,Jharkhand,98.93,91.97,2021-11-07
+Sahibganj,Jharkhand,99.86,92.85,2021-11-07
+Saraikela Kharasawan,Jharkhand,99.1,92.12,2021-11-07
+Simdega,Jharkhand,99.53,92.56,2021-11-07
+West Singhbhum,Jharkhand,99.69,92.71,2021-11-07
+Bokaro,Jharkhand,98.78,91.81,2021-11-08
+Chatra,Jharkhand,99.94,92.98,2021-11-08
+Deogarh,Jharkhand,98.23,91.24,2021-11-08
+Dhanbad,Jharkhand,98.44,91.47,2021-11-08
+Dumka,Jharkhand,99.22,92.23,2021-11-08
+East Singhbhum,Jharkhand,98.45,91.48,2021-11-08
+Garhwa,Jharkhand,101.26,94.29,2021-11-08
+Giridih,Jharkhand,99.62,92.64,2021-11-08
+Godda,Jharkhand,99.22,92.22,2021-11-08
+Gumla,Jharkhand,99.61,92.64,2021-11-08
+Hazaribagh,Jharkhand,99.55,92.59,2021-11-08
+Jamtara,Jharkhand,99.1,92.1,2021-11-08
+Khunti,Jharkhand,98.44,91.48,2021-11-08
+Koderma,Jharkhand,99.48,92.48,2021-11-08
+Latehar,Jharkhand,99.79,92.83,2021-11-08
+Lohardaga,Jharkhand,99.43,92.47,2021-11-08
+Pakur,Jharkhand,99.71,92.71,2021-11-08
+Palamau,Jharkhand,100.85,93.88,2021-11-08
+Ramgarh,Jharkhand,99.08,92.12,2021-11-08
+Ranchi,Jharkhand,98.52,91.56,2021-11-08
+Sahibganj,Jharkhand,99.86,92.85,2021-11-08
+Saraikela Kharasawan,Jharkhand,98.64,91.67,2021-11-08
+Simdega,Jharkhand,99.35,92.39,2021-11-08
+West Singhbhum,Jharkhand,99.08,92.11,2021-11-08
+Bokaro,Jharkhand,98.98,92.01,2021-11-09
+Chatra,Jharkhand,100.13,93.16,2021-11-09
+Deogarh,Jharkhand,98.2,91.21,2021-11-09
+Dhanbad,Jharkhand,98.81,91.83,2021-11-09
+Dumka,Jharkhand,98.82,91.82,2021-11-09
+East Singhbhum,Jharkhand,98.45,91.48,2021-11-09
+Garhwa,Jharkhand,101.06,94.09,2021-11-09
+Giridih,Jharkhand,98.88,91.91,2021-11-09
+Godda,Jharkhand,99.1,92.1,2021-11-09
+Gumla,Jharkhand,99.61,92.64,2021-11-09
+Hazaribagh,Jharkhand,99.55,92.59,2021-11-09
+Jamtara,Jharkhand,98.87,91.87,2021-11-09
+Khunti,Jharkhand,98.44,91.48,2021-11-09
+Koderma,Jharkhand,99.61,92.61,2021-11-09
+Latehar,Jharkhand,100.62,93.65,2021-11-09
+Lohardaga,Jharkhand,99.49,92.53,2021-11-09
+Pakur,Jharkhand,99.91,92.91,2021-11-09
+Palamau,Jharkhand,100.59,93.62,2021-11-09
+Ramgarh,Jharkhand,99.2,92.24,2021-11-09
+Ranchi,Jharkhand,98.7,91.74,2021-11-09
+Sahibganj,Jharkhand,99.89,92.89,2021-11-09
+Saraikela Kharasawan,Jharkhand,98.45,91.48,2021-11-09
+Simdega,Jharkhand,99.53,92.56,2021-11-09
+West Singhbhum,Jharkhand,99.37,92.4,2021-11-09
+Bokaro,Jharkhand,98.72,91.75,2021-11-11
+Chatra,Jharkhand,100.18,93.22,2021-11-11
+Deogarh,Jharkhand,98.56,91.57,2021-11-11
+Dhanbad,Jharkhand,98.51,91.54,2021-11-11
+Dumka,Jharkhand,99.27,92.27,2021-11-11
+East Singhbhum,Jharkhand,98.68,91.71,2021-11-11
+Garhwa,Jharkhand,101.24,94.27,2021-11-11
+Giridih,Jharkhand,99.61,92.63,2021-11-11
+Godda,Jharkhand,99.5,92.5,2021-11-11
+Gumla,Jharkhand,99.34,92.38,2021-11-11
+Hazaribagh,Jharkhand,99.7,92.74,2021-11-11
+Jamtara,Jharkhand,98.87,91.87,2021-11-11
+Khunti,Jharkhand,98.44,91.48,2021-11-11
+Koderma,Jharkhand,99.46,92.46,2021-11-11
+Latehar,Jharkhand,99.79,92.83,2021-11-11
+Lohardaga,Jharkhand,99.43,92.47,2021-11-11
+Pakur,Jharkhand,99.41,92.41,2021-11-11
+Palamau,Jharkhand,100.13,93.16,2021-11-11
+Ramgarh,Jharkhand,99.08,92.12,2021-11-11
+Ranchi,Jharkhand,99.11,92.15,2021-11-11
+Sahibganj,Jharkhand,99.86,92.85,2021-11-11
+Saraikela Kharasawan,Jharkhand,98.64,91.67,2021-11-11
+Simdega,Jharkhand,99.3,92.34,2021-11-11
+West Singhbhum,Jharkhand,100.47,93.48,2021-11-11
+Bokaro,Jharkhand,99.08,92.11,2021-11-12
+Chatra,Jharkhand,99.92,92.95,2021-11-12
+Deogarh,Jharkhand,98.2,91.21,2021-11-12
+Dhanbad,Jharkhand,98.7,91.73,2021-11-12
+Dumka,Jharkhand,98.82,91.82,2021-11-12
+East Singhbhum,Jharkhand,98.87,91.89,2021-11-12
+Garhwa,Jharkhand,101.06,94.09,2021-11-12
+Giridih,Jharkhand,99.19,92.22,2021-11-12
+Godda,Jharkhand,99.1,92.1,2021-11-12
+Gumla,Jharkhand,99.39,92.42,2021-11-12
+Hazaribagh,Jharkhand,99.71,92.75,2021-11-12
+Jamtara,Jharkhand,98.87,91.87,2021-11-12
+Khunti,Jharkhand,98.44,91.48,2021-11-12
+Koderma,Jharkhand,99.48,92.48,2021-11-12
+Latehar,Jharkhand,99.79,92.83,2021-11-12
+Lohardaga,Jharkhand,99.33,92.37,2021-11-12
+Pakur,Jharkhand,99.91,92.91,2021-11-12
+Palamau,Jharkhand,100.85,93.88,2021-11-12
+Ramgarh,Jharkhand,99.05,92.09,2021-11-12
+Ranchi,Jharkhand,98.52,91.56,2021-11-12
+Sahibganj,Jharkhand,99.89,92.89,2021-11-12
+Saraikela Kharasawan,Jharkhand,98.45,91.48,2021-11-12
+Simdega,Jharkhand,99.35,92.39,2021-11-12
+West Singhbhum,Jharkhand,99.23,92.25,2021-11-12
+Bokaro,Jharkhand,99.08,92.11,2021-11-14
+Chatra,Jharkhand,99.92,92.95,2021-11-14
+Deogarh,Jharkhand,98.2,91.21,2021-11-14
+Dhanbad,Jharkhand,98.52,91.55,2021-11-14
+Dumka,Jharkhand,99.22,92.23,2021-11-14
+East Singhbhum,Jharkhand,98.61,91.64,2021-11-14
+Garhwa,Jharkhand,101.05,94.08,2021-11-14
+Giridih,Jharkhand,99.62,92.64,2021-11-14
+Godda,Jharkhand,98.92,91.93,2021-11-14
+Gumla,Jharkhand,99.61,92.64,2021-11-14
+Hazaribagh,Jharkhand,99.71,92.75,2021-11-14
+Jamtara,Jharkhand,98.87,91.87,2021-11-14
+Khunti,Jharkhand,98.44,91.48,2021-11-14
+Koderma,Jharkhand,99.34,92.34,2021-11-14
+Latehar,Jharkhand,99.79,92.83,2021-11-14
+Lohardaga,Jharkhand,99.49,92.53,2021-11-14
+Pakur,Jharkhand,99.91,92.91,2021-11-14
+Palamau,Jharkhand,100.59,93.62,2021-11-14
+Ramgarh,Jharkhand,99.08,92.12,2021-11-14
+Ranchi,Jharkhand,98.82,91.84,2021-11-14
+Sahibganj,Jharkhand,99.89,92.89,2021-11-14
+Saraikela Kharasawan,Jharkhand,98.45,91.48,2021-11-14
+Simdega,Jharkhand,99.91,92.94,2021-11-14
+West Singhbhum,Jharkhand,99.51,92.53,2021-11-14
+Bokaro,Jharkhand,98.63,91.66,2021-11-16
+Chatra,Jharkhand,99.87,92.9,2021-11-16
+Deogarh,Jharkhand,98.8,91.81,2021-11-16
+Dhanbad,Jharkhand,98.91,91.94,2021-11-16
+Dumka,Jharkhand,98.57,91.58,2021-11-16
+East Singhbhum,Jharkhand,98.55,91.57,2021-11-16
+Garhwa,Jharkhand,101.26,94.29,2021-11-16
+Giridih,Jharkhand,99.47,92.49,2021-11-16
+Godda,Jharkhand,99.45,92.45,2021-11-16
+Gumla,Jharkhand,99.34,92.38,2021-11-16
+Hazaribagh,Jharkhand,99.71,92.75,2021-11-16
+Jamtara,Jharkhand,99.1,92.1,2021-11-16
+Khunti,Jharkhand,98.44,91.48,2021-11-16
+Koderma,Jharkhand,99.46,92.46,2021-11-16
+Latehar,Jharkhand,100.62,93.65,2021-11-16
+Lohardaga,Jharkhand,99.43,92.47,2021-11-16
+Pakur,Jharkhand,99.41,92.41,2021-11-16
+Palamau,Jharkhand,100.51,93.54,2021-11-16
+Ramgarh,Jharkhand,99.08,92.12,2021-11-16
+Ranchi,Jharkhand,98.52,91.56,2021-11-16
+Sahibganj,Jharkhand,99.86,92.85,2021-11-16
+Saraikela Kharasawan,Jharkhand,98.45,91.48,2021-11-16
+Simdega,Jharkhand,99.22,92.26,2021-11-16
+West Singhbhum,Jharkhand,99.73,92.74,2021-11-16
+Bokaro,Jharkhand,98.72,91.75,2021-11-17
+Chatra,Jharkhand,99.87,92.9,2021-11-17
+Deogarh,Jharkhand,98.23,91.24,2021-11-17
+Dhanbad,Jharkhand,98.76,91.79,2021-11-17
+Dumka,Jharkhand,98.82,91.82,2021-11-17
+East Singhbhum,Jharkhand,98.45,91.48,2021-11-17
+Garhwa,Jharkhand,101.05,94.08,2021-11-17
+Giridih,Jharkhand,99.61,92.63,2021-11-17
+Godda,Jharkhand,98.74,91.75,2021-11-17
+Gumla,Jharkhand,99.35,92.39,2021-11-17
+Hazaribagh,Jharkhand,99.55,92.59,2021-11-17
+Jamtara,Jharkhand,99.0,92.0,2021-11-17
+Khunti,Jharkhand,98.58,91.62,2021-11-17
+Koderma,Jharkhand,99.34,92.35,2021-11-17
+Latehar,Jharkhand,100.28,93.31,2021-11-17
+Lohardaga,Jharkhand,99.43,92.47,2021-11-17
+Pakur,Jharkhand,99.41,92.41,2021-11-17
+Palamau,Jharkhand,100.62,93.65,2021-11-17
+Ramgarh,Jharkhand,99.14,92.16,2021-11-17
+Ranchi,Jharkhand,98.87,91.92,2021-11-17
+Sahibganj,Jharkhand,99.86,92.85,2021-11-17
+Saraikela Kharasawan,Jharkhand,98.45,91.48,2021-11-17
+Simdega,Jharkhand,99.91,92.94,2021-11-17
+West Singhbhum,Jharkhand,99.84,92.86,2021-11-17
+Bokaro,Jharkhand,99.08,92.11,2021-11-19
+Chatra,Jharkhand,100.18,93.22,2021-11-19
+Deogarh,Jharkhand,98.2,91.21,2021-11-19
+Dhanbad,Jharkhand,98.68,91.7,2021-11-19
+Dumka,Jharkhand,99.22,92.23,2021-11-19
+East Singhbhum,Jharkhand,98.45,91.48,2021-11-19
+Garhwa,Jharkhand,101.06,94.09,2021-11-19
+Giridih,Jharkhand,99.36,92.39,2021-11-19
+Godda,Jharkhand,98.97,91.98,2021-11-19
+Gumla,Jharkhand,99.39,92.42,2021-11-19
+Hazaribagh,Jharkhand,99.97,93.01,2021-11-19
+Jamtara,Jharkhand,98.87,91.87,2021-11-19
+Khunti,Jharkhand,98.44,91.48,2021-11-19
+Koderma,Jharkhand,99.67,92.67,2021-11-19
+Latehar,Jharkhand,99.79,92.83,2021-11-19
+Lohardaga,Jharkhand,99.33,92.37,2021-11-19
+Pakur,Jharkhand,99.91,92.91,2021-11-19
+Palamau,Jharkhand,100.94,93.97,2021-11-19
+Ramgarh,Jharkhand,99.05,92.09,2021-11-19
+Ranchi,Jharkhand,98.52,91.56,2021-11-19
+Sahibganj,Jharkhand,99.89,92.89,2021-11-19
+Saraikela Kharasawan,Jharkhand,98.45,91.48,2021-11-19
+Simdega,Jharkhand,99.35,92.39,2021-11-19
+West Singhbhum,Jharkhand,100.47,93.48,2021-11-19
+Bokaro,Jharkhand,98.59,91.62,2021-11-23
+Chatra,Jharkhand,99.84,92.88,2021-11-23
+Deogarh,Jharkhand,98.56,91.57,2021-11-23
+Dhanbad,Jharkhand,98.91,91.94,2021-11-23
+Dumka,Jharkhand,98.82,91.82,2021-11-23
+East Singhbhum,Jharkhand,99.0,92.02,2021-11-23
+Garhwa,Jharkhand,101.26,94.28,2021-11-23
+Giridih,Jharkhand,99.36,92.39,2021-11-23
+Godda,Jharkhand,99.45,92.45,2021-11-23
+Gumla,Jharkhand,99.39,92.42,2021-11-23
+Hazaribagh,Jharkhand,99.77,92.8,2021-11-23
+Jamtara,Jharkhand,99.0,92.0,2021-11-23
+Khunti,Jharkhand,98.44,91.48,2021-11-23
+Koderma,Jharkhand,99.46,92.46,2021-11-23
+Latehar,Jharkhand,100.62,93.65,2021-11-23
+Lohardaga,Jharkhand,99.43,92.47,2021-11-23
+Pakur,Jharkhand,99.6,92.6,2021-11-23
+Palamau,Jharkhand,100.51,93.54,2021-11-23
+Ramgarh,Jharkhand,99.05,92.09,2021-11-23
+Ranchi,Jharkhand,99.16,92.2,2021-11-23
+Sahibganj,Jharkhand,99.86,92.85,2021-11-23
+Saraikela Kharasawan,Jharkhand,98.75,91.77,2021-11-23
+Simdega,Jharkhand,99.82,92.85,2021-11-23
+West Singhbhum,Jharkhand,99.08,92.11,2021-11-23
+Bokaro,Jharkhand,98.72,91.75,2021-11-24
+Chatra,Jharkhand,100.19,93.23,2021-11-24
+Deogarh,Jharkhand,98.3,91.31,2021-11-24
+Dhanbad,Jharkhand,98.68,91.7,2021-11-24
+Dumka,Jharkhand,99.33,92.34,2021-11-24
+East Singhbhum,Jharkhand,98.45,91.48,2021-11-24
+Garhwa,Jharkhand,101.35,94.38,2021-11-24
+Giridih,Jharkhand,99.47,92.49,2021-11-24
+Godda,Jharkhand,99.59,92.59,2021-11-24
+Gumla,Jharkhand,99.61,92.64,2021-11-24
+Hazaribagh,Jharkhand,99.53,92.55,2021-11-24
+Jamtara,Jharkhand,98.87,91.87,2021-11-24
+Khunti,Jharkhand,98.44,91.48,2021-11-24
+Koderma,Jharkhand,99.46,92.46,2021-11-24
+Latehar,Jharkhand,100.4,93.43,2021-11-24
+Lohardaga,Jharkhand,99.31,92.35,2021-11-24
+Pakur,Jharkhand,99.6,92.6,2021-11-24
+Palamau,Jharkhand,101.52,94.55,2021-11-24
+Ramgarh,Jharkhand,99.2,92.24,2021-11-24
+Ranchi,Jharkhand,98.79,91.83,2021-11-24
+Sahibganj,Jharkhand,99.9,92.9,2021-11-24
+Saraikela Kharasawan,Jharkhand,99.1,92.12,2021-11-24
+Simdega,Jharkhand,99.82,92.85,2021-11-24
+West Singhbhum,Jharkhand,99.73,92.74,2021-11-24
+Bokaro,Jharkhand,99.08,92.11,2021-11-29
+Chatra,Jharkhand,99.48,92.48,2021-11-29
+Deogarh,Jharkhand,98.2,91.21,2021-11-29
+Dhanbad,Jharkhand,98.51,91.54,2021-11-29
+Dumka,Jharkhand,99.22,92.23,2021-11-29
+East Singhbhum,Jharkhand,98.87,91.89,2021-11-29
+Garhwa,Jharkhand,101.06,94.09,2021-11-29
+Giridih,Jharkhand,99.61,92.63,2021-11-29
+Godda,Jharkhand,99.1,92.1,2021-11-29
+Gumla,Jharkhand,99.39,92.42,2021-11-29
+Hazaribagh,Jharkhand,99.26,92.29,2021-11-29
+Jamtara,Jharkhand,99.0,92.0,2021-11-29
+Khunti,Jharkhand,98.44,91.48,2021-11-29
+Koderma,Jharkhand,99.67,92.67,2021-11-29
+Latehar,Jharkhand,99.84,92.88,2021-11-29
+Lohardaga,Jharkhand,99.33,92.37,2021-11-29
+Pakur,Jharkhand,99.91,92.91,2021-11-29
+Palamau,Jharkhand,100.85,93.88,2021-11-29
+Ramgarh,Jharkhand,99.08,92.12,2021-11-29
+Ranchi,Jharkhand,98.86,91.9,2021-11-29
+Sahibganj,Jharkhand,99.89,92.89,2021-11-29
+Saraikela Kharasawan,Jharkhand,98.93,91.95,2021-11-29
+Simdega,Jharkhand,99.35,92.39,2021-11-29
+West Singhbhum,Jharkhand,99.63,92.65,2021-11-29
+Bokaro,Jharkhand,98.86,91.88,2021-12-01
+Chatra,Jharkhand,99.92,92.96,2021-12-01
+Deogarh,Jharkhand,98.56,91.57,2021-12-01
+Dhanbad,Jharkhand,98.61,91.64,2021-12-01
+Dumka,Jharkhand,98.82,91.82,2021-12-01
+East Singhbhum,Jharkhand,99.31,92.33,2021-12-01
+Garhwa,Jharkhand,101.25,94.27,2021-12-01
+Giridih,Jharkhand,99.16,92.18,2021-12-01
+Godda,Jharkhand,99.45,92.45,2021-12-01
+Gumla,Jharkhand,99.57,92.6,2021-12-01
+Hazaribagh,Jharkhand,99.77,92.8,2021-12-01
+Jamtara,Jharkhand,98.87,91.87,2021-12-01
+Khunti,Jharkhand,98.44,91.48,2021-12-01
+Koderma,Jharkhand,99.46,92.46,2021-12-01
+Latehar,Jharkhand,100.4,93.43,2021-12-01
+Lohardaga,Jharkhand,99.49,92.53,2021-12-01
+Pakur,Jharkhand,99.91,92.91,2021-12-01
+Palamau,Jharkhand,100.52,93.55,2021-12-01
+Ramgarh,Jharkhand,99.08,92.12,2021-12-01
+Ranchi,Jharkhand,98.66,91.71,2021-12-01
+Sahibganj,Jharkhand,99.99,92.99,2021-12-01
+Saraikela Kharasawan,Jharkhand,98.84,91.86,2021-12-01
+Simdega,Jharkhand,99.53,92.56,2021-12-01
+West Singhbhum,Jharkhand,99.08,92.11,2021-12-01
+Bokaro,Jharkhand,99.43,92.45,2021-12-02
+Chatra,Jharkhand,100.19,93.23,2021-12-02
+Deogarh,Jharkhand,98.41,91.42,2021-12-02
+Dhanbad,Jharkhand,98.68,91.7,2021-12-02
+Dumka,Jharkhand,99.27,92.27,2021-12-02
+East Singhbhum,Jharkhand,98.52,91.54,2021-12-02
+Garhwa,Jharkhand,101.25,94.27,2021-12-02
+Giridih,Jharkhand,99.08,92.11,2021-12-02
+Godda,Jharkhand,99.1,92.1,2021-12-02
+Gumla,Jharkhand,98.92,91.96,2021-12-02
+Hazaribagh,Jharkhand,99.55,92.59,2021-12-02
+Jamtara,Jharkhand,99.1,92.1,2021-12-02
+Khunti,Jharkhand,98.44,91.48,2021-12-02
+Koderma,Jharkhand,99.67,92.67,2021-12-02
+Latehar,Jharkhand,99.79,92.83,2021-12-02
+Lohardaga,Jharkhand,99.49,92.53,2021-12-02
+Pakur,Jharkhand,99.91,92.91,2021-12-02
+Palamau,Jharkhand,101.52,94.55,2021-12-02
+Ramgarh,Jharkhand,99.2,92.24,2021-12-02
+Ranchi,Jharkhand,98.52,91.56,2021-12-02
+Sahibganj,Jharkhand,99.54,92.54,2021-12-02
+Saraikela Kharasawan,Jharkhand,98.81,91.83,2021-12-02
+Simdega,Jharkhand,99.53,92.56,2021-12-02
+West Singhbhum,Jharkhand,98.53,91.55,2021-12-02
+Bokaro,Jharkhand,99.43,92.45,2021-12-03
+Chatra,Jharkhand,100.19,93.23,2021-12-03
+Deogarh,Jharkhand,98.41,91.42,2021-12-03
+Dhanbad,Jharkhand,98.68,91.7,2021-12-03
+Dumka,Jharkhand,99.27,92.27,2021-12-03
+East Singhbhum,Jharkhand,98.52,91.54,2021-12-03
+Garhwa,Jharkhand,101.25,94.27,2021-12-03
+Giridih,Jharkhand,99.08,92.11,2021-12-03
+Godda,Jharkhand,99.1,92.1,2021-12-03
+Gumla,Jharkhand,98.92,91.96,2021-12-03
+Hazaribagh,Jharkhand,99.55,92.59,2021-12-03
+Jamtara,Jharkhand,99.1,92.1,2021-12-03
+Khunti,Jharkhand,98.44,91.48,2021-12-03
+Koderma,Jharkhand,99.67,92.67,2021-12-03
+Latehar,Jharkhand,99.79,92.83,2021-12-03
+Lohardaga,Jharkhand,99.49,92.53,2021-12-03
+Pakur,Jharkhand,99.91,92.91,2021-12-03
+Palamau,Jharkhand,101.52,94.55,2021-12-03
+Ramgarh,Jharkhand,99.2,92.24,2021-12-03
+Ranchi,Jharkhand,98.52,91.56,2021-12-03
+Sahibganj,Jharkhand,99.54,92.54,2021-12-03
+Saraikela Kharasawan,Jharkhand,98.81,91.83,2021-12-03
+Simdega,Jharkhand,99.53,92.56,2021-12-03
+West Singhbhum,Jharkhand,98.53,91.55,2021-12-03
+Bokaro,Jharkhand,99.43,92.45,2021-12-06
+Chatra,Jharkhand,99.48,92.48,2021-12-06
+Deogarh,Jharkhand,98.2,91.21,2021-12-06
+Dhanbad,Jharkhand,98.52,91.55,2021-12-06
+Dumka,Jharkhand,99.27,92.27,2021-12-06
+East Singhbhum,Jharkhand,98.97,91.99,2021-12-06
+Garhwa,Jharkhand,101.25,94.27,2021-12-06
+Giridih,Jharkhand,99.61,92.63,2021-12-06
+Godda,Jharkhand,99.22,92.22,2021-12-06
+Gumla,Jharkhand,98.92,91.96,2021-12-06
+Hazaribagh,Jharkhand,99.17,92.21,2021-12-06
+Jamtara,Jharkhand,99.0,92.0,2021-12-06
+Khunti,Jharkhand,98.44,91.48,2021-12-06
+Koderma,Jharkhand,99.48,92.48,2021-12-06
+Latehar,Jharkhand,99.79,92.83,2021-12-06
+Lohardaga,Jharkhand,99.43,92.47,2021-12-06
+Pakur,Jharkhand,99.91,92.91,2021-12-06
+Palamau,Jharkhand,100.49,93.52,2021-12-06
+Ramgarh,Jharkhand,99.2,92.24,2021-12-06
+Ranchi,Jharkhand,98.72,91.76,2021-12-06
+Sahibganj,Jharkhand,99.86,92.85,2021-12-06
+Saraikela Kharasawan,Jharkhand,98.81,91.83,2021-12-06
+Simdega,Jharkhand,99.3,92.34,2021-12-06
+West Singhbhum,Jharkhand,99.84,92.86,2021-12-06
+Bokaro,Jharkhand,98.59,91.62,2021-12-22
+Chatra,Jharkhand,100.18,93.22,2021-12-22
+Deogarh,Jharkhand,98.23,91.24,2021-12-22
+Dhanbad,Jharkhand,98.51,91.54,2021-12-22
+Dumka,Jharkhand,99.22,92.23,2021-12-22
+East Singhbhum,Jharkhand,98.97,91.99,2021-12-22
+Garhwa,Jharkhand,101.06,94.09,2021-12-22
+Giridih,Jharkhand,98.78,91.81,2021-12-22
+Godda,Jharkhand,99.22,92.22,2021-12-22
+Gumla,Jharkhand,98.92,91.96,2021-12-22
+Hazaribagh,Jharkhand,99.2,92.23,2021-12-22
+Jamtara,Jharkhand,99.1,92.1,2021-12-22
+Khunti,Jharkhand,98.58,91.62,2021-12-22
+Koderma,Jharkhand,99.61,92.61,2021-12-22
+Latehar,Jharkhand,99.79,92.83,2021-12-22
+Lohardaga,Jharkhand,99.43,92.47,2021-12-22
+Pakur,Jharkhand,99.71,92.71,2021-12-22
+Palamau,Jharkhand,100.85,93.88,2021-12-22
+Ramgarh,Jharkhand,99.08,92.12,2021-12-22
+Ranchi,Jharkhand,98.52,91.56,2021-12-22
+Sahibganj,Jharkhand,99.9,92.9,2021-12-22
+Saraikela Kharasawan,Jharkhand,98.45,91.48,2021-12-22
+Simdega,Jharkhand,99.53,92.56,2021-12-22
+West Singhbhum,Jharkhand,99.84,92.86,2021-12-22
+Bokaro,Jharkhand,98.59,91.62,2021-12-29
+Chatra,Jharkhand,100.18,93.22,2021-12-29
+Deogarh,Jharkhand,98.56,91.57,2021-12-29
+Dhanbad,Jharkhand,98.55,91.58,2021-12-29
+Dumka,Jharkhand,99.22,92.23,2021-12-29
+East Singhbhum,Jharkhand,98.87,91.89,2021-12-29
+Garhwa,Jharkhand,101.05,94.08,2021-12-29
+Giridih,Jharkhand,99.19,92.22,2021-12-29
+Godda,Jharkhand,99.1,92.1,2021-12-29
+Gumla,Jharkhand,99.35,92.39,2021-12-29
+Hazaribagh,Jharkhand,99.86,92.9,2021-12-29
+Jamtara,Jharkhand,99.1,92.1,2021-12-29
+Khunti,Jharkhand,98.44,91.48,2021-12-29
+Koderma,Jharkhand,99.61,92.61,2021-12-29
+Latehar,Jharkhand,99.79,92.83,2021-12-29
+Lohardaga,Jharkhand,99.43,92.47,2021-12-29
+Pakur,Jharkhand,99.59,92.59,2021-12-29
+Palamau,Jharkhand,101.52,94.55,2021-12-29
+Ramgarh,Jharkhand,99.08,92.12,2021-12-29
+Ranchi,Jharkhand,98.52,91.56,2021-12-29
+Sahibganj,Jharkhand,99.9,92.9,2021-12-29
+Saraikela Kharasawan,Jharkhand,99.1,92.12,2021-12-29
+Simdega,Jharkhand,99.35,92.39,2021-12-29
+West Singhbhum,Jharkhand,99.69,92.71,2021-12-29

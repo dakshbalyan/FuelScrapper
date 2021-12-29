@@ -1,0 +1,691 @@
+City,State,Petrol_Rate,Diesel_Rate,Date
+Bagalkot,Karnataka,111.83,102.71,2021-10-27
+Bangalore,Karnataka,111.34,102.23,2021-10-27
+Bangalore Rural,Karnataka,110.97,101.9,2021-10-27
+Belgaum,Karnataka,111.89,102.76,2021-10-27
+Bellary,Karnataka,113.53,104.26,2021-10-27
+Bidar,Karnataka,111.76,102.64,2021-10-27
+Bijapur,Karnataka,111.7,102.59,2021-10-27
+Chamrajnagar,Karnataka,111.42,102.31,2021-10-27
+Chikkaballapura,Karnataka,111.4,102.29,2021-10-27
+Chikmagalur,Karnataka,112.28,102.99,2021-10-27
+Chitradurga,Karnataka,113.96,104.51,2021-10-27
+Dakshin Kannad,Karnataka,110.49,101.42,2021-10-27
+Davangere,Karnataka,113.15,103.77,2021-10-27
+Dharwad,Karnataka,111.21,102.13,2021-10-27
+Gadag,Karnataka,111.58,102.47,2021-10-27
+Gulbarga,Karnataka,111.49,102.4,2021-10-27
+Hassan,Karnataka,111.41,102.18,2021-10-27
+Haveri,Karnataka,111.99,102.85,2021-10-27
+Kodagu,Karnataka,112.67,103.33,2021-10-27
+Kolar,Karnataka,111.03,101.95,2021-10-27
+Koppal,Karnataka,112.28,103.11,2021-10-27
+Mandya,Karnataka,111.22,102.12,2021-10-27
+Mysore,Karnataka,111.46,102.38,2021-10-27
+Raichur,Karnataka,111.53,102.48,2021-10-27
+Ramanagara,Karnataka,112.06,102.93,2021-10-27
+Shimoga,Karnataka,113.18,103.87,2021-10-27
+Tumkur,Karnataka,112.56,103.39,2021-10-27
+Udupi,Karnataka,111.24,102.14,2021-10-27
+Uttar Kannad,Karnataka,113.69,104.38,2021-10-27
+Yadgir,Karnataka,112.84,103.66,2021-10-27
+Bagalkot,Karnataka,112.95,103.84,2021-10-29
+Bangalore,Karnataka,112.43,103.35,2021-10-29
+Bangalore Rural,Karnataka,112.06,103.01,2021-10-29
+Belgaum,Karnataka,113.03,103.93,2021-10-29
+Bellary,Karnataka,114.34,105.12,2021-10-29
+Bidar,Karnataka,112.9,103.81,2021-10-29
+Bijapur,Karnataka,112.79,103.7,2021-10-29
+Chamrajnagar,Karnataka,112.51,103.42,2021-10-29
+Chikkaballapura,Karnataka,112.91,103.79,2021-10-29
+Chikmagalur,Karnataka,114.11,104.8,2021-10-29
+Chitradurga,Karnataka,115.05,105.62,2021-10-29
+Dakshin Kannad,Karnataka,111.58,102.53,2021-10-29
+Davangere,Karnataka,114.44,105.07,2021-10-29
+Dharwad,Karnataka,112.27,103.22,2021-10-29
+Gadag,Karnataka,113.19,104.06,2021-10-29
+Gulbarga,Karnataka,112.55,103.49,2021-10-29
+Hassan,Karnataka,112.5,103.3,2021-10-29
+Haveri,Karnataka,113.08,103.96,2021-10-29
+Kodagu,Karnataka,113.63,104.33,2021-10-29
+Kolar,Karnataka,112.36,103.29,2021-10-29
+Koppal,Karnataka,113.66,104.51,2021-10-29
+Mandya,Karnataka,112.45,103.36,2021-10-29
+Mysore,Karnataka,111.92,102.89,2021-10-29
+Raichur,Karnataka,112.25,103.22,2021-10-29
+Ramanagara,Karnataka,112.75,103.64,2021-10-29
+Shimoga,Karnataka,114.08,104.78,2021-10-29
+Tumkur,Karnataka,112.91,103.67,2021-10-29
+Udupi,Karnataka,112.3,103.2,2021-10-29
+Uttar Kannad,Karnataka,113.0,103.83,2021-10-29
+Yadgir,Karnataka,112.77,103.69,2021-10-29
+Bagalkot,Karnataka,112.95,103.84,2021-10-30
+Bangalore,Karnataka,112.43,103.35,2021-10-30
+Bangalore Rural,Karnataka,112.06,103.01,2021-10-30
+Belgaum,Karnataka,113.03,103.93,2021-10-30
+Bellary,Karnataka,114.34,105.12,2021-10-30
+Bidar,Karnataka,112.9,103.81,2021-10-30
+Bijapur,Karnataka,112.79,103.7,2021-10-30
+Chamrajnagar,Karnataka,112.51,103.42,2021-10-30
+Chikkaballapura,Karnataka,112.91,103.79,2021-10-30
+Chikmagalur,Karnataka,114.11,104.8,2021-10-30
+Chitradurga,Karnataka,115.05,105.62,2021-10-30
+Dakshin Kannad,Karnataka,111.58,102.53,2021-10-30
+Davangere,Karnataka,114.44,105.07,2021-10-30
+Dharwad,Karnataka,112.27,103.22,2021-10-30
+Gadag,Karnataka,113.19,104.06,2021-10-30
+Gulbarga,Karnataka,112.55,103.49,2021-10-30
+Hassan,Karnataka,112.5,103.3,2021-10-30
+Haveri,Karnataka,113.08,103.96,2021-10-30
+Kodagu,Karnataka,113.63,104.33,2021-10-30
+Kolar,Karnataka,112.36,103.29,2021-10-30
+Koppal,Karnataka,113.66,104.51,2021-10-30
+Mandya,Karnataka,112.45,103.36,2021-10-30
+Mysore,Karnataka,111.92,102.89,2021-10-30
+Raichur,Karnataka,112.25,103.22,2021-10-30
+Ramanagara,Karnataka,112.75,103.64,2021-10-30
+Shimoga,Karnataka,114.08,104.78,2021-10-30
+Tumkur,Karnataka,112.91,103.67,2021-10-30
+Udupi,Karnataka,112.3,103.2,2021-10-30
+Uttar Kannad,Karnataka,113.0,103.83,2021-10-30
+Yadgir,Karnataka,112.77,103.69,2021-10-30
+Bagalkot,Karnataka,113.73,104.64,2021-11-01
+Bangalore,Karnataka,113.15,104.09,2021-11-01
+Bangalore Rural,Karnataka,113.31,104.24,2021-11-01
+Belgaum,Karnataka,113.64,104.56,2021-11-01
+Bellary,Karnataka,115.0,105.8,2021-11-01
+Bidar,Karnataka,113.47,104.4,2021-11-01
+Bijapur,Karnataka,112.86,103.85,2021-11-01
+Chamrajnagar,Karnataka,113.24,104.16,2021-11-01
+Chikkaballapura,Karnataka,113.15,104.09,2021-11-01
+Chikmagalur,Karnataka,114.01,104.76,2021-11-01
+Chitradurga,Karnataka,114.96,105.62,2021-11-01
+Dakshin Kannad,Karnataka,112.52,103.47,2021-11-01
+Davangere,Karnataka,114.96,105.62,2021-11-01
+Dharwad,Karnataka,112.88,103.86,2021-11-01
+Gadag,Karnataka,113.46,104.39,2021-11-01
+Gulbarga,Karnataka,113.39,104.33,2021-11-01
+Hassan,Karnataka,113.15,103.97,2021-11-01
+Haveri,Karnataka,114.13,105.0,2021-11-01
+Kodagu,Karnataka,114.41,105.12,2021-11-01
+Kolar,Karnataka,113.09,104.03,2021-11-01
+Koppal,Karnataka,114.4,105.27,2021-11-01
+Mandya,Karnataka,113.11,104.05,2021-11-01
+Mysore,Karnataka,112.65,103.63,2021-11-01
+Raichur,Karnataka,113.84,104.76,2021-11-01
+Ramanagara,Karnataka,113.62,104.52,2021-11-01
+Shimoga,Karnataka,113.95,104.73,2021-11-01
+Tumkur,Karnataka,113.69,104.58,2021-11-01
+Udupi,Karnataka,112.77,103.71,2021-11-01
+Uttar Kannad,Karnataka,115.61,106.3,2021-11-01
+Yadgir,Karnataka,113.62,104.54,2021-11-01
+Bagalkot,Karnataka,113.73,0.0,2021-11-04
+Bangalore,Karnataka,113.15,0.0,2021-11-04
+Bangalore Rural,Karnataka,113.31,0.0,2021-11-04
+Belgaum,Karnataka,113.64,0.0,2021-11-04
+Bellary,Karnataka,115.0,0.0,2021-11-04
+Bidar,Karnataka,113.47,0.0,2021-11-04
+Bijapur,Karnataka,112.86,0.0,2021-11-04
+Chamrajnagar,Karnataka,113.24,0.0,2021-11-04
+Chikkaballapura,Karnataka,113.15,0.0,2021-11-04
+Chikmagalur,Karnataka,114.01,0.0,2021-11-04
+Chitradurga,Karnataka,114.96,0.0,2021-11-04
+Dakshin Kannad,Karnataka,112.52,0.0,2021-11-04
+Davangere,Karnataka,114.96,0.0,2021-11-04
+Dharwad,Karnataka,112.88,0.0,2021-11-04
+Gadag,Karnataka,113.46,0.0,2021-11-04
+Gulbarga,Karnataka,113.39,0.0,2021-11-04
+Hassan,Karnataka,113.15,0.0,2021-11-04
+Haveri,Karnataka,114.13,0.0,2021-11-04
+Kodagu,Karnataka,114.41,0.0,2021-11-04
+Kolar,Karnataka,113.09,0.0,2021-11-04
+Koppal,Karnataka,114.4,0.0,2021-11-04
+Mandya,Karnataka,113.11,0.0,2021-11-04
+Mysore,Karnataka,112.65,0.0,2021-11-04
+Raichur,Karnataka,113.84,0.0,2021-11-04
+Ramanagara,Karnataka,113.62,0.0,2021-11-04
+Shimoga,Karnataka,113.95,0.0,2021-11-04
+Tumkur,Karnataka,113.69,0.0,2021-11-04
+Udupi,Karnataka,112.77,0.0,2021-11-04
+Uttar Kannad,Karnataka,115.61,0.0,2021-11-04
+Yadgir,Karnataka,113.62,0.0,2021-11-04
+Bagalkot,Karnataka,101.53,85.9,2021-11-07
+Bangalore,Karnataka,100.58,85.01,2021-11-07
+Bangalore Rural,Karnataka,100.58,85.01,2021-11-07
+Belgaum,Karnataka,100.32,84.8,2021-11-07
+Bellary,Karnataka,101.56,85.94,2021-11-07
+Bidar,Karnataka,101.36,85.74,2021-11-07
+Bijapur,Karnataka,100.92,85.35,2021-11-07
+Chamrajnagar,Karnataka,100.67,85.1,2021-11-07
+Chikkaballapura,Karnataka,100.47,84.92,2021-11-07
+Chikmagalur,Karnataka,101.52,85.74,2021-11-07
+Chitradurga,Karnataka,101.59,85.8,2021-11-07
+Dakshin Kannad,Karnataka,100.56,84.96,2021-11-07
+Davangere,Karnataka,102.84,86.93,2021-11-07
+Dharwad,Karnataka,100.3,84.78,2021-11-07
+Gadag,Karnataka,101.12,85.53,2021-11-07
+Gulbarga,Karnataka,100.48,84.95,2021-11-07
+Hassan,Karnataka,100.63,84.93,2021-11-07
+Haveri,Karnataka,100.86,85.28,2021-11-07
+Kodagu,Karnataka,102.18,86.34,2021-11-07
+Kolar,Karnataka,100.31,84.77,2021-11-07
+Koppal,Karnataka,101.69,86.04,2021-11-07
+Mandya,Karnataka,100.65,85.08,2021-11-07
+Mysore,Karnataka,100.38,84.83,2021-11-07
+Raichur,Karnataka,100.39,84.87,2021-11-07
+Ramanagara,Karnataka,100.94,85.33,2021-11-07
+Shimoga,Karnataka,101.65,85.89,2021-11-07
+Tumkur,Karnataka,101.3,85.67,2021-11-07
+Udupi,Karnataka,100.46,84.87,2021-11-07
+Uttar Kannad,Karnataka,102.3,86.53,2021-11-07
+Yadgir,Karnataka,101.37,85.75,2021-11-07
+Bagalkot,Karnataka,101.08,85.49,2021-11-08
+Bangalore,Karnataka,100.58,85.01,2021-11-08
+Bangalore Rural,Karnataka,100.65,85.08,2021-11-08
+Belgaum,Karnataka,101.63,85.99,2021-11-08
+Bellary,Karnataka,102.23,86.53,2021-11-08
+Bidar,Karnataka,101.12,85.53,2021-11-08
+Bijapur,Karnataka,100.74,85.18,2021-11-08
+Chamrajnagar,Karnataka,100.6,85.03,2021-11-08
+Chikkaballapura,Karnataka,100.32,84.78,2021-11-08
+Chikmagalur,Karnataka,101.96,86.13,2021-11-08
+Chitradurga,Karnataka,102.41,86.53,2021-11-08
+Dakshin Kannad,Karnataka,99.76,84.24,2021-11-08
+Davangere,Karnataka,102.63,86.73,2021-11-08
+Dharwad,Karnataka,100.52,84.98,2021-11-08
+Gadag,Karnataka,100.9,85.32,2021-11-08
+Gulbarga,Karnataka,100.28,84.77,2021-11-08
+Hassan,Karnataka,100.39,84.72,2021-11-08
+Haveri,Karnataka,101.21,85.6,2021-11-08
+Kodagu,Karnataka,101.86,86.05,2021-11-08
+Kolar,Karnataka,100.64,85.07,2021-11-08
+Koppal,Karnataka,101.8,86.15,2021-11-08
+Mandya,Karnataka,100.46,84.9,2021-11-08
+Mysore,Karnataka,100.08,84.56,2021-11-08
+Raichur,Karnataka,101.24,85.65,2021-11-08
+Ramanagara,Karnataka,101.06,85.45,2021-11-08
+Shimoga,Karnataka,101.85,86.12,2021-11-08
+Tumkur,Karnataka,101.11,85.49,2021-11-08
+Udupi,Karnataka,100.08,84.53,2021-11-08
+Uttar Kannad,Karnataka,101.48,85.79,2021-11-08
+Yadgir,Karnataka,101.4,85.78,2021-11-08
+Bagalkot,Karnataka,101.14,85.54,2021-11-09
+Bangalore,Karnataka,100.67,85.1,2021-11-09
+Bangalore Rural,Karnataka,100.65,85.07,2021-11-09
+Belgaum,Karnataka,100.74,85.18,2021-11-09
+Bellary,Karnataka,101.8,86.15,2021-11-09
+Bidar,Karnataka,101.09,85.5,2021-11-09
+Bijapur,Karnataka,100.5,84.96,2021-11-09
+Chamrajnagar,Karnataka,100.71,85.12,2021-11-09
+Chikkaballapura,Karnataka,101.06,85.45,2021-11-09
+Chikmagalur,Karnataka,101.32,85.58,2021-11-09
+Chitradurga,Karnataka,102.34,86.47,2021-11-09
+Dakshin Kannad,Karnataka,100.81,85.19,2021-11-09
+Davangere,Karnataka,102.22,86.37,2021-11-09
+Dharwad,Karnataka,100.31,84.79,2021-11-09
+Gadag,Karnataka,101.38,85.76,2021-11-09
+Gulbarga,Karnataka,100.28,84.77,2021-11-09
+Hassan,Karnataka,100.39,84.72,2021-11-09
+Haveri,Karnataka,101.28,85.66,2021-11-09
+Kodagu,Karnataka,101.89,86.06,2021-11-09
+Kolar,Karnataka,100.55,84.99,2021-11-09
+Koppal,Karnataka,101.4,85.79,2021-11-09
+Mandya,Karnataka,100.08,84.56,2021-11-09
+Mysore,Karnataka,100.56,84.99,2021-11-09
+Raichur,Karnataka,100.44,84.93,2021-11-09
+Ramanagara,Karnataka,101.32,85.69,2021-11-09
+Shimoga,Karnataka,101.65,85.89,2021-11-09
+Tumkur,Karnataka,100.95,85.34,2021-11-09
+Udupi,Karnataka,100.46,84.87,2021-11-09
+Uttar Kannad,Karnataka,101.02,85.43,2021-11-09
+Yadgir,Karnataka,100.91,85.33,2021-11-09
+Bagalkot,Karnataka,101.28,85.67,2021-11-11
+Bangalore,Karnataka,100.58,85.01,2021-11-11
+Bangalore Rural,Karnataka,100.65,85.08,2021-11-11
+Belgaum,Karnataka,101.37,85.75,2021-11-11
+Bellary,Karnataka,102.44,86.71,2021-11-11
+Bidar,Karnataka,101.78,86.12,2021-11-11
+Bijapur,Karnataka,100.36,84.84,2021-11-11
+Chamrajnagar,Karnataka,100.66,85.09,2021-11-11
+Chikkaballapura,Karnataka,100.32,84.78,2021-11-11
+Chikmagalur,Karnataka,102.31,86.48,2021-11-11
+Chitradurga,Karnataka,101.88,86.06,2021-11-11
+Dakshin Kannad,Karnataka,100.06,84.51,2021-11-11
+Davangere,Karnataka,102.75,86.84,2021-11-11
+Dharwad,Karnataka,100.55,85.01,2021-11-11
+Gadag,Karnataka,100.87,85.29,2021-11-11
+Gulbarga,Karnataka,101.18,85.57,2021-11-11
+Hassan,Karnataka,100.63,84.93,2021-11-11
+Haveri,Karnataka,101.58,85.94,2021-11-11
+Kodagu,Karnataka,101.86,86.05,2021-11-11
+Kolar,Karnataka,100.51,84.95,2021-11-11
+Koppal,Karnataka,101.5,85.86,2021-11-11
+Mandya,Karnataka,100.48,84.92,2021-11-11
+Mysore,Karnataka,100.08,84.56,2021-11-11
+Raichur,Karnataka,101.0,85.43,2021-11-11
+Ramanagara,Karnataka,100.93,85.33,2021-11-11
+Shimoga,Karnataka,102.11,86.31,2021-11-11
+Tumkur,Karnataka,101.28,85.65,2021-11-11
+Udupi,Karnataka,100.23,84.66,2021-11-11
+Uttar Kannad,Karnataka,100.62,85.07,2021-11-11
+Yadgir,Karnataka,101.03,85.44,2021-11-11
+Bagalkot,Karnataka,101.08,85.49,2021-11-12
+Bangalore,Karnataka,100.58,85.01,2021-11-12
+Bangalore Rural,Karnataka,100.65,85.08,2021-11-12
+Belgaum,Karnataka,100.63,85.09,2021-11-12
+Bellary,Karnataka,102.54,86.81,2021-11-12
+Bidar,Karnataka,101.06,85.47,2021-11-12
+Bijapur,Karnataka,100.5,84.96,2021-11-12
+Chamrajnagar,Karnataka,100.66,85.09,2021-11-12
+Chikkaballapura,Karnataka,100.76,85.18,2021-11-12
+Chikmagalur,Karnataka,102.77,86.9,2021-11-12
+Chitradurga,Karnataka,101.99,86.16,2021-11-12
+Dakshin Kannad,Karnataka,99.76,84.24,2021-11-12
+Davangere,Karnataka,102.75,86.84,2021-11-12
+Dharwad,Karnataka,100.31,84.79,2021-11-12
+Gadag,Karnataka,100.87,85.29,2021-11-12
+Gulbarga,Karnataka,100.58,85.04,2021-11-12
+Hassan,Karnataka,100.63,84.93,2021-11-12
+Haveri,Karnataka,101.38,85.76,2021-11-12
+Kodagu,Karnataka,101.92,86.1,2021-11-12
+Kolar,Karnataka,100.71,85.13,2021-11-12
+Koppal,Karnataka,101.77,86.11,2021-11-12
+Mandya,Karnataka,100.46,84.9,2021-11-12
+Mysore,Karnataka,100.38,84.83,2021-11-12
+Raichur,Karnataka,100.39,84.87,2021-11-12
+Ramanagara,Karnataka,100.94,85.33,2021-11-12
+Shimoga,Karnataka,102.1,86.3,2021-11-12
+Tumkur,Karnataka,101.15,85.53,2021-11-12
+Udupi,Karnataka,100.23,84.66,2021-11-12
+Uttar Kannad,Karnataka,101.04,85.39,2021-11-12
+Yadgir,Karnataka,101.25,85.64,2021-11-12
+Bagalkot,Karnataka,101.08,85.49,2021-11-14
+Bangalore,Karnataka,100.58,85.01,2021-11-14
+Bangalore Rural,Karnataka,100.65,85.08,2021-11-14
+Belgaum,Karnataka,100.32,84.8,2021-11-14
+Bellary,Karnataka,102.54,86.81,2021-11-14
+Bidar,Karnataka,101.12,85.53,2021-11-14
+Bijapur,Karnataka,100.74,85.18,2021-11-14
+Chamrajnagar,Karnataka,100.89,85.29,2021-11-14
+Chikkaballapura,Karnataka,100.76,85.18,2021-11-14
+Chikmagalur,Karnataka,102.15,86.29,2021-11-14
+Chitradurga,Karnataka,101.99,86.16,2021-11-14
+Dakshin Kannad,Karnataka,99.76,84.24,2021-11-14
+Davangere,Karnataka,102.43,86.55,2021-11-14
+Dharwad,Karnataka,100.3,84.78,2021-11-14
+Gadag,Karnataka,100.76,85.2,2021-11-14
+Gulbarga,Karnataka,100.28,84.77,2021-11-14
+Hassan,Karnataka,100.39,84.72,2021-11-14
+Haveri,Karnataka,101.03,85.44,2021-11-14
+Kodagu,Karnataka,101.92,86.09,2021-11-14
+Kolar,Karnataka,100.44,84.89,2021-11-14
+Koppal,Karnataka,101.69,86.04,2021-11-14
+Mandya,Karnataka,100.5,84.94,2021-11-14
+Mysore,Karnataka,100.08,84.56,2021-11-14
+Raichur,Karnataka,100.6,85.07,2021-11-14
+Ramanagara,Karnataka,101.06,85.45,2021-11-14
+Shimoga,Karnataka,102.11,86.31,2021-11-14
+Tumkur,Karnataka,101.91,86.22,2021-11-14
+Udupi,Karnataka,100.2,84.63,2021-11-14
+Uttar Kannad,Karnataka,102.86,86.97,2021-11-14
+Yadgir,Karnataka,101.4,85.78,2021-11-14
+Bagalkot,Karnataka,101.12,85.52,2021-11-16
+Bangalore,Karnataka,100.58,85.01,2021-11-16
+Bangalore Rural,Karnataka,100.22,84.68,2021-11-16
+Belgaum,Karnataka,100.88,85.31,2021-11-16
+Bellary,Karnataka,102.51,86.78,2021-11-16
+Bidar,Karnataka,100.82,85.26,2021-11-16
+Bijapur,Karnataka,100.49,84.95,2021-11-16
+Chamrajnagar,Karnataka,101.1,85.48,2021-11-16
+Chikkaballapura,Karnataka,100.32,84.78,2021-11-16
+Chikmagalur,Karnataka,102.32,86.48,2021-11-16
+Chitradurga,Karnataka,102.34,86.47,2021-11-16
+Dakshin Kannad,Karnataka,99.76,84.24,2021-11-16
+Davangere,Karnataka,101.51,85.73,2021-11-16
+Dharwad,Karnataka,100.41,84.88,2021-11-16
+Gadag,Karnataka,101.09,85.5,2021-11-16
+Gulbarga,Karnataka,101.09,85.5,2021-11-16
+Hassan,Karnataka,100.39,84.72,2021-11-16
+Haveri,Karnataka,101.38,85.76,2021-11-16
+Kodagu,Karnataka,101.91,86.08,2021-11-16
+Kolar,Karnataka,100.51,84.95,2021-11-16
+Koppal,Karnataka,102.08,86.39,2021-11-16
+Mandya,Karnataka,100.45,84.89,2021-11-16
+Mysore,Karnataka,100.32,84.77,2021-11-16
+Raichur,Karnataka,101.19,85.6,2021-11-16
+Ramanagara,Karnataka,100.93,85.33,2021-11-16
+Shimoga,Karnataka,102.08,86.28,2021-11-16
+Tumkur,Karnataka,101.64,85.98,2021-11-16
+Udupi,Karnataka,100.14,84.58,2021-11-16
+Uttar Kannad,Karnataka,101.63,85.93,2021-11-16
+Yadgir,Karnataka,101.87,86.2,2021-11-16
+Bagalkot,Karnataka,100.85,85.28,2021-11-17
+Bangalore,Karnataka,100.58,85.01,2021-11-17
+Bangalore Rural,Karnataka,100.65,85.07,2021-11-17
+Belgaum,Karnataka,100.32,84.8,2021-11-17
+Bellary,Karnataka,101.76,86.1,2021-11-17
+Bidar,Karnataka,100.98,85.4,2021-11-17
+Bijapur,Karnataka,100.78,85.22,2021-11-17
+Chamrajnagar,Karnataka,100.58,85.01,2021-11-17
+Chikkaballapura,Karnataka,100.58,85.01,2021-11-17
+Chikmagalur,Karnataka,101.32,85.58,2021-11-17
+Chitradurga,Karnataka,102.34,86.47,2021-11-17
+Dakshin Kannad,Karnataka,99.76,84.24,2021-11-17
+Davangere,Karnataka,102.79,86.88,2021-11-17
+Dharwad,Karnataka,100.52,84.98,2021-11-17
+Gadag,Karnataka,100.87,85.29,2021-11-17
+Gulbarga,Karnataka,100.28,84.77,2021-11-17
+Hassan,Karnataka,100.79,85.08,2021-11-17
+Haveri,Karnataka,100.86,85.28,2021-11-17
+Kodagu,Karnataka,102.18,86.34,2021-11-17
+Kolar,Karnataka,100.27,84.73,2021-11-17
+Koppal,Karnataka,101.45,85.82,2021-11-17
+Mandya,Karnataka,100.78,85.19,2021-11-17
+Mysore,Karnataka,100.34,84.8,2021-11-17
+Raichur,Karnataka,101.0,85.43,2021-11-17
+Ramanagara,Karnataka,100.7,85.12,2021-11-17
+Shimoga,Karnataka,102.28,86.47,2021-11-17
+Tumkur,Karnataka,101.3,85.67,2021-11-17
+Udupi,Karnataka,99.86,84.33,2021-11-17
+Uttar Kannad,Karnataka,101.04,85.39,2021-11-17
+Yadgir,Karnataka,100.91,85.33,2021-11-17
+Bagalkot,Karnataka,101.21,85.61,2021-11-19
+Bangalore,Karnataka,100.58,85.01,2021-11-19
+Bangalore Rural,Karnataka,100.58,85.01,2021-11-19
+Belgaum,Karnataka,100.58,85.03,2021-11-19
+Bellary,Karnataka,102.39,86.67,2021-11-19
+Bidar,Karnataka,101.44,85.81,2021-11-19
+Bijapur,Karnataka,100.74,85.18,2021-11-19
+Chamrajnagar,Karnataka,100.58,85.01,2021-11-19
+Chikkaballapura,Karnataka,100.58,85.01,2021-11-19
+Chikmagalur,Karnataka,102.07,86.22,2021-11-19
+Chitradurga,Karnataka,101.67,85.87,2021-11-19
+Dakshin Kannad,Karnataka,100.11,84.56,2021-11-19
+Davangere,Karnataka,102.79,86.88,2021-11-19
+Dharwad,Karnataka,100.31,84.79,2021-11-19
+Gadag,Karnataka,101.38,85.76,2021-11-19
+Gulbarga,Karnataka,100.69,85.14,2021-11-19
+Hassan,Karnataka,100.67,84.97,2021-11-19
+Haveri,Karnataka,100.68,85.12,2021-11-19
+Kodagu,Karnataka,102.18,86.34,2021-11-19
+Kolar,Karnataka,100.96,85.36,2021-11-19
+Koppal,Karnataka,101.62,85.99,2021-11-19
+Mandya,Karnataka,100.08,84.56,2021-11-19
+Mysore,Karnataka,100.08,84.56,2021-11-19
+Raichur,Karnataka,100.71,85.17,2021-11-19
+Ramanagara,Karnataka,100.93,85.33,2021-11-19
+Shimoga,Karnataka,101.85,86.12,2021-11-19
+Tumkur,Karnataka,101.17,85.42,2021-11-19
+Udupi,Karnataka,100.48,84.89,2021-11-19
+Uttar Kannad,Karnataka,101.98,86.25,2021-11-19
+Yadgir,Karnataka,100.91,85.33,2021-11-19
+Bagalkot,Karnataka,101.22,85.61,2021-11-23
+Bangalore,Karnataka,100.58,85.01,2021-11-23
+Bangalore Rural,Karnataka,100.65,85.07,2021-11-23
+Belgaum,Karnataka,100.74,85.18,2021-11-23
+Bellary,Karnataka,101.85,86.18,2021-11-23
+Bidar,Karnataka,101.19,85.58,2021-11-23
+Bijapur,Karnataka,100.28,84.76,2021-11-23
+Chamrajnagar,Karnataka,100.71,85.12,2021-11-23
+Chikkaballapura,Karnataka,100.47,84.92,2021-11-23
+Chikmagalur,Karnataka,101.32,85.58,2021-11-23
+Chitradurga,Karnataka,102.27,86.41,2021-11-23
+Dakshin Kannad,Karnataka,100.12,84.56,2021-11-23
+Davangere,Karnataka,101.98,86.15,2021-11-23
+Dharwad,Karnataka,100.31,84.79,2021-11-23
+Gadag,Karnataka,101.32,85.7,2021-11-23
+Gulbarga,Karnataka,100.28,84.77,2021-11-23
+Hassan,Karnataka,100.47,84.78,2021-11-23
+Haveri,Karnataka,101.21,85.6,2021-11-23
+Kodagu,Karnataka,102.2,86.35,2021-11-23
+Kolar,Karnataka,100.55,84.99,2021-11-23
+Koppal,Karnataka,101.62,85.99,2021-11-23
+Mandya,Karnataka,100.19,84.66,2021-11-23
+Mysore,Karnataka,100.08,84.56,2021-11-23
+Raichur,Karnataka,100.44,84.93,2021-11-23
+Ramanagara,Karnataka,100.7,85.12,2021-11-23
+Shimoga,Karnataka,101.44,85.7,2021-11-23
+Tumkur,Karnataka,101.43,85.66,2021-11-23
+Udupi,Karnataka,100.1,84.55,2021-11-23
+Uttar Kannad,Karnataka,102.56,86.77,2021-11-23
+Yadgir,Karnataka,101.69,86.04,2021-11-23
+Bagalkot,Karnataka,101.19,85.59,2021-11-24
+Bangalore,Karnataka,100.58,85.01,2021-11-24
+Bangalore Rural,Karnataka,100.65,85.07,2021-11-24
+Belgaum,Karnataka,100.32,84.8,2021-11-24
+Bellary,Karnataka,101.85,86.18,2021-11-24
+Bidar,Karnataka,101.75,86.09,2021-11-24
+Bijapur,Karnataka,100.69,85.14,2021-11-24
+Chamrajnagar,Karnataka,101.42,85.77,2021-11-24
+Chikkaballapura,Karnataka,100.87,85.28,2021-11-24
+Chikmagalur,Karnataka,102.57,86.7,2021-11-24
+Chitradurga,Karnataka,102.03,86.2,2021-11-24
+Dakshin Kannad,Karnataka,99.76,84.24,2021-11-24
+Davangere,Karnataka,102.55,86.67,2021-11-24
+Dharwad,Karnataka,100.7,85.14,2021-11-24
+Gadag,Karnataka,101.09,85.5,2021-11-24
+Gulbarga,Karnataka,100.52,84.99,2021-11-24
+Hassan,Karnataka,100.92,85.19,2021-11-24
+Haveri,Karnataka,101.58,85.94,2021-11-24
+Kodagu,Karnataka,102.2,86.35,2021-11-24
+Kolar,Karnataka,100.51,84.95,2021-11-24
+Koppal,Karnataka,101.4,85.79,2021-11-24
+Mandya,Karnataka,100.79,85.2,2021-11-24
+Mysore,Karnataka,100.38,84.83,2021-11-24
+Raichur,Karnataka,101.19,85.6,2021-11-24
+Ramanagara,Karnataka,100.94,85.33,2021-11-24
+Shimoga,Karnataka,102.08,86.28,2021-11-24
+Tumkur,Karnataka,101.11,85.49,2021-11-24
+Udupi,Karnataka,100.14,84.58,2021-11-24
+Uttar Kannad,Karnataka,101.63,85.93,2021-11-24
+Yadgir,Karnataka,101.87,86.2,2021-11-24
+Bagalkot,Karnataka,101.08,85.49,2021-11-29
+Bangalore,Karnataka,100.58,85.01,2021-11-29
+Bangalore Rural,Karnataka,100.22,84.68,2021-11-29
+Belgaum,Karnataka,101.05,85.46,2021-11-29
+Bellary,Karnataka,102.46,86.73,2021-11-29
+Bidar,Karnataka,101.47,85.84,2021-11-29
+Bijapur,Karnataka,100.59,85.05,2021-11-29
+Chamrajnagar,Karnataka,100.66,85.09,2021-11-29
+Chikkaballapura,Karnataka,100.58,85.01,2021-11-29
+Chikmagalur,Karnataka,102.07,86.22,2021-11-29
+Chitradurga,Karnataka,101.67,85.87,2021-11-29
+Dakshin Kannad,Karnataka,99.76,84.24,2021-11-29
+Davangere,Karnataka,102.79,86.88,2021-11-29
+Dharwad,Karnataka,100.31,84.79,2021-11-29
+Gadag,Karnataka,100.87,85.29,2021-11-29
+Gulbarga,Karnataka,101.04,85.45,2021-11-29
+Hassan,Karnataka,100.67,84.97,2021-11-29
+Haveri,Karnataka,101.38,85.76,2021-11-29
+Kodagu,Karnataka,101.93,86.11,2021-11-29
+Kolar,Karnataka,100.51,84.95,2021-11-29
+Koppal,Karnataka,101.62,85.99,2021-11-29
+Mandya,Karnataka,100.54,84.97,2021-11-29
+Mysore,Karnataka,100.16,84.63,2021-11-29
+Raichur,Karnataka,101.24,85.65,2021-11-29
+Ramanagara,Karnataka,100.93,85.33,2021-11-29
+Shimoga,Karnataka,102.11,86.31,2021-11-29
+Tumkur,Karnataka,100.81,85.09,2021-11-29
+Udupi,Karnataka,100.48,84.89,2021-11-29
+Uttar Kannad,Karnataka,102.86,86.97,2021-11-29
+Yadgir,Karnataka,101.03,85.44,2021-11-29
+Bagalkot,Karnataka,101.5,85.87,2021-12-01
+Bangalore,Karnataka,100.58,85.01,2021-12-01
+Bangalore Rural,Karnataka,100.65,85.07,2021-12-01
+Belgaum,Karnataka,100.78,85.21,2021-12-01
+Bellary,Karnataka,101.8,86.15,2021-12-01
+Bidar,Karnataka,101.09,85.5,2021-12-01
+Bijapur,Karnataka,100.5,84.96,2021-12-01
+Chamrajnagar,Karnataka,100.71,85.12,2021-12-01
+Chikkaballapura,Karnataka,101.06,85.45,2021-12-01
+Chikmagalur,Karnataka,102.54,86.68,2021-12-01
+Chitradurga,Karnataka,102.25,86.39,2021-12-01
+Dakshin Kannad,Karnataka,99.97,84.43,2021-12-01
+Davangere,Karnataka,102.58,86.69,2021-12-01
+Dharwad,Karnataka,100.31,84.79,2021-12-01
+Gadag,Karnataka,101.38,85.76,2021-12-01
+Gulbarga,Karnataka,100.28,84.77,2021-12-01
+Hassan,Karnataka,100.58,84.89,2021-12-01
+Haveri,Karnataka,100.86,85.28,2021-12-01
+Kodagu,Karnataka,102.08,86.23,2021-12-01
+Kolar,Karnataka,100.55,84.99,2021-12-01
+Koppal,Karnataka,101.62,85.99,2021-12-01
+Mandya,Karnataka,100.78,85.19,2021-12-01
+Mysore,Karnataka,100.43,84.87,2021-12-01
+Raichur,Karnataka,100.85,85.29,2021-12-01
+Ramanagara,Karnataka,100.75,85.17,2021-12-01
+Shimoga,Karnataka,101.65,85.89,2021-12-01
+Tumkur,Karnataka,100.84,85.25,2021-12-01
+Udupi,Karnataka,100.1,84.55,2021-12-01
+Uttar Kannad,Karnataka,101.04,85.39,2021-12-01
+Yadgir,Karnataka,100.91,85.33,2021-12-01
+Bagalkot,Karnataka,100.85,85.28,2021-12-02
+Bangalore,Karnataka,100.58,85.01,2021-12-02
+Bangalore Rural,Karnataka,100.22,84.68,2021-12-02
+Belgaum,Karnataka,100.86,85.28,2021-12-02
+Bellary,Karnataka,102.57,86.83,2021-12-02
+Bidar,Karnataka,101.09,85.5,2021-12-02
+Bijapur,Karnataka,100.52,84.99,2021-12-02
+Chamrajnagar,Karnataka,100.6,85.03,2021-12-02
+Chikkaballapura,Karnataka,101.04,85.43,2021-12-02
+Chikmagalur,Karnataka,102.15,86.29,2021-12-02
+Chitradurga,Karnataka,102.15,86.3,2021-12-02
+Dakshin Kannad,Karnataka,99.76,84.24,2021-12-02
+Davangere,Karnataka,102.63,86.73,2021-12-02
+Dharwad,Karnataka,100.31,84.79,2021-12-02
+Gadag,Karnataka,100.87,85.29,2021-12-02
+Gulbarga,Karnataka,100.28,84.77,2021-12-02
+Hassan,Karnataka,100.79,85.08,2021-12-02
+Haveri,Karnataka,100.86,85.28,2021-12-02
+Kodagu,Karnataka,101.64,85.83,2021-12-02
+Kolar,Karnataka,100.51,84.95,2021-12-02
+Koppal,Karnataka,102.08,86.39,2021-12-02
+Mandya,Karnataka,100.48,84.92,2021-12-02
+Mysore,Karnataka,100.41,84.86,2021-12-02
+Raichur,Karnataka,100.39,84.87,2021-12-02
+Ramanagara,Karnataka,100.94,85.33,2021-12-02
+Shimoga,Karnataka,102.32,86.5,2021-12-02
+Tumkur,Karnataka,100.81,85.09,2021-12-02
+Udupi,Karnataka,100.08,84.53,2021-12-02
+Uttar Kannad,Karnataka,101.09,85.49,2021-12-02
+Yadgir,Karnataka,101.69,86.04,2021-12-02
+Bagalkot,Karnataka,100.85,85.28,2021-12-03
+Bangalore,Karnataka,100.58,85.01,2021-12-03
+Bangalore Rural,Karnataka,100.22,84.68,2021-12-03
+Belgaum,Karnataka,100.86,85.28,2021-12-03
+Bellary,Karnataka,102.57,86.83,2021-12-03
+Bidar,Karnataka,101.09,85.5,2021-12-03
+Bijapur,Karnataka,100.52,84.99,2021-12-03
+Chamrajnagar,Karnataka,100.6,85.03,2021-12-03
+Chikkaballapura,Karnataka,101.04,85.43,2021-12-03
+Chikmagalur,Karnataka,102.15,86.29,2021-12-03
+Chitradurga,Karnataka,102.15,86.3,2021-12-03
+Dakshin Kannad,Karnataka,99.76,84.24,2021-12-03
+Davangere,Karnataka,102.63,86.73,2021-12-03
+Dharwad,Karnataka,100.31,84.79,2021-12-03
+Gadag,Karnataka,100.87,85.29,2021-12-03
+Gulbarga,Karnataka,100.28,84.77,2021-12-03
+Hassan,Karnataka,100.79,85.08,2021-12-03
+Haveri,Karnataka,100.86,85.28,2021-12-03
+Kodagu,Karnataka,101.64,85.83,2021-12-03
+Kolar,Karnataka,100.51,84.95,2021-12-03
+Koppal,Karnataka,102.08,86.39,2021-12-03
+Mandya,Karnataka,100.48,84.92,2021-12-03
+Mysore,Karnataka,100.41,84.86,2021-12-03
+Raichur,Karnataka,100.39,84.87,2021-12-03
+Ramanagara,Karnataka,100.94,85.33,2021-12-03
+Shimoga,Karnataka,102.32,86.5,2021-12-03
+Tumkur,Karnataka,100.81,85.09,2021-12-03
+Udupi,Karnataka,100.08,84.53,2021-12-03
+Uttar Kannad,Karnataka,101.09,85.49,2021-12-03
+Yadgir,Karnataka,101.69,86.04,2021-12-03
+Bagalkot,Karnataka,101.08,85.49,2021-12-06
+Bangalore,Karnataka,100.58,85.01,2021-12-06
+Bangalore Rural,Karnataka,100.65,85.08,2021-12-06
+Belgaum,Karnataka,100.47,84.94,2021-12-06
+Bellary,Karnataka,101.8,86.15,2021-12-06
+Bidar,Karnataka,101.04,85.45,2021-12-06
+Bijapur,Karnataka,100.28,84.76,2021-12-06
+Chamrajnagar,Karnataka,100.67,85.1,2021-12-06
+Chikkaballapura,Karnataka,100.64,85.07,2021-12-06
+Chikmagalur,Karnataka,102.31,86.48,2021-12-06
+Chitradurga,Karnataka,101.86,86.04,2021-12-06
+Dakshin Kannad,Karnataka,99.97,84.43,2021-12-06
+Davangere,Karnataka,102.6,86.71,2021-12-06
+Dharwad,Karnataka,100.4,84.88,2021-12-06
+Gadag,Karnataka,100.8,85.24,2021-12-06
+Gulbarga,Karnataka,101.09,85.5,2021-12-06
+Hassan,Karnataka,100.85,85.13,2021-12-06
+Haveri,Karnataka,100.86,85.28,2021-12-06
+Kodagu,Karnataka,101.86,86.05,2021-12-06
+Kolar,Karnataka,100.74,85.16,2021-12-06
+Koppal,Karnataka,101.66,86.01,2021-12-06
+Mandya,Karnataka,100.75,85.16,2021-12-06
+Mysore,Karnataka,100.51,84.95,2021-12-06
+Raichur,Karnataka,100.44,84.93,2021-12-06
+Ramanagara,Karnataka,100.7,85.12,2021-12-06
+Shimoga,Karnataka,102.14,86.39,2021-12-06
+Tumkur,Karnataka,101.3,85.67,2021-12-06
+Udupi,Karnataka,100.92,85.28,2021-12-06
+Uttar Kannad,Karnataka,101.48,85.79,2021-12-06
+Yadgir,Karnataka,100.91,85.33,2021-12-06
+Bagalkot,Karnataka,101.08,85.49,2021-12-22
+Bangalore,Karnataka,100.58,85.01,2021-12-22
+Bangalore Rural,Karnataka,100.65,85.07,2021-12-22
+Belgaum,Karnataka,100.58,85.03,2021-12-22
+Bellary,Karnataka,102.57,86.83,2021-12-22
+Bidar,Karnataka,101.12,85.53,2021-12-22
+Bijapur,Karnataka,100.28,84.76,2021-12-22
+Chamrajnagar,Karnataka,100.52,84.96,2021-12-22
+Chikkaballapura,Karnataka,101.06,85.45,2021-12-22
+Chikmagalur,Karnataka,101.96,86.13,2021-12-22
+Chitradurga,Karnataka,101.27,85.51,2021-12-22
+Dakshin Kannad,Karnataka,99.84,84.31,2021-12-22
+Davangere,Karnataka,102.43,86.55,2021-12-22
+Dharwad,Karnataka,100.31,84.79,2021-12-22
+Gadag,Karnataka,100.87,85.29,2021-12-22
+Gulbarga,Karnataka,100.89,85.31,2021-12-22
+Hassan,Karnataka,100.63,84.93,2021-12-22
+Haveri,Karnataka,101.21,85.6,2021-12-22
+Kodagu,Karnataka,101.86,86.05,2021-12-22
+Kolar,Karnataka,100.44,84.89,2021-12-22
+Koppal,Karnataka,101.5,85.86,2021-12-22
+Mandya,Karnataka,100.65,85.08,2021-12-22
+Mysore,Karnataka,100.32,84.77,2021-12-22
+Raichur,Karnataka,102.23,86.53,2021-12-22
+Ramanagara,Karnataka,100.94,85.33,2021-12-22
+Shimoga,Karnataka,102.45,86.62,2021-12-22
+Tumkur,Karnataka,101.43,85.78,2021-12-22
+Udupi,Karnataka,100.08,84.53,2021-12-22
+Uttar Kannad,Karnataka,100.62,85.07,2021-12-22
+Yadgir,Karnataka,101.37,85.75,2021-12-22
+Bagalkot,Karnataka,100.98,85.4,2021-12-29
+Bangalore,Karnataka,100.58,85.01,2021-12-29
+Bangalore Rural,Karnataka,100.65,85.07,2021-12-29
+Belgaum,Karnataka,100.57,85.03,2021-12-29
+Bellary,Karnataka,102.79,86.88,2021-12-29
+Bidar,Karnataka,101.47,85.84,2021-12-29
+Bijapur,Karnataka,100.57,85.03,2021-12-29
+Chamrajnagar,Karnataka,100.52,84.96,2021-12-29
+Chikkaballapura,Karnataka,101.06,85.45,2021-12-29
+Chikmagalur,Karnataka,101.75,86.04,2021-12-29
+Chitradurga,Karnataka,102.62,86.72,2021-12-29
+Dakshin Kannad,Karnataka,100.41,84.83,2021-12-29
+Davangere,Karnataka,102.43,86.55,2021-12-29
+Dharwad,Karnataka,100.31,84.79,2021-12-29
+Gadag,Karnataka,101.38,85.76,2021-12-29
+Gulbarga,Karnataka,100.73,85.17,2021-12-29
+Hassan,Karnataka,100.92,85.19,2021-12-29
+Haveri,Karnataka,101.38,85.76,2021-12-29
+Kodagu,Karnataka,101.86,86.05,2021-12-29
+Kolar,Karnataka,100.74,85.16,2021-12-29
+Koppal,Karnataka,101.5,85.86,2021-12-29
+Mandya,Karnataka,100.33,84.79,2021-12-29
+Mysore,Karnataka,100.08,84.56,2021-12-29
+Raichur,Karnataka,102.23,86.53,2021-12-29
+Ramanagara,Karnataka,100.9,85.3,2021-12-29
+Shimoga,Karnataka,101.85,86.12,2021-12-29
+Tumkur,Karnataka,101.64,85.98,2021-12-29
+Udupi,Karnataka,100.03,84.48,2021-12-29
+Uttar Kannad,Karnataka,100.62,85.07,2021-12-29
+Yadgir,Karnataka,101.4,85.78,2021-12-29

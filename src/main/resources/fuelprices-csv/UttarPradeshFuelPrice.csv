@@ -1,0 +1,1799 @@
+City,State,Petrol_Rate,Diesel_Rate,Date
+Agra,Uttar Pradesh,104.57,96.82,2021-10-27
+Aligarh,Uttar Pradesh,105.0,97.21,2021-10-27
+Allahabad,Uttar Pradesh,105.61,97.81,2021-10-27
+Ambedkarnagar,Uttar Pradesh,106.39,98.52,2021-10-27
+Amethi/csm Nagar,Uttar Pradesh,105.59,97.78,2021-10-27
+Amroha,Uttar Pradesh,105.49,97.68,2021-10-27
+Auraiya,Uttar Pradesh,105.46,97.66,2021-10-27
+Azamgarh,Uttar Pradesh,106.06,98.21,2021-10-27
+Baghpat,Uttar Pradesh,104.77,97.01,2021-10-27
+Bahraich,Uttar Pradesh,105.94,98.12,2021-10-27
+Ballia,Uttar Pradesh,105.64,97.83,2021-10-27
+Balrampur,Uttar Pradesh,105.05,97.3,2021-10-27
+Banda,Uttar Pradesh,106.08,98.23,2021-10-27
+Barabanki,Uttar Pradesh,104.9,97.15,2021-10-27
+Bareilly,Uttar Pradesh,104.73,96.99,2021-10-27
+Basti,Uttar Pradesh,105.53,97.73,2021-10-27
+Bijnor,Uttar Pradesh,104.84,97.08,2021-10-27
+Budaun,Uttar Pradesh,104.58,96.85,2021-10-27
+Bulandshahr,Uttar Pradesh,105.62,97.77,2021-10-27
+Chandauli,Uttar Pradesh,104.84,97.1,2021-10-27
+Chitrakut,Uttar Pradesh,105.57,97.78,2021-10-27
+Deoria,Uttar Pradesh,104.63,96.9,2021-10-27
+Etah,Uttar Pradesh,105.06,97.27,2021-10-27
+Etawah,Uttar Pradesh,105.48,97.65,2021-10-27
+Faizabad,Uttar Pradesh,105.5,97.72,2021-10-27
+Farrukkhabad,Uttar Pradesh,105.19,97.42,2021-10-27
+Fatehpur,Uttar Pradesh,106.08,98.23,2021-10-27
+Firozabad,Uttar Pradesh,104.41,96.67,2021-10-27
+Gautam Budh Nagar,Uttar Pradesh,105.1,97.32,2021-10-27
+Ghaziabad,Uttar Pradesh,104.7,96.95,2021-10-27
+Ghazipur,Uttar Pradesh,105.59,97.79,2021-10-27
+Gonda,Uttar Pradesh,104.97,97.23,2021-10-27
+Gorakhpur,Uttar Pradesh,105.0,97.24,2021-10-27
+Hamirpur,Uttar Pradesh,105.44,97.64,2021-10-27
+Hapur,Uttar Pradesh,105.03,97.25,2021-10-27
+Hardoi,Uttar Pradesh,104.72,96.98,2021-10-27
+Hathras,Uttar Pradesh,104.82,97.04,2021-10-27
+Jalaun,Uttar Pradesh,105.64,97.83,2021-10-27
+Jaunpur,Uttar Pradesh,106.1,98.26,2021-10-27
+Jhansi,Uttar Pradesh,105.14,97.35,2021-10-27
+Kannuaj,Uttar Pradesh,105.47,97.66,2021-10-27
+Kanpur Rural,Uttar Pradesh,105.15,97.37,2021-10-27
+Kanpur Urban,Uttar Pradesh,104.56,96.83,2021-10-27
+Kashi Ram Nagar,Uttar Pradesh,105.17,97.37,2021-10-27
+Kaushambi,Uttar Pradesh,105.4,97.63,2021-10-27
+Kushinagar,Uttar Pradesh,104.94,97.18,2021-10-27
+Lakhimpur,Uttar Pradesh,105.16,97.39,2021-10-27
+Lalitpur,Uttar Pradesh,105.16,97.36,2021-10-27
+Lucknow,Uttar Pradesh,104.82,97.08,2021-10-27
+Maharajganj,Uttar Pradesh,105.26,97.48,2021-10-27
+Mahoba,Uttar Pradesh,106.21,98.34,2021-10-27
+Mainpuri,Uttar Pradesh,105.22,97.42,2021-10-27
+Mathura,Uttar Pradesh,104.71,96.94,2021-10-27
+Maunathbhanjan,Uttar Pradesh,105.56,97.75,2021-10-27
+Meerut,Uttar Pradesh,104.71,96.96,2021-10-27
+Mirzapur,Uttar Pradesh,105.32,97.54,2021-10-27
+Moradabad,Uttar Pradesh,105.03,97.26,2021-10-27
+Muzaffarnagar,Uttar Pradesh,105.11,97.32,2021-10-27
+Pilibhit,Uttar Pradesh,105.5,97.7,2021-10-27
+Pratapgarh,Uttar Pradesh,105.67,97.87,2021-10-27
+Rae Bareli,Uttar Pradesh,105.19,97.41,2021-10-27
+Rampur,Uttar Pradesh,105.13,97.35,2021-10-27
+Saharanpur,Uttar Pradesh,105.32,97.52,2021-10-27
+Sambhal,Uttar Pradesh,105.32,97.53,2021-10-27
+Sant Kabir Nagar,Uttar Pradesh,105.13,97.35,2021-10-27
+Sant Ravi Nagar,Uttar Pradesh,105.51,97.72,2021-10-27
+Shahjahanpur,Uttar Pradesh,105.22,97.44,2021-10-27
+Shamli,Uttar Pradesh,105.15,97.37,2021-10-27
+Shravasti,Uttar Pradesh,105.7,97.9,2021-10-27
+Sidharthnagar,Uttar Pradesh,105.55,97.74,2021-10-27
+Sitapur,Uttar Pradesh,105.8,97.98,2021-10-27
+Sonbhadra,Uttar Pradesh,105.77,97.96,2021-10-27
+Sultanpur,Uttar Pradesh,106.37,98.5,2021-10-27
+Unnao,Uttar Pradesh,104.99,97.22,2021-10-27
+Varanasi,Uttar Pradesh,105.4,97.61,2021-10-27
+Agra,Uttar Pradesh,105.27,97.5,2021-10-28
+Aligarh,Uttar Pradesh,105.18,97.41,2021-10-28
+Allahabad,Uttar Pradesh,105.52,97.77,2021-10-28
+Ambedkarnagar,Uttar Pradesh,106.8,98.95,2021-10-28
+Amethi/csm Nagar,Uttar Pradesh,105.71,97.93,2021-10-28
+Amroha,Uttar Pradesh,106.12,98.3,2021-10-28
+Auraiya,Uttar Pradesh,105.81,98.02,2021-10-28
+Azamgarh,Uttar Pradesh,106.47,98.63,2021-10-28
+Baghpat,Uttar Pradesh,105.05,97.31,2021-10-28
+Bahraich,Uttar Pradesh,105.59,97.84,2021-10-28
+Ballia,Uttar Pradesh,105.99,98.18,2021-10-28
+Balrampur,Uttar Pradesh,105.67,97.91,2021-10-28
+Banda,Uttar Pradesh,106.52,98.67,2021-10-28
+Barabanki,Uttar Pradesh,105.41,97.65,2021-10-28
+Bareilly,Uttar Pradesh,105.12,97.39,2021-10-28
+Basti,Uttar Pradesh,105.92,98.12,2021-10-28
+Bijnor,Uttar Pradesh,105.35,97.59,2021-10-28
+Budaun,Uttar Pradesh,105.22,97.47,2021-10-28
+Bulandshahr,Uttar Pradesh,105.72,97.91,2021-10-28
+Chandauli,Uttar Pradesh,105.25,97.51,2021-10-28
+Chitrakut,Uttar Pradesh,106.24,98.43,2021-10-28
+Deoria,Uttar Pradesh,105.02,97.29,2021-10-28
+Etah,Uttar Pradesh,105.32,97.55,2021-10-28
+Etawah,Uttar Pradesh,105.59,97.8,2021-10-28
+Faizabad,Uttar Pradesh,105.66,97.9,2021-10-28
+Farrukkhabad,Uttar Pradesh,105.54,97.77,2021-10-28
+Fatehpur,Uttar Pradesh,105.56,97.79,2021-10-28
+Firozabad,Uttar Pradesh,105.06,97.31,2021-10-28
+Gautam Budh Nagar,Uttar Pradesh,105.17,97.42,2021-10-28
+Ghaziabad,Uttar Pradesh,105.16,97.42,2021-10-28
+Ghazipur,Uttar Pradesh,105.89,98.11,2021-10-28
+Gonda,Uttar Pradesh,105.19,97.47,2021-10-28
+Gorakhpur,Uttar Pradesh,105.3,97.55,2021-10-28
+Hamirpur,Uttar Pradesh,106.03,98.22,2021-10-28
+Hapur,Uttar Pradesh,105.12,97.38,2021-10-28
+Hardoi,Uttar Pradesh,105.84,98.05,2021-10-28
+Hathras,Uttar Pradesh,105.45,97.66,2021-10-28
+Jalaun,Uttar Pradesh,106.12,98.29,2021-10-28
+Jaunpur,Uttar Pradesh,106.31,98.49,2021-10-28
+Jhansi,Uttar Pradesh,105.2,97.45,2021-10-28
+Kannuaj,Uttar Pradesh,105.77,97.98,2021-10-28
+Kanpur Rural,Uttar Pradesh,105.25,97.5,2021-10-28
+Kanpur Urban,Uttar Pradesh,105.12,97.38,2021-10-28
+Kashi Ram Nagar,Uttar Pradesh,105.66,97.86,2021-10-28
+Kaushambi,Uttar Pradesh,105.6,97.85,2021-10-28
+Kushinagar,Uttar Pradesh,105.29,97.54,2021-10-28
+Lakhimpur,Uttar Pradesh,105.64,97.87,2021-10-28
+Lalitpur,Uttar Pradesh,105.91,98.1,2021-10-28
+Lucknow,Uttar Pradesh,105.22,97.48,2021-10-28
+Maharajganj,Uttar Pradesh,105.57,97.8,2021-10-28
+Mahoba,Uttar Pradesh,106.29,98.44,2021-10-28
+Mainpuri,Uttar Pradesh,105.34,97.56,2021-10-28
+Mathura,Uttar Pradesh,104.7,96.97,2021-10-28
+Maunathbhanjan,Uttar Pradesh,105.74,97.95,2021-10-28
+Meerut,Uttar Pradesh,105.2,97.45,2021-10-28
+Mirzapur,Uttar Pradesh,105.62,97.86,2021-10-28
+Moradabad,Uttar Pradesh,105.83,98.04,2021-10-28
+Muzaffarnagar,Uttar Pradesh,105.4,97.63,2021-10-28
+Pilibhit,Uttar Pradesh,105.79,98.0,2021-10-28
+Pratapgarh,Uttar Pradesh,106.11,98.32,2021-10-28
+Rae Bareli,Uttar Pradesh,105.85,98.06,2021-10-28
+Rampur,Uttar Pradesh,105.68,97.9,2021-10-28
+Saharanpur,Uttar Pradesh,105.9,98.09,2021-10-28
+Sambhal,Uttar Pradesh,105.32,97.57,2021-10-28
+Sant Kabir Nagar,Uttar Pradesh,105.66,97.88,2021-10-28
+Sant Ravi Nagar,Uttar Pradesh,105.69,97.92,2021-10-28
+Shahjahanpur,Uttar Pradesh,105.47,97.71,2021-10-28
+Shamli,Uttar Pradesh,105.65,97.86,2021-10-28
+Shravasti,Uttar Pradesh,105.73,97.96,2021-10-28
+Sidharthnagar,Uttar Pradesh,106.12,98.31,2021-10-28
+Sitapur,Uttar Pradesh,106.39,98.56,2021-10-28
+Sonbhadra,Uttar Pradesh,106.55,98.72,2021-10-28
+Sultanpur,Uttar Pradesh,106.6,98.76,2021-10-28
+Unnao,Uttar Pradesh,105.19,97.45,2021-10-28
+Varanasi,Uttar Pradesh,106.09,98.29,2021-10-28
+Agra,Uttar Pradesh,105.7,97.94,2021-10-29
+Aligarh,Uttar Pradesh,105.67,97.9,2021-10-29
+Allahabad,Uttar Pradesh,106.38,98.6,2021-10-29
+Ambedkarnagar,Uttar Pradesh,107.31,99.45,2021-10-29
+Amethi/csm Nagar,Uttar Pradesh,106.57,98.77,2021-10-29
+Amroha,Uttar Pradesh,106.17,98.38,2021-10-29
+Auraiya,Uttar Pradesh,106.15,98.37,2021-10-29
+Azamgarh,Uttar Pradesh,106.33,98.53,2021-10-29
+Baghpat,Uttar Pradesh,105.59,97.85,2021-10-29
+Bahraich,Uttar Pradesh,106.15,98.39,2021-10-29
+Ballia,Uttar Pradesh,105.97,98.2,2021-10-29
+Balrampur,Uttar Pradesh,106.11,98.36,2021-10-29
+Banda,Uttar Pradesh,106.79,98.95,2021-10-29
+Barabanki,Uttar Pradesh,105.65,97.92,2021-10-29
+Bareilly,Uttar Pradesh,105.33,97.61,2021-10-29
+Basti,Uttar Pradesh,106.06,98.29,2021-10-29
+Bijnor,Uttar Pradesh,105.68,97.94,2021-10-29
+Budaun,Uttar Pradesh,105.94,98.18,2021-10-29
+Bulandshahr,Uttar Pradesh,106.58,98.73,2021-10-29
+Chandauli,Uttar Pradesh,105.52,97.8,2021-10-29
+Chitrakut,Uttar Pradesh,106.42,98.64,2021-10-29
+Deoria,Uttar Pradesh,105.31,97.6,2021-10-29
+Etah,Uttar Pradesh,105.63,97.87,2021-10-29
+Etawah,Uttar Pradesh,106.2,98.39,2021-10-29
+Faizabad,Uttar Pradesh,106.27,98.49,2021-10-29
+Farrukkhabad,Uttar Pradesh,106.12,98.35,2021-10-29
+Fatehpur,Uttar Pradesh,106.1,98.32,2021-10-29
+Firozabad,Uttar Pradesh,105.4,97.66,2021-10-29
+Gautam Budh Nagar,Uttar Pradesh,105.63,97.88,2021-10-29
+Ghaziabad,Uttar Pradesh,105.56,97.82,2021-10-29
+Ghazipur,Uttar Pradesh,107.41,99.54,2021-10-29
+Gonda,Uttar Pradesh,105.44,97.74,2021-10-29
+Gorakhpur,Uttar Pradesh,105.75,98.0,2021-10-29
+Hamirpur,Uttar Pradesh,106.13,98.35,2021-10-29
+Hapur,Uttar Pradesh,105.6,97.86,2021-10-29
+Hardoi,Uttar Pradesh,105.99,98.23,2021-10-29
+Hathras,Uttar Pradesh,105.72,97.94,2021-10-29
+Jalaun,Uttar Pradesh,106.04,98.26,2021-10-29
+Jaunpur,Uttar Pradesh,106.21,98.44,2021-10-29
+Jhansi,Uttar Pradesh,105.3,97.57,2021-10-29
+Kannuaj,Uttar Pradesh,106.14,98.36,2021-10-29
+Kanpur Rural,Uttar Pradesh,105.77,98.02,2021-10-29
+Kanpur Urban,Uttar Pradesh,105.74,97.99,2021-10-29
+Kashi Ram Nagar,Uttar Pradesh,106.05,98.25,2021-10-29
+Kaushambi,Uttar Pradesh,105.95,98.21,2021-10-29
+Kushinagar,Uttar Pradesh,105.85,98.1,2021-10-29
+Lakhimpur,Uttar Pradesh,106.59,98.78,2021-10-29
+Lalitpur,Uttar Pradesh,106.05,98.26,2021-10-29
+Lucknow,Uttar Pradesh,105.56,97.83,2021-10-29
+Maharajganj,Uttar Pradesh,106.24,98.45,2021-10-29
+Mahoba,Uttar Pradesh,106.49,98.67,2021-10-29
+Mainpuri,Uttar Pradesh,105.89,98.11,2021-10-29
+Mathura,Uttar Pradesh,105.04,97.32,2021-10-29
+Maunathbhanjan,Uttar Pradesh,106.44,98.64,2021-10-29
+Meerut,Uttar Pradesh,105.61,97.87,2021-10-29
+Mirzapur,Uttar Pradesh,106.46,98.67,2021-10-29
+Moradabad,Uttar Pradesh,106.29,98.5,2021-10-29
+Muzaffarnagar,Uttar Pradesh,105.53,97.8,2021-10-29
+Pilibhit,Uttar Pradesh,106.26,98.47,2021-10-29
+Pratapgarh,Uttar Pradesh,106.36,98.59,2021-10-29
+Rae Bareli,Uttar Pradesh,106.27,98.48,2021-10-29
+Rampur,Uttar Pradesh,105.91,98.14,2021-10-29
+Saharanpur,Uttar Pradesh,105.96,98.19,2021-10-29
+Sambhal,Uttar Pradesh,106.13,98.35,2021-10-29
+Sant Kabir Nagar,Uttar Pradesh,106.14,98.36,2021-10-29
+Sant Ravi Nagar,Uttar Pradesh,106.16,98.39,2021-10-29
+Shahjahanpur,Uttar Pradesh,105.95,98.19,2021-10-29
+Shamli,Uttar Pradesh,105.73,97.98,2021-10-29
+Shravasti,Uttar Pradesh,105.92,98.18,2021-10-29
+Sidharthnagar,Uttar Pradesh,106.8,98.97,2021-10-29
+Sitapur,Uttar Pradesh,106.81,98.99,2021-10-29
+Sonbhadra,Uttar Pradesh,106.19,98.42,2021-10-29
+Sultanpur,Uttar Pradesh,106.88,99.05,2021-10-29
+Unnao,Uttar Pradesh,105.78,98.03,2021-10-29
+Varanasi,Uttar Pradesh,105.63,97.91,2021-10-29
+Agra,Uttar Pradesh,105.7,97.94,2021-10-30
+Aligarh,Uttar Pradesh,105.67,97.9,2021-10-30
+Allahabad,Uttar Pradesh,106.38,98.6,2021-10-30
+Ambedkarnagar,Uttar Pradesh,107.31,99.45,2021-10-30
+Amethi/csm Nagar,Uttar Pradesh,106.57,98.77,2021-10-30
+Amroha,Uttar Pradesh,106.17,98.38,2021-10-30
+Auraiya,Uttar Pradesh,106.15,98.37,2021-10-30
+Azamgarh,Uttar Pradesh,106.33,98.53,2021-10-30
+Baghpat,Uttar Pradesh,105.59,97.85,2021-10-30
+Bahraich,Uttar Pradesh,106.15,98.39,2021-10-30
+Ballia,Uttar Pradesh,105.97,98.2,2021-10-30
+Balrampur,Uttar Pradesh,106.11,98.36,2021-10-30
+Banda,Uttar Pradesh,106.79,98.95,2021-10-30
+Barabanki,Uttar Pradesh,105.65,97.92,2021-10-30
+Bareilly,Uttar Pradesh,105.33,97.61,2021-10-30
+Basti,Uttar Pradesh,106.06,98.29,2021-10-30
+Bijnor,Uttar Pradesh,105.68,97.94,2021-10-30
+Budaun,Uttar Pradesh,105.94,98.18,2021-10-30
+Bulandshahr,Uttar Pradesh,106.58,98.73,2021-10-30
+Chandauli,Uttar Pradesh,105.52,97.8,2021-10-30
+Chitrakut,Uttar Pradesh,106.42,98.64,2021-10-30
+Deoria,Uttar Pradesh,105.31,97.6,2021-10-30
+Etah,Uttar Pradesh,105.63,97.87,2021-10-30
+Etawah,Uttar Pradesh,106.2,98.39,2021-10-30
+Faizabad,Uttar Pradesh,106.27,98.49,2021-10-30
+Farrukkhabad,Uttar Pradesh,106.12,98.35,2021-10-30
+Fatehpur,Uttar Pradesh,106.1,98.32,2021-10-30
+Firozabad,Uttar Pradesh,105.4,97.66,2021-10-30
+Gautam Budh Nagar,Uttar Pradesh,105.63,97.88,2021-10-30
+Ghaziabad,Uttar Pradesh,105.56,97.82,2021-10-30
+Ghazipur,Uttar Pradesh,107.41,99.54,2021-10-30
+Gonda,Uttar Pradesh,105.44,97.74,2021-10-30
+Gorakhpur,Uttar Pradesh,105.75,98.0,2021-10-30
+Hamirpur,Uttar Pradesh,106.13,98.35,2021-10-30
+Hapur,Uttar Pradesh,105.6,97.86,2021-10-30
+Hardoi,Uttar Pradesh,105.99,98.23,2021-10-30
+Hathras,Uttar Pradesh,105.72,97.94,2021-10-30
+Jalaun,Uttar Pradesh,106.04,98.26,2021-10-30
+Jaunpur,Uttar Pradesh,106.21,98.44,2021-10-30
+Jhansi,Uttar Pradesh,105.3,97.57,2021-10-30
+Kannuaj,Uttar Pradesh,106.14,98.36,2021-10-30
+Kanpur Rural,Uttar Pradesh,105.77,98.02,2021-10-30
+Kanpur Urban,Uttar Pradesh,105.74,97.99,2021-10-30
+Kashi Ram Nagar,Uttar Pradesh,106.05,98.25,2021-10-30
+Kaushambi,Uttar Pradesh,105.95,98.21,2021-10-30
+Kushinagar,Uttar Pradesh,105.85,98.1,2021-10-30
+Lakhimpur,Uttar Pradesh,106.59,98.78,2021-10-30
+Lalitpur,Uttar Pradesh,106.05,98.26,2021-10-30
+Lucknow,Uttar Pradesh,105.56,97.83,2021-10-30
+Maharajganj,Uttar Pradesh,106.24,98.45,2021-10-30
+Mahoba,Uttar Pradesh,106.49,98.67,2021-10-30
+Mainpuri,Uttar Pradesh,105.89,98.11,2021-10-30
+Mathura,Uttar Pradesh,105.04,97.32,2021-10-30
+Maunathbhanjan,Uttar Pradesh,106.44,98.64,2021-10-30
+Meerut,Uttar Pradesh,105.61,97.87,2021-10-30
+Mirzapur,Uttar Pradesh,106.46,98.67,2021-10-30
+Moradabad,Uttar Pradesh,106.29,98.5,2021-10-30
+Muzaffarnagar,Uttar Pradesh,105.53,97.8,2021-10-30
+Pilibhit,Uttar Pradesh,106.26,98.47,2021-10-30
+Pratapgarh,Uttar Pradesh,106.36,98.59,2021-10-30
+Rae Bareli,Uttar Pradesh,106.27,98.48,2021-10-30
+Rampur,Uttar Pradesh,105.91,98.14,2021-10-30
+Saharanpur,Uttar Pradesh,105.96,98.19,2021-10-30
+Sambhal,Uttar Pradesh,106.13,98.35,2021-10-30
+Sant Kabir Nagar,Uttar Pradesh,106.14,98.36,2021-10-30
+Sant Ravi Nagar,Uttar Pradesh,106.16,98.39,2021-10-30
+Shahjahanpur,Uttar Pradesh,105.95,98.19,2021-10-30
+Shamli,Uttar Pradesh,105.73,97.98,2021-10-30
+Shravasti,Uttar Pradesh,105.92,98.18,2021-10-30
+Sidharthnagar,Uttar Pradesh,106.8,98.97,2021-10-30
+Sitapur,Uttar Pradesh,106.81,98.99,2021-10-30
+Sonbhadra,Uttar Pradesh,106.19,98.42,2021-10-30
+Sultanpur,Uttar Pradesh,106.88,99.05,2021-10-30
+Unnao,Uttar Pradesh,105.78,98.03,2021-10-30
+Varanasi,Uttar Pradesh,105.63,97.91,2021-10-30
+Agra,Uttar Pradesh,106.41,98.7,2021-11-01
+Aligarh,Uttar Pradesh,106.62,98.89,2021-11-01
+Allahabad,Uttar Pradesh,107.46,99.71,2021-11-01
+Ambedkarnagar,Uttar Pradesh,108.46,100.62,2021-11-01
+Amethi/csm Nagar,Uttar Pradesh,108.0,100.19,2021-11-01
+Amroha,Uttar Pradesh,107.45,99.68,2021-11-01
+Auraiya,Uttar Pradesh,107.18,99.43,2021-11-01
+Azamgarh,Uttar Pradesh,107.51,99.74,2021-11-01
+Baghpat,Uttar Pradesh,106.61,98.91,2021-11-01
+Bahraich,Uttar Pradesh,107.08,99.37,2021-11-01
+Ballia,Uttar Pradesh,107.2,99.45,2021-11-01
+Balrampur,Uttar Pradesh,107.09,99.37,2021-11-01
+Banda,Uttar Pradesh,108.05,100.23,2021-11-01
+Barabanki,Uttar Pradesh,106.85,99.14,2021-11-01
+Bareilly,Uttar Pradesh,106.32,98.64,2021-11-01
+Basti,Uttar Pradesh,107.32,99.57,2021-11-01
+Bijnor,Uttar Pradesh,106.23,98.56,2021-11-01
+Budaun,Uttar Pradesh,106.62,98.92,2021-11-01
+Bulandshahr,Uttar Pradesh,107.36,99.57,2021-11-01
+Chandauli,Uttar Pradesh,106.67,98.98,2021-11-01
+Chitrakut,Uttar Pradesh,107.27,99.54,2021-11-01
+Deoria,Uttar Pradesh,106.34,98.67,2021-11-01
+Etah,Uttar Pradesh,106.49,98.78,2021-11-01
+Etawah,Uttar Pradesh,106.9,99.15,2021-11-01
+Faizabad,Uttar Pradesh,107.35,99.6,2021-11-01
+Farrukkhabad,Uttar Pradesh,106.94,99.22,2021-11-01
+Fatehpur,Uttar Pradesh,107.55,99.77,2021-11-01
+Firozabad,Uttar Pradesh,106.64,98.92,2021-11-01
+Gautam Budh Nagar,Uttar Pradesh,106.81,99.09,2021-11-01
+Ghaziabad,Uttar Pradesh,106.62,98.91,2021-11-01
+Ghazipur,Uttar Pradesh,108.36,100.53,2021-11-01
+Gonda,Uttar Pradesh,106.7,99.01,2021-11-01
+Gorakhpur,Uttar Pradesh,106.98,99.25,2021-11-01
+Hamirpur,Uttar Pradesh,107.04,99.3,2021-11-01
+Hapur,Uttar Pradesh,106.51,98.81,2021-11-01
+Hardoi,Uttar Pradesh,106.56,98.87,2021-11-01
+Hathras,Uttar Pradesh,106.52,98.8,2021-11-01
+Jalaun,Uttar Pradesh,107.42,99.66,2021-11-01
+Jaunpur,Uttar Pradesh,107.73,99.95,2021-11-01
+Jhansi,Uttar Pradesh,106.77,99.05,2021-11-01
+Kannuaj,Uttar Pradesh,107.32,99.56,2021-11-01
+Kanpur Rural,Uttar Pradesh,106.7,98.99,2021-11-01
+Kanpur Urban,Uttar Pradesh,106.56,98.86,2021-11-01
+Kashi Ram Nagar,Uttar Pradesh,106.93,99.18,2021-11-01
+Kaushambi,Uttar Pradesh,106.83,99.13,2021-11-01
+Kushinagar,Uttar Pradesh,106.61,98.91,2021-11-01
+Lakhimpur,Uttar Pradesh,106.76,99.06,2021-11-01
+Lalitpur,Uttar Pradesh,107.8,99.99,2021-11-01
+Lucknow,Uttar Pradesh,106.61,98.91,2021-11-01
+Maharajganj,Uttar Pradesh,107.14,99.4,2021-11-01
+Mahoba,Uttar Pradesh,107.54,99.76,2021-11-01
+Mainpuri,Uttar Pradesh,106.97,99.22,2021-11-01
+Mathura,Uttar Pradesh,106.37,98.66,2021-11-01
+Maunathbhanjan,Uttar Pradesh,107.21,99.46,2021-11-01
+Meerut,Uttar Pradesh,106.32,98.64,2021-11-01
+Mirzapur,Uttar Pradesh,107.03,99.31,2021-11-01
+Moradabad,Uttar Pradesh,107.26,99.51,2021-11-01
+Muzaffarnagar,Uttar Pradesh,106.48,98.78,2021-11-01
+Pilibhit,Uttar Pradesh,107.12,99.38,2021-11-01
+Pratapgarh,Uttar Pradesh,107.43,99.68,2021-11-01
+Rae Bareli,Uttar Pradesh,107.88,100.08,2021-11-01
+Rampur,Uttar Pradesh,106.88,99.15,2021-11-01
+Saharanpur,Uttar Pradesh,107.2,99.45,2021-11-01
+Sambhal,Uttar Pradesh,107.03,99.29,2021-11-01
+Sant Kabir Nagar,Uttar Pradesh,106.87,99.15,2021-11-01
+Sant Ravi Nagar,Uttar Pradesh,106.99,99.27,2021-11-01
+Shahjahanpur,Uttar Pradesh,106.55,98.86,2021-11-01
+Shamli,Uttar Pradesh,106.9,99.17,2021-11-01
+Shravasti,Uttar Pradesh,107.31,99.57,2021-11-01
+Sidharthnagar,Uttar Pradesh,107.89,100.09,2021-11-01
+Sitapur,Uttar Pradesh,107.36,99.61,2021-11-01
+Sonbhadra,Uttar Pradesh,107.09,99.37,2021-11-01
+Sultanpur,Uttar Pradesh,107.88,100.1,2021-11-01
+Unnao,Uttar Pradesh,106.49,98.81,2021-11-01
+Varanasi,Uttar Pradesh,107.25,99.51,2021-11-01
+Agra,Uttar Pradesh,103.32,0.0,2021-11-04
+Aligarh,Uttar Pradesh,103.3,0.0,2021-11-04
+Allahabad,Uttar Pradesh,104.22,0.0,2021-11-04
+Ambedkarnagar,Uttar Pradesh,105.07,0.0,2021-11-04
+Amethi/csm Nagar,Uttar Pradesh,103.82,0.0,2021-11-04
+Amroha,Uttar Pradesh,103.45,0.0,2021-11-04
+Auraiya,Uttar Pradesh,103.57,0.0,2021-11-04
+Azamgarh,Uttar Pradesh,103.64,0.0,2021-11-04
+Baghpat,Uttar Pradesh,103.12,0.0,2021-11-04
+Bahraich,Uttar Pradesh,103.59,0.0,2021-11-04
+Ballia,Uttar Pradesh,103.94,0.0,2021-11-04
+Balrampur,Uttar Pradesh,103.62,0.0,2021-11-04
+Banda,Uttar Pradesh,104.68,0.0,2021-11-04
+Barabanki,Uttar Pradesh,103.28,0.0,2021-11-04
+Bareilly,Uttar Pradesh,103.44,0.0,2021-11-04
+Basti,Uttar Pradesh,103.85,0.0,2021-11-04
+Bijnor,Uttar Pradesh,103.45,0.0,2021-11-04
+Budaun,Uttar Pradesh,103.23,0.0,2021-11-04
+Bulandshahr,Uttar Pradesh,103.65,0.0,2021-11-04
+Chandauli,Uttar Pradesh,103.09,0.0,2021-11-04
+Chitrakut,Uttar Pradesh,103.81,0.0,2021-11-04
+Deoria,Uttar Pradesh,103.09,0.0,2021-11-04
+Etah,Uttar Pradesh,103.24,0.0,2021-11-04
+Etawah,Uttar Pradesh,103.62,0.0,2021-11-04
+Faizabad,Uttar Pradesh,103.5,0.0,2021-11-04
+Farrukkhabad,Uttar Pradesh,103.72,0.0,2021-11-04
+Fatehpur,Uttar Pradesh,103.48,0.0,2021-11-04
+Firozabad,Uttar Pradesh,103.13,0.0,2021-11-04
+Gautam Budh Nagar,Uttar Pradesh,103.25,0.0,2021-11-04
+Ghaziabad,Uttar Pradesh,103.18,0.0,2021-11-04
+Ghazipur,Uttar Pradesh,104.33,0.0,2021-11-04
+Gonda,Uttar Pradesh,103.06,0.0,2021-11-04
+Gorakhpur,Uttar Pradesh,103.26,0.0,2021-11-04
+Hamirpur,Uttar Pradesh,103.58,0.0,2021-11-04
+Hapur,Uttar Pradesh,103.23,0.0,2021-11-04
+Hardoi,Uttar Pradesh,103.63,0.0,2021-11-04
+Hathras,Uttar Pradesh,103.07,0.0,2021-11-04
+Jalaun,Uttar Pradesh,104.1,0.0,2021-11-04
+Jaunpur,Uttar Pradesh,104.26,0.0,2021-11-04
+Jhansi,Uttar Pradesh,103.29,0.0,2021-11-04
+Kannuaj,Uttar Pradesh,103.69,0.0,2021-11-04
+Kanpur Rural,Uttar Pradesh,103.38,0.0,2021-11-04
+Kanpur Urban,Uttar Pradesh,103.19,0.0,2021-11-04
+Kashi Ram Nagar,Uttar Pradesh,103.33,0.0,2021-11-04
+Kaushambi,Uttar Pradesh,103.26,0.0,2021-11-04
+Kushinagar,Uttar Pradesh,103.5,0.0,2021-11-04
+Lakhimpur,Uttar Pradesh,103.87,0.0,2021-11-04
+Lalitpur,Uttar Pradesh,104.22,0.0,2021-11-04
+Lucknow,Uttar Pradesh,103.04,0.0,2021-11-04
+Maharajganj,Uttar Pradesh,103.79,0.0,2021-11-04
+Mahoba,Uttar Pradesh,104.33,0.0,2021-11-04
+Mainpuri,Uttar Pradesh,103.48,0.0,2021-11-04
+Mathura,Uttar Pradesh,102.91,0.0,2021-11-04
+Maunathbhanjan,Uttar Pradesh,103.76,0.0,2021-11-04
+Meerut,Uttar Pradesh,103.16,0.0,2021-11-04
+Mirzapur,Uttar Pradesh,103.67,0.0,2021-11-04
+Moradabad,Uttar Pradesh,103.3,0.0,2021-11-04
+Muzaffarnagar,Uttar Pradesh,103.35,0.0,2021-11-04
+Pilibhit,Uttar Pradesh,103.77,0.0,2021-11-04
+Pratapgarh,Uttar Pradesh,104.28,0.0,2021-11-04
+Rae Bareli,Uttar Pradesh,103.77,0.0,2021-11-04
+Rampur,Uttar Pradesh,103.84,0.0,2021-11-04
+Saharanpur,Uttar Pradesh,103.94,0.0,2021-11-04
+Sambhal,Uttar Pradesh,103.69,0.0,2021-11-04
+Sant Kabir Nagar,Uttar Pradesh,103.75,0.0,2021-11-04
+Sant Ravi Nagar,Uttar Pradesh,103.65,0.0,2021-11-04
+Shahjahanpur,Uttar Pradesh,102.96,0.0,2021-11-04
+Shamli,Uttar Pradesh,103.61,0.0,2021-11-04
+Shravasti,Uttar Pradesh,103.99,0.0,2021-11-04
+Sidharthnagar,Uttar Pradesh,104.33,0.0,2021-11-04
+Sitapur,Uttar Pradesh,104.35,0.0,2021-11-04
+Sonbhadra,Uttar Pradesh,104.07,0.0,2021-11-04
+Sultanpur,Uttar Pradesh,104.89,0.0,2021-11-04
+Unnao,Uttar Pradesh,103.29,0.0,2021-11-04
+Varanasi,Uttar Pradesh,103.57,0.0,2021-11-04
+Agra,Uttar Pradesh,95.2,86.71,2021-11-07
+Aligarh,Uttar Pradesh,95.42,86.91,2021-11-07
+Allahabad,Uttar Pradesh,95.99,87.51,2021-11-07
+Ambedkarnagar,Uttar Pradesh,97.22,88.7,2021-11-07
+Amethi/csm Nagar,Uttar Pradesh,96.29,87.79,2021-11-07
+Amroha,Uttar Pradesh,95.68,87.19,2021-11-07
+Auraiya,Uttar Pradesh,95.81,87.31,2021-11-07
+Azamgarh,Uttar Pradesh,96.45,87.94,2021-11-07
+Baghpat,Uttar Pradesh,95.31,86.83,2021-11-07
+Bahraich,Uttar Pradesh,96.42,87.93,2021-11-07
+Ballia,Uttar Pradesh,95.96,87.46,2021-11-07
+Balrampur,Uttar Pradesh,95.64,87.18,2021-11-07
+Banda,Uttar Pradesh,96.48,87.97,2021-11-07
+Barabanki,Uttar Pradesh,95.53,87.05,2021-11-07
+Bareilly,Uttar Pradesh,95.27,86.79,2021-11-07
+Basti,Uttar Pradesh,96.63,88.12,2021-11-07
+Bijnor,Uttar Pradesh,94.93,86.45,2021-11-07
+Budaun,Uttar Pradesh,95.31,86.83,2021-11-07
+Bulandshahr,Uttar Pradesh,95.77,87.25,2021-11-07
+Chandauli,Uttar Pradesh,95.23,86.77,2021-11-07
+Chitrakut,Uttar Pradesh,95.92,87.45,2021-11-07
+Deoria,Uttar Pradesh,95.12,86.65,2021-11-07
+Etah,Uttar Pradesh,95.47,86.96,2021-11-07
+Etawah,Uttar Pradesh,96.0,87.49,2021-11-07
+Faizabad,Uttar Pradesh,95.88,87.4,2021-11-07
+Farrukkhabad,Uttar Pradesh,95.85,87.36,2021-11-07
+Fatehpur,Uttar Pradesh,95.97,87.48,2021-11-07
+Firozabad,Uttar Pradesh,95.13,86.63,2021-11-07
+Gautam Budh Nagar,Uttar Pradesh,95.47,86.98,2021-11-07
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-11-07
+Ghazipur,Uttar Pradesh,96.11,87.62,2021-11-07
+Gonda,Uttar Pradesh,95.39,86.93,2021-11-07
+Gorakhpur,Uttar Pradesh,95.71,87.22,2021-11-07
+Hamirpur,Uttar Pradesh,96.17,87.65,2021-11-07
+Hapur,Uttar Pradesh,95.31,86.83,2021-11-07
+Hardoi,Uttar Pradesh,95.32,86.85,2021-11-07
+Hathras,Uttar Pradesh,95.01,86.51,2021-11-07
+Jalaun,Uttar Pradesh,96.19,87.67,2021-11-07
+Jaunpur,Uttar Pradesh,96.2,87.71,2021-11-07
+Jhansi,Uttar Pradesh,95.42,86.92,2021-11-07
+Kannuaj,Uttar Pradesh,95.63,87.14,2021-11-07
+Kanpur Rural,Uttar Pradesh,95.37,86.89,2021-11-07
+Kanpur Urban,Uttar Pradesh,95.31,86.83,2021-11-07
+Kashi Ram Nagar,Uttar Pradesh,95.46,86.95,2021-11-07
+Kaushambi,Uttar Pradesh,95.51,87.04,2021-11-07
+Kushinagar,Uttar Pradesh,95.63,87.14,2021-11-07
+Lakhimpur,Uttar Pradesh,96.01,87.52,2021-11-07
+Lalitpur,Uttar Pradesh,95.57,87.07,2021-11-07
+Lucknow,Uttar Pradesh,95.28,86.8,2021-11-07
+Maharajganj,Uttar Pradesh,95.87,87.38,2021-11-07
+Mahoba,Uttar Pradesh,96.52,87.99,2021-11-07
+Mainpuri,Uttar Pradesh,95.75,87.24,2021-11-07
+Mathura,Uttar Pradesh,94.84,86.32,2021-11-07
+Maunathbhanjan,Uttar Pradesh,95.85,87.36,2021-11-07
+Meerut,Uttar Pradesh,95.26,86.77,2021-11-07
+Mirzapur,Uttar Pradesh,95.26,86.8,2021-11-07
+Moradabad,Uttar Pradesh,95.75,87.26,2021-11-07
+Muzaffarnagar,Uttar Pradesh,95.11,86.63,2021-11-07
+Pilibhit,Uttar Pradesh,96.11,87.61,2021-11-07
+Pratapgarh,Uttar Pradesh,96.17,87.69,2021-11-07
+Rae Bareli,Uttar Pradesh,95.9,87.4,2021-11-07
+Rampur,Uttar Pradesh,95.97,87.47,2021-11-07
+Saharanpur,Uttar Pradesh,95.96,87.46,2021-11-07
+Sambhal,Uttar Pradesh,95.67,87.18,2021-11-07
+Sant Kabir Nagar,Uttar Pradesh,95.69,87.2,2021-11-07
+Sant Ravi Nagar,Uttar Pradesh,95.9,87.42,2021-11-07
+Shahjahanpur,Uttar Pradesh,95.01,86.55,2021-11-07
+Shamli,Uttar Pradesh,95.81,87.31,2021-11-07
+Shravasti,Uttar Pradesh,95.77,87.3,2021-11-07
+Sidharthnagar,Uttar Pradesh,96.07,87.57,2021-11-07
+Sitapur,Uttar Pradesh,95.67,87.19,2021-11-07
+Sonbhadra,Uttar Pradesh,96.16,87.68,2021-11-07
+Sultanpur,Uttar Pradesh,96.98,88.47,2021-11-07
+Unnao,Uttar Pradesh,95.4,86.92,2021-11-07
+Varanasi,Uttar Pradesh,96.19,87.7,2021-11-07
+Agra,Uttar Pradesh,95.2,86.71,2021-11-08
+Aligarh,Uttar Pradesh,95.76,87.23,2021-11-08
+Allahabad,Uttar Pradesh,96.18,87.7,2021-11-08
+Ambedkarnagar,Uttar Pradesh,96.95,88.44,2021-11-08
+Amethi/csm Nagar,Uttar Pradesh,96.36,87.86,2021-11-08
+Amroha,Uttar Pradesh,95.58,87.09,2021-11-08
+Auraiya,Uttar Pradesh,95.68,87.19,2021-11-08
+Azamgarh,Uttar Pradesh,96.33,87.83,2021-11-08
+Baghpat,Uttar Pradesh,95.12,86.64,2021-11-08
+Bahraich,Uttar Pradesh,96.22,87.74,2021-11-08
+Ballia,Uttar Pradesh,96.39,87.88,2021-11-08
+Balrampur,Uttar Pradesh,95.71,87.25,2021-11-08
+Banda,Uttar Pradesh,96.02,87.53,2021-11-08
+Barabanki,Uttar Pradesh,95.46,86.99,2021-11-08
+Bareilly,Uttar Pradesh,95.12,86.65,2021-11-08
+Basti,Uttar Pradesh,95.96,87.46,2021-11-08
+Bijnor,Uttar Pradesh,94.93,86.45,2021-11-08
+Budaun,Uttar Pradesh,95.19,86.71,2021-11-08
+Bulandshahr,Uttar Pradesh,95.84,87.31,2021-11-08
+Chandauli,Uttar Pradesh,95.32,86.85,2021-11-08
+Chitrakut,Uttar Pradesh,96.17,87.69,2021-11-08
+Deoria,Uttar Pradesh,95.03,86.56,2021-11-08
+Etah,Uttar Pradesh,95.83,87.31,2021-11-08
+Etawah,Uttar Pradesh,95.55,87.04,2021-11-08
+Faizabad,Uttar Pradesh,95.9,87.43,2021-11-08
+Farrukkhabad,Uttar Pradesh,95.83,87.32,2021-11-08
+Fatehpur,Uttar Pradesh,96.32,87.82,2021-11-08
+Firozabad,Uttar Pradesh,94.99,86.5,2021-11-08
+Gautam Budh Nagar,Uttar Pradesh,95.51,87.01,2021-11-08
+Ghaziabad,Uttar Pradesh,95.02,86.54,2021-11-08
+Ghazipur,Uttar Pradesh,96.25,87.76,2021-11-08
+Gonda,Uttar Pradesh,95.15,86.7,2021-11-08
+Gorakhpur,Uttar Pradesh,95.36,86.88,2021-11-08
+Hamirpur,Uttar Pradesh,96.09,87.59,2021-11-08
+Hapur,Uttar Pradesh,95.22,86.73,2021-11-08
+Hardoi,Uttar Pradesh,96.13,87.63,2021-11-08
+Hathras,Uttar Pradesh,94.98,86.48,2021-11-08
+Jalaun,Uttar Pradesh,95.83,87.32,2021-11-08
+Jaunpur,Uttar Pradesh,96.77,88.27,2021-11-08
+Jhansi,Uttar Pradesh,95.24,86.75,2021-11-08
+Kannuaj,Uttar Pradesh,95.8,87.3,2021-11-08
+Kanpur Rural,Uttar Pradesh,95.53,87.05,2021-11-08
+Kanpur Urban,Uttar Pradesh,95.11,86.64,2021-11-08
+Kashi Ram Nagar,Uttar Pradesh,95.86,87.37,2021-11-08
+Kaushambi,Uttar Pradesh,95.44,86.97,2021-11-08
+Kushinagar,Uttar Pradesh,95.63,87.14,2021-11-08
+Lakhimpur,Uttar Pradesh,95.36,86.88,2021-11-08
+Lalitpur,Uttar Pradesh,96.4,87.88,2021-11-08
+Lucknow,Uttar Pradesh,95.29,86.81,2021-11-08
+Maharajganj,Uttar Pradesh,96.2,87.7,2021-11-08
+Mahoba,Uttar Pradesh,96.36,87.84,2021-11-08
+Mainpuri,Uttar Pradesh,95.74,87.23,2021-11-08
+Mathura,Uttar Pradesh,94.91,86.39,2021-11-08
+Maunathbhanjan,Uttar Pradesh,95.9,87.41,2021-11-08
+Meerut,Uttar Pradesh,95.27,86.79,2021-11-08
+Mirzapur,Uttar Pradesh,96.33,87.84,2021-11-08
+Moradabad,Uttar Pradesh,96.12,87.61,2021-11-08
+Muzaffarnagar,Uttar Pradesh,95.46,86.97,2021-11-08
+Pilibhit,Uttar Pradesh,95.76,87.27,2021-11-08
+Pratapgarh,Uttar Pradesh,96.17,87.69,2021-11-08
+Rae Bareli,Uttar Pradesh,95.75,87.27,2021-11-08
+Rampur,Uttar Pradesh,95.48,87.0,2021-11-08
+Saharanpur,Uttar Pradesh,96.12,87.61,2021-11-08
+Sambhal,Uttar Pradesh,96.11,87.58,2021-11-08
+Sant Kabir Nagar,Uttar Pradesh,95.72,87.23,2021-11-08
+Sant Ravi Nagar,Uttar Pradesh,95.88,87.39,2021-11-08
+Shahjahanpur,Uttar Pradesh,95.74,87.25,2021-11-08
+Shamli,Uttar Pradesh,95.56,87.06,2021-11-08
+Shravasti,Uttar Pradesh,96.08,87.61,2021-11-08
+Sidharthnagar,Uttar Pradesh,96.38,87.87,2021-11-08
+Sitapur,Uttar Pradesh,95.87,87.38,2021-11-08
+Sonbhadra,Uttar Pradesh,95.54,87.06,2021-11-08
+Sultanpur,Uttar Pradesh,97.08,88.57,2021-11-08
+Unnao,Uttar Pradesh,95.51,87.03,2021-11-08
+Varanasi,Uttar Pradesh,96.12,87.63,2021-11-08
+Agra,Uttar Pradesh,94.83,86.31,2021-11-09
+Aligarh,Uttar Pradesh,95.42,86.91,2021-11-09
+Allahabad,Uttar Pradesh,96.18,87.7,2021-11-09
+Ambedkarnagar,Uttar Pradesh,96.88,88.37,2021-11-09
+Amethi/csm Nagar,Uttar Pradesh,96.29,87.79,2021-11-09
+Amroha,Uttar Pradesh,95.6,87.11,2021-11-09
+Auraiya,Uttar Pradesh,95.82,87.32,2021-11-09
+Azamgarh,Uttar Pradesh,96.08,87.58,2021-11-09
+Baghpat,Uttar Pradesh,95.12,86.64,2021-11-09
+Bahraich,Uttar Pradesh,95.7,87.23,2021-11-09
+Ballia,Uttar Pradesh,96.06,87.56,2021-11-09
+Balrampur,Uttar Pradesh,95.49,87.02,2021-11-09
+Banda,Uttar Pradesh,96.83,88.31,2021-11-09
+Barabanki,Uttar Pradesh,95.62,87.14,2021-11-09
+Bareilly,Uttar Pradesh,95.44,86.96,2021-11-09
+Basti,Uttar Pradesh,96.53,88.02,2021-11-09
+Bijnor,Uttar Pradesh,95.45,86.97,2021-11-09
+Budaun,Uttar Pradesh,95.18,86.7,2021-11-09
+Bulandshahr,Uttar Pradesh,96.32,87.78,2021-11-09
+Chandauli,Uttar Pradesh,95.33,86.87,2021-11-09
+Chitrakut,Uttar Pradesh,96.13,87.65,2021-11-09
+Deoria,Uttar Pradesh,95.12,86.65,2021-11-09
+Etah,Uttar Pradesh,95.46,86.95,2021-11-09
+Etawah,Uttar Pradesh,95.62,87.11,2021-11-09
+Faizabad,Uttar Pradesh,95.88,87.4,2021-11-09
+Farrukkhabad,Uttar Pradesh,95.8,87.32,2021-11-09
+Fatehpur,Uttar Pradesh,95.8,87.3,2021-11-09
+Firozabad,Uttar Pradesh,95.13,86.63,2021-11-09
+Gautam Budh Nagar,Uttar Pradesh,95.48,86.99,2021-11-09
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-11-09
+Ghazipur,Uttar Pradesh,97.04,88.53,2021-11-09
+Gonda,Uttar Pradesh,95.28,86.82,2021-11-09
+Gorakhpur,Uttar Pradesh,95.36,86.88,2021-11-09
+Hamirpur,Uttar Pradesh,96.03,87.53,2021-11-09
+Hapur,Uttar Pradesh,95.34,86.85,2021-11-09
+Hardoi,Uttar Pradesh,95.58,87.1,2021-11-09
+Hathras,Uttar Pradesh,95.12,86.61,2021-11-09
+Jalaun,Uttar Pradesh,95.6,87.1,2021-11-09
+Jaunpur,Uttar Pradesh,96.49,88.0,2021-11-09
+Jhansi,Uttar Pradesh,95.3,86.81,2021-11-09
+Kannuaj,Uttar Pradesh,96.02,87.53,2021-11-09
+Kanpur Rural,Uttar Pradesh,95.03,86.55,2021-11-09
+Kanpur Urban,Uttar Pradesh,94.97,86.49,2021-11-09
+Kashi Ram Nagar,Uttar Pradesh,95.69,87.19,2021-11-09
+Kaushambi,Uttar Pradesh,95.71,87.24,2021-11-09
+Kushinagar,Uttar Pradesh,95.44,86.96,2021-11-09
+Lakhimpur,Uttar Pradesh,96.01,87.52,2021-11-09
+Lalitpur,Uttar Pradesh,96.19,87.67,2021-11-09
+Lucknow,Uttar Pradesh,95.28,86.8,2021-11-09
+Maharajganj,Uttar Pradesh,95.88,87.39,2021-11-09
+Mahoba,Uttar Pradesh,96.62,88.1,2021-11-09
+Mainpuri,Uttar Pradesh,95.61,87.11,2021-11-09
+Mathura,Uttar Pradesh,95.38,86.86,2021-11-09
+Maunathbhanjan,Uttar Pradesh,95.96,87.47,2021-11-09
+Meerut,Uttar Pradesh,95.01,86.53,2021-11-09
+Mirzapur,Uttar Pradesh,95.44,86.97,2021-11-09
+Moradabad,Uttar Pradesh,95.56,87.07,2021-11-09
+Muzaffarnagar,Uttar Pradesh,95.26,86.78,2021-11-09
+Pilibhit,Uttar Pradesh,96.27,87.76,2021-11-09
+Pratapgarh,Uttar Pradesh,96.07,87.59,2021-11-09
+Rae Bareli,Uttar Pradesh,95.39,86.92,2021-11-09
+Rampur,Uttar Pradesh,95.82,87.33,2021-11-09
+Saharanpur,Uttar Pradesh,96.17,87.67,2021-11-09
+Sambhal,Uttar Pradesh,95.67,87.18,2021-11-09
+Sant Kabir Nagar,Uttar Pradesh,95.7,87.21,2021-11-09
+Sant Ravi Nagar,Uttar Pradesh,95.76,87.28,2021-11-09
+Shahjahanpur,Uttar Pradesh,95.41,86.93,2021-11-09
+Shamli,Uttar Pradesh,95.52,87.03,2021-11-09
+Shravasti,Uttar Pradesh,95.77,87.3,2021-11-09
+Sidharthnagar,Uttar Pradesh,96.43,87.92,2021-11-09
+Sitapur,Uttar Pradesh,96.16,87.66,2021-11-09
+Sonbhadra,Uttar Pradesh,95.9,87.41,2021-11-09
+Sultanpur,Uttar Pradesh,97.13,88.62,2021-11-09
+Unnao,Uttar Pradesh,95.57,87.08,2021-11-09
+Varanasi,Uttar Pradesh,95.67,87.19,2021-11-09
+Agra,Uttar Pradesh,95.05,86.56,2021-11-11
+Aligarh,Uttar Pradesh,95.42,86.91,2021-11-11
+Allahabad,Uttar Pradesh,96.04,87.56,2021-11-11
+Ambedkarnagar,Uttar Pradesh,96.88,88.37,2021-11-11
+Amethi/csm Nagar,Uttar Pradesh,96.36,87.86,2021-11-11
+Amroha,Uttar Pradesh,96.11,87.61,2021-11-11
+Auraiya,Uttar Pradesh,95.92,87.43,2021-11-11
+Azamgarh,Uttar Pradesh,96.27,87.77,2021-11-11
+Bahraich,Uttar Pradesh,95.83,87.35,2021-11-11
+Ballia,Uttar Pradesh,96.04,87.54,2021-11-11
+Balrampur,Uttar Pradesh,95.74,87.28,2021-11-11
+Banda,Uttar Pradesh,96.78,88.26,2021-11-11
+Barabanki,Uttar Pradesh,95.46,86.99,2021-11-11
+Bareilly,Uttar Pradesh,95.29,86.81,2021-11-11
+Basti,Uttar Pradesh,96.24,87.74,2021-11-11
+Bijnor,Uttar Pradesh,95.34,86.86,2021-11-11
+Budaun,Uttar Pradesh,95.28,86.8,2021-11-11
+Bulandshahr,Uttar Pradesh,95.84,87.31,2021-11-11
+Chandauli,Uttar Pradesh,95.16,86.7,2021-11-11
+Chitrakut,Uttar Pradesh,96.17,87.69,2021-11-11
+Deoria,Uttar Pradesh,95.23,86.76,2021-11-11
+Etah,Uttar Pradesh,95.39,86.89,2021-11-11
+Etawah,Uttar Pradesh,95.55,87.04,2021-11-11
+Faizabad,Uttar Pradesh,95.72,87.26,2021-11-11
+Farrukkhabad,Uttar Pradesh,95.85,87.36,2021-11-11
+Fatehpur,Uttar Pradesh,95.5,87.02,2021-11-11
+Firozabad,Uttar Pradesh,94.83,86.31,2021-11-11
+Gautam Budh Nagar,Uttar Pradesh,95.24,86.75,2021-11-11
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-11-11
+Ghazipur,Uttar Pradesh,96.43,87.94,2021-11-11
+Gonda,Uttar Pradesh,95.5,87.04,2021-11-11
+Gorakhpur,Uttar Pradesh,95.18,86.7,2021-11-11
+Hamirpur,Uttar Pradesh,96.09,87.59,2021-11-11
+Hapur,Uttar Pradesh,95.17,86.68,2021-11-11
+Hardoi,Uttar Pradesh,96.13,87.63,2021-11-11
+Hathras,Uttar Pradesh,95.14,86.63,2021-11-11
+Jalaun,Uttar Pradesh,95.83,87.32,2021-11-11
+Jaunpur,Uttar Pradesh,96.22,87.73,2021-11-11
+Jhansi,Uttar Pradesh,95.27,86.78,2021-11-11
+Kannuaj,Uttar Pradesh,95.54,87.06,2021-11-11
+Kanpur Rural,Uttar Pradesh,95.31,86.83,2021-11-11
+Kanpur Urban,Uttar Pradesh,95.02,86.55,2021-11-11
+Kashi Ram Nagar,Uttar Pradesh,95.86,87.37,2021-11-11
+Kaushambi,Uttar Pradesh,95.35,86.89,2021-11-11
+Kushinagar,Uttar Pradesh,95.76,87.27,2021-11-11
+Lakhimpur,Uttar Pradesh,95.81,87.32,2021-11-11
+Lalitpur,Uttar Pradesh,95.98,87.47,2021-11-11
+Lucknow,Uttar Pradesh,95.51,87.04,2021-11-11
+Maharajganj,Uttar Pradesh,95.82,87.33,2021-11-11
+Mahoba,Uttar Pradesh,96.36,87.84,2021-11-11
+Mainpuri,Uttar Pradesh,95.41,86.91,2021-11-11
+Mathura,Uttar Pradesh,94.79,86.26,2021-11-11
+Maunathbhanjan,Uttar Pradesh,95.97,87.48,2021-11-11
+Meerut,Uttar Pradesh,94.93,86.45,2021-11-11
+Mirzapur,Uttar Pradesh,95.76,87.29,2021-11-11
+Moradabad,Uttar Pradesh,95.86,87.37,2021-11-11
+Muzaffarnagar,Uttar Pradesh,95.58,87.08,2021-11-11
+Pilibhit,Uttar Pradesh,95.87,87.38,2021-11-11
+Pratapgarh,Uttar Pradesh,96.08,87.6,2021-11-11
+Rae Bareli,Uttar Pradesh,95.93,87.45,2021-11-11
+Rampur,Uttar Pradesh,95.85,87.36,2021-11-11
+Saharanpur,Uttar Pradesh,96.12,87.61,2021-11-11
+Sambhal,Uttar Pradesh,96.11,87.58,2021-11-11
+Sant Kabir Nagar,Uttar Pradesh,95.89,87.4,2021-11-11
+Sant Ravi Nagar,Uttar Pradesh,95.88,87.39,2021-11-11
+Shahjahanpur,Uttar Pradesh,95.01,86.55,2021-11-11
+Shamli,Uttar Pradesh,95.52,87.03,2021-11-11
+Shravasti,Uttar Pradesh,95.63,87.17,2021-11-11
+Sidharthnagar,Uttar Pradesh,96.53,88.02,2021-11-11
+Sitapur,Uttar Pradesh,95.66,87.18,2021-11-11
+Sonbhadra,Uttar Pradesh,96.6,88.1,2021-11-11
+Sultanpur,Uttar Pradesh,96.95,88.44,2021-11-11
+Unnao,Uttar Pradesh,95.39,86.91,2021-11-11
+Varanasi,Uttar Pradesh,95.62,87.14,2021-11-11
+Agra,Uttar Pradesh,95.2,86.7,2021-11-12
+Aligarh,Uttar Pradesh,95.41,86.89,2021-11-12
+Allahabad,Uttar Pradesh,96.09,87.61,2021-11-12
+Ambedkarnagar,Uttar Pradesh,96.54,88.05,2021-11-12
+Amethi/csm Nagar,Uttar Pradesh,96.29,87.79,2021-11-12
+Amroha,Uttar Pradesh,95.66,87.17,2021-11-12
+Auraiya,Uttar Pradesh,95.74,87.24,2021-11-12
+Azamgarh,Uttar Pradesh,95.75,87.26,2021-11-12
+Baghpat,Uttar Pradesh,95.23,86.75,2021-11-12
+Bahraich,Uttar Pradesh,95.57,87.1,2021-11-12
+Ballia,Uttar Pradesh,96.01,87.51,2021-11-12
+Balrampur,Uttar Pradesh,95.42,86.96,2021-11-12
+Banda,Uttar Pradesh,96.63,88.11,2021-11-12
+Barabanki,Uttar Pradesh,95.7,87.22,2021-11-12
+Bareilly,Uttar Pradesh,95.39,86.91,2021-11-12
+Basti,Uttar Pradesh,96.02,87.52,2021-11-12
+Bijnor,Uttar Pradesh,95.41,86.92,2021-11-12
+Budaun,Uttar Pradesh,95.25,86.77,2021-11-12
+Bulandshahr,Uttar Pradesh,96.18,87.65,2021-11-12
+Chandauli,Uttar Pradesh,95.2,86.73,2021-11-12
+Chitrakut,Uttar Pradesh,96.5,88.01,2021-11-12
+Deoria,Uttar Pradesh,95.19,86.71,2021-11-12
+Etah,Uttar Pradesh,95.47,86.96,2021-11-12
+Etawah,Uttar Pradesh,95.76,87.25,2021-11-12
+Faizabad,Uttar Pradesh,95.78,87.3,2021-11-12
+Farrukkhabad,Uttar Pradesh,95.9,87.38,2021-11-12
+Fatehpur,Uttar Pradesh,95.54,87.05,2021-11-12
+Firozabad,Uttar Pradesh,95.13,86.63,2021-11-12
+Gautam Budh Nagar,Uttar Pradesh,95.51,87.01,2021-11-12
+Ghaziabad,Uttar Pradesh,94.92,86.43,2021-11-12
+Ghazipur,Uttar Pradesh,97.11,88.6,2021-11-12
+Gonda,Uttar Pradesh,95.15,86.7,2021-11-12
+Gorakhpur,Uttar Pradesh,95.63,87.14,2021-11-12
+Hamirpur,Uttar Pradesh,95.84,87.35,2021-11-12
+Hapur,Uttar Pradesh,95.31,86.83,2021-11-12
+Hardoi,Uttar Pradesh,95.56,87.08,2021-11-12
+Hathras,Uttar Pradesh,95.01,86.51,2021-11-12
+Jalaun,Uttar Pradesh,95.99,87.48,2021-11-12
+Jaunpur,Uttar Pradesh,95.79,87.31,2021-11-12
+Jhansi,Uttar Pradesh,94.92,86.43,2021-11-12
+Kannuaj,Uttar Pradesh,96.1,87.6,2021-11-12
+Kanpur Rural,Uttar Pradesh,95.11,86.64,2021-11-12
+Kanpur Urban,Uttar Pradesh,94.97,86.49,2021-11-12
+Kashi Ram Nagar,Uttar Pradesh,95.46,86.95,2021-11-12
+Kaushambi,Uttar Pradesh,95.41,86.94,2021-11-12
+Kushinagar,Uttar Pradesh,95.69,87.2,2021-11-12
+Lakhimpur,Uttar Pradesh,96.67,88.16,2021-11-12
+Lalitpur,Uttar Pradesh,95.78,87.27,2021-11-12
+Lucknow,Uttar Pradesh,95.28,86.8,2021-11-12
+Maharajganj,Uttar Pradesh,95.72,87.23,2021-11-12
+Mahoba,Uttar Pradesh,96.45,87.93,2021-11-12
+Mainpuri,Uttar Pradesh,95.63,87.12,2021-11-12
+Mathura,Uttar Pradesh,94.85,86.32,2021-11-12
+Maunathbhanjan,Uttar Pradesh,95.77,87.28,2021-11-12
+Meerut,Uttar Pradesh,94.94,86.45,2021-11-12
+Mirzapur,Uttar Pradesh,95.26,86.8,2021-11-12
+Moradabad,Uttar Pradesh,95.91,87.41,2021-11-12
+Muzaffarnagar,Uttar Pradesh,95.36,86.87,2021-11-12
+Pilibhit,Uttar Pradesh,95.82,87.33,2021-11-12
+Pratapgarh,Uttar Pradesh,96.18,87.7,2021-11-12
+Rae Bareli,Uttar Pradesh,95.99,87.49,2021-11-12
+Rampur,Uttar Pradesh,95.77,87.28,2021-11-12
+Saharanpur,Uttar Pradesh,95.96,87.46,2021-11-12
+Sambhal,Uttar Pradesh,95.67,87.18,2021-11-12
+Sant Kabir Nagar,Uttar Pradesh,95.76,87.27,2021-11-12
+Sant Ravi Nagar,Uttar Pradesh,95.57,87.1,2021-11-12
+Shahjahanpur,Uttar Pradesh,95.5,87.03,2021-11-12
+Shamli,Uttar Pradesh,95.71,87.22,2021-11-12
+Shravasti,Uttar Pradesh,95.77,87.3,2021-11-12
+Sidharthnagar,Uttar Pradesh,96.52,88.01,2021-11-12
+Sitapur,Uttar Pradesh,95.92,87.43,2021-11-12
+Sonbhadra,Uttar Pradesh,96.16,87.68,2021-11-12
+Sultanpur,Uttar Pradesh,96.98,88.47,2021-11-12
+Unnao,Uttar Pradesh,95.08,86.61,2021-11-12
+Varanasi,Uttar Pradesh,95.66,87.19,2021-11-12
+Agra,Uttar Pradesh,95.07,86.58,2021-11-14
+Aligarh,Uttar Pradesh,95.42,86.91,2021-11-14
+Allahabad,Uttar Pradesh,95.74,87.27,2021-11-14
+Ambedkarnagar,Uttar Pradesh,96.85,88.35,2021-11-14
+Amethi/csm Nagar,Uttar Pradesh,96.36,87.86,2021-11-14
+Amroha,Uttar Pradesh,96.11,87.61,2021-11-14
+Auraiya,Uttar Pradesh,95.87,87.38,2021-11-14
+Azamgarh,Uttar Pradesh,96.53,88.02,2021-11-14
+Baghpat,Uttar Pradesh,95.12,86.64,2021-11-14
+Bahraich,Uttar Pradesh,95.83,87.35,2021-11-14
+Ballia,Uttar Pradesh,95.69,87.2,2021-11-14
+Balrampur,Uttar Pradesh,95.44,86.98,2021-11-14
+Banda,Uttar Pradesh,96.83,88.31,2021-11-14
+Barabanki,Uttar Pradesh,95.46,86.99,2021-11-14
+Bareilly,Uttar Pradesh,95.73,87.24,2021-11-14
+Basti,Uttar Pradesh,96.24,87.74,2021-11-14
+Bijnor,Uttar Pradesh,95.34,86.86,2021-11-14
+Budaun,Uttar Pradesh,95.45,86.97,2021-11-14
+Bulandshahr,Uttar Pradesh,96.19,87.66,2021-11-14
+Chandauli,Uttar Pradesh,95.32,86.85,2021-11-14
+Chitrakut,Uttar Pradesh,96.28,87.8,2021-11-14
+Deoria,Uttar Pradesh,95.03,86.56,2021-11-14
+Etah,Uttar Pradesh,95.41,86.91,2021-11-14
+Etawah,Uttar Pradesh,95.55,87.04,2021-11-14
+Faizabad,Uttar Pradesh,95.71,87.24,2021-11-14
+Farrukkhabad,Uttar Pradesh,95.87,87.38,2021-11-14
+Fatehpur,Uttar Pradesh,95.58,87.1,2021-11-14
+Firozabad,Uttar Pradesh,95.19,86.69,2021-11-14
+Gautam Budh Nagar,Uttar Pradesh,95.43,86.94,2021-11-14
+Ghaziabad,Uttar Pradesh,95.22,86.74,2021-11-14
+Ghazipur,Uttar Pradesh,96.43,87.94,2021-11-14
+Gonda,Uttar Pradesh,95.59,87.12,2021-11-14
+Gorakhpur,Uttar Pradesh,95.36,86.88,2021-11-14
+Hamirpur,Uttar Pradesh,96.09,87.59,2021-11-14
+Hapur,Uttar Pradesh,95.18,86.7,2021-11-14
+Hardoi,Uttar Pradesh,95.26,86.79,2021-11-14
+Hathras,Uttar Pradesh,95.53,87.01,2021-11-14
+Jalaun,Uttar Pradesh,95.83,87.32,2021-11-14
+Jaunpur,Uttar Pradesh,96.43,87.94,2021-11-14
+Jhansi,Uttar Pradesh,95.44,86.94,2021-11-14
+Kannuaj,Uttar Pradesh,96.05,87.55,2021-11-14
+Kanpur Rural,Uttar Pradesh,95.37,86.88,2021-11-14
+Kanpur Urban,Uttar Pradesh,95.02,86.55,2021-11-14
+Kashi Ram Nagar,Uttar Pradesh,95.58,87.07,2021-11-14
+Kaushambi,Uttar Pradesh,95.6,87.14,2021-11-14
+Kushinagar,Uttar Pradesh,95.34,86.86,2021-11-14
+Lakhimpur,Uttar Pradesh,96.1,87.61,2021-11-14
+Lalitpur,Uttar Pradesh,95.87,87.37,2021-11-14
+Lucknow,Uttar Pradesh,95.28,86.8,2021-11-14
+Maharajganj,Uttar Pradesh,95.7,87.21,2021-11-14
+Mahoba,Uttar Pradesh,96.36,87.84,2021-11-14
+Mainpuri,Uttar Pradesh,95.57,87.07,2021-11-14
+Mathura,Uttar Pradesh,94.79,86.26,2021-11-14
+Maunathbhanjan,Uttar Pradesh,95.79,87.3,2021-11-14
+Meerut,Uttar Pradesh,94.93,86.45,2021-11-14
+Mirzapur,Uttar Pradesh,95.97,87.48,2021-11-14
+Moradabad,Uttar Pradesh,95.86,87.37,2021-11-14
+Muzaffarnagar,Uttar Pradesh,95.58,87.08,2021-11-14
+Pilibhit,Uttar Pradesh,95.98,87.48,2021-11-14
+Pratapgarh,Uttar Pradesh,96.07,87.59,2021-11-14
+Rae Bareli,Uttar Pradesh,96.25,87.74,2021-11-14
+Rampur,Uttar Pradesh,95.39,86.91,2021-11-14
+Saharanpur,Uttar Pradesh,96.12,87.61,2021-11-14
+Sambhal,Uttar Pradesh,95.52,87.03,2021-11-14
+Sant Kabir Nagar,Uttar Pradesh,95.7,87.21,2021-11-14
+Sant Ravi Nagar,Uttar Pradesh,95.88,87.39,2021-11-14
+Shahjahanpur,Uttar Pradesh,95.01,86.55,2021-11-14
+Shamli,Uttar Pradesh,95.52,87.03,2021-11-14
+Shravasti,Uttar Pradesh,96.08,87.61,2021-11-14
+Sidharthnagar,Uttar Pradesh,96.43,87.92,2021-11-14
+Sitapur,Uttar Pradesh,96.45,87.95,2021-11-14
+Sonbhadra,Uttar Pradesh,96.69,88.19,2021-11-14
+Sultanpur,Uttar Pradesh,96.95,88.44,2021-11-14
+Unnao,Uttar Pradesh,95.39,86.91,2021-11-14
+Varanasi,Uttar Pradesh,95.67,87.2,2021-11-14
+Agra,Uttar Pradesh,94.93,86.43,2021-11-16
+Aligarh,Uttar Pradesh,95.52,87.0,2021-11-16
+Allahabad,Uttar Pradesh,96.19,87.71,2021-11-16
+Ambedkarnagar,Uttar Pradesh,97.22,88.7,2021-11-16
+Amethi/csm Nagar,Uttar Pradesh,96.29,87.79,2021-11-16
+Amroha,Uttar Pradesh,95.68,87.19,2021-11-16
+Auraiya,Uttar Pradesh,95.87,87.37,2021-11-16
+Azamgarh,Uttar Pradesh,95.68,87.19,2021-11-16
+Baghpat,Uttar Pradesh,95.31,86.83,2021-11-16
+Bahraich,Uttar Pradesh,96.42,87.93,2021-11-16
+Ballia,Uttar Pradesh,96.02,87.52,2021-11-16
+Balrampur,Uttar Pradesh,95.71,87.25,2021-11-16
+Banda,Uttar Pradesh,96.48,87.97,2021-11-16
+Barabanki,Uttar Pradesh,95.53,87.05,2021-11-16
+Bareilly,Uttar Pradesh,95.55,87.06,2021-11-16
+Basti,Uttar Pradesh,96.63,88.12,2021-11-16
+Bijnor,Uttar Pradesh,94.93,86.45,2021-11-16
+Budaun,Uttar Pradesh,95.37,86.89,2021-11-16
+Bulandshahr,Uttar Pradesh,95.77,87.25,2021-11-16
+Chandauli,Uttar Pradesh,95.23,86.77,2021-11-16
+Chitrakut,Uttar Pradesh,96.13,87.65,2021-11-16
+Deoria,Uttar Pradesh,95.29,86.81,2021-11-16
+Etah,Uttar Pradesh,95.47,86.96,2021-11-16
+Etawah,Uttar Pradesh,95.93,87.41,2021-11-16
+Faizabad,Uttar Pradesh,95.98,87.5,2021-11-16
+Farrukkhabad,Uttar Pradesh,95.83,87.35,2021-11-16
+Fatehpur,Uttar Pradesh,95.97,87.48,2021-11-16
+Firozabad,Uttar Pradesh,95.24,86.75,2021-11-16
+Gautam Budh Nagar,Uttar Pradesh,95.43,86.94,2021-11-16
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-11-16
+Ghazipur,Uttar Pradesh,96.43,87.94,2021-11-16
+Gonda,Uttar Pradesh,95.15,86.7,2021-11-16
+Gorakhpur,Uttar Pradesh,95.48,87.0,2021-11-16
+Hamirpur,Uttar Pradesh,95.85,87.36,2021-11-16
+Hapur,Uttar Pradesh,95.08,86.6,2021-11-16
+Hardoi,Uttar Pradesh,96.27,87.78,2021-11-16
+Hathras,Uttar Pradesh,95.46,86.94,2021-11-16
+Jalaun,Uttar Pradesh,95.86,87.35,2021-11-16
+Jaunpur,Uttar Pradesh,96.09,87.61,2021-11-16
+Jhansi,Uttar Pradesh,94.92,86.43,2021-11-16
+Kannuaj,Uttar Pradesh,95.67,87.18,2021-11-16
+Kanpur Rural,Uttar Pradesh,95.49,87.0,2021-11-16
+Kanpur Urban,Uttar Pradesh,95.2,86.72,2021-11-16
+Kashi Ram Nagar,Uttar Pradesh,95.46,86.95,2021-11-16
+Kaushambi,Uttar Pradesh,95.66,87.19,2021-11-16
+Kushinagar,Uttar Pradesh,95.34,86.86,2021-11-16
+Lakhimpur,Uttar Pradesh,96.67,88.16,2021-11-16
+Lalitpur,Uttar Pradesh,95.87,87.37,2021-11-16
+Lucknow,Uttar Pradesh,95.39,86.92,2021-11-16
+Maharajganj,Uttar Pradesh,95.87,87.38,2021-11-16
+Mahoba,Uttar Pradesh,96.52,87.99,2021-11-16
+Mainpuri,Uttar Pradesh,95.62,87.12,2021-11-16
+Mathura,Uttar Pradesh,95.14,86.63,2021-11-16
+Maunathbhanjan,Uttar Pradesh,95.85,87.36,2021-11-16
+Meerut,Uttar Pradesh,95.27,86.78,2021-11-16
+Mirzapur,Uttar Pradesh,95.26,86.8,2021-11-16
+Moradabad,Uttar Pradesh,95.66,87.17,2021-11-16
+Muzaffarnagar,Uttar Pradesh,95.26,86.78,2021-11-16
+Pilibhit,Uttar Pradesh,96.11,87.61,2021-11-16
+Pratapgarh,Uttar Pradesh,96.17,87.69,2021-11-16
+Rae Bareli,Uttar Pradesh,95.65,87.16,2021-11-16
+Rampur,Uttar Pradesh,95.9,87.4,2021-11-16
+Saharanpur,Uttar Pradesh,95.96,87.46,2021-11-16
+Sambhal,Uttar Pradesh,95.67,87.18,2021-11-16
+Sant Kabir Nagar,Uttar Pradesh,95.76,87.27,2021-11-16
+Sant Ravi Nagar,Uttar Pradesh,95.9,87.42,2021-11-16
+Shahjahanpur,Uttar Pradesh,95.42,86.95,2021-11-16
+Shamli,Uttar Pradesh,95.71,87.22,2021-11-16
+Shravasti,Uttar Pradesh,95.77,87.3,2021-11-16
+Sidharthnagar,Uttar Pradesh,96.07,87.57,2021-11-16
+Sitapur,Uttar Pradesh,96.57,88.06,2021-11-16
+Sonbhadra,Uttar Pradesh,96.88,88.38,2021-11-16
+Sultanpur,Uttar Pradesh,96.98,88.47,2021-11-16
+Unnao,Uttar Pradesh,95.27,86.79,2021-11-16
+Varanasi,Uttar Pradesh,95.74,87.27,2021-11-16
+Agra,Uttar Pradesh,95.05,86.56,2021-11-17
+Aligarh,Uttar Pradesh,95.76,87.23,2021-11-17
+Allahabad,Uttar Pradesh,96.12,87.64,2021-11-17
+Ambedkarnagar,Uttar Pradesh,97.08,88.57,2021-11-17
+Amethi/csm Nagar,Uttar Pradesh,96.56,88.06,2021-11-17
+Amroha,Uttar Pradesh,96.15,87.65,2021-11-17
+Auraiya,Uttar Pradesh,95.68,87.19,2021-11-17
+Azamgarh,Uttar Pradesh,96.08,87.58,2021-11-17
+Baghpat,Uttar Pradesh,95.1,86.62,2021-11-17
+Bahraich,Uttar Pradesh,95.31,86.85,2021-11-17
+Ballia,Uttar Pradesh,96.13,87.63,2021-11-17
+Balrampur,Uttar Pradesh,95.44,86.98,2021-11-17
+Banda,Uttar Pradesh,96.35,87.84,2021-11-17
+Barabanki,Uttar Pradesh,95.35,86.87,2021-11-17
+Bareilly,Uttar Pradesh,95.25,86.77,2021-11-17
+Basti,Uttar Pradesh,95.95,87.46,2021-11-17
+Bijnor,Uttar Pradesh,95.2,86.72,2021-11-17
+Budaun,Uttar Pradesh,95.44,86.96,2021-11-17
+Bulandshahr,Uttar Pradesh,95.93,87.4,2021-11-17
+Chandauli,Uttar Pradesh,95.18,86.72,2021-11-17
+Chitrakut,Uttar Pradesh,95.9,87.43,2021-11-17
+Deoria,Uttar Pradesh,95.03,86.56,2021-11-17
+Etah,Uttar Pradesh,95.0,86.51,2021-11-17
+Etawah,Uttar Pradesh,95.89,87.37,2021-11-17
+Faizabad,Uttar Pradesh,95.91,87.43,2021-11-17
+Farrukkhabad,Uttar Pradesh,95.92,87.41,2021-11-17
+Fatehpur,Uttar Pradesh,95.37,86.88,2021-11-17
+Firozabad,Uttar Pradesh,94.83,86.31,2021-11-17
+Gautam Budh Nagar,Uttar Pradesh,95.51,87.01,2021-11-17
+Ghaziabad,Uttar Pradesh,95.11,86.63,2021-11-17
+Ghazipur,Uttar Pradesh,96.95,88.44,2021-11-17
+Gonda,Uttar Pradesh,95.37,86.91,2021-11-17
+Gorakhpur,Uttar Pradesh,95.36,86.88,2021-11-17
+Hamirpur,Uttar Pradesh,95.84,87.35,2021-11-17
+Hapur,Uttar Pradesh,95.13,86.65,2021-11-17
+Hardoi,Uttar Pradesh,95.58,87.1,2021-11-17
+Hathras,Uttar Pradesh,95.01,86.52,2021-11-17
+Jalaun,Uttar Pradesh,96.02,87.51,2021-11-17
+Jaunpur,Uttar Pradesh,96.33,87.84,2021-11-17
+Jhansi,Uttar Pradesh,95.44,86.94,2021-11-17
+Kannuaj,Uttar Pradesh,95.87,87.37,2021-11-17
+Kanpur Rural,Uttar Pradesh,94.99,86.52,2021-11-17
+Kanpur Urban,Uttar Pradesh,95.29,86.81,2021-11-17
+Kashi Ram Nagar,Uttar Pradesh,95.62,87.12,2021-11-17
+Kaushambi,Uttar Pradesh,95.33,86.87,2021-11-17
+Kushinagar,Uttar Pradesh,95.38,86.9,2021-11-17
+Lakhimpur,Uttar Pradesh,95.74,87.25,2021-11-17
+Lalitpur,Uttar Pradesh,95.87,87.37,2021-11-17
+Lucknow,Uttar Pradesh,95.28,86.8,2021-11-17
+Maharajganj,Uttar Pradesh,95.46,86.98,2021-11-17
+Mahoba,Uttar Pradesh,95.99,87.48,2021-11-17
+Mainpuri,Uttar Pradesh,95.82,87.31,2021-11-17
+Mathura,Uttar Pradesh,94.89,86.38,2021-11-17
+Maunathbhanjan,Uttar Pradesh,95.52,87.03,2021-11-17
+Meerut,Uttar Pradesh,95.01,86.53,2021-11-17
+Mirzapur,Uttar Pradesh,95.71,87.23,2021-11-17
+Moradabad,Uttar Pradesh,95.49,87.0,2021-11-17
+Muzaffarnagar,Uttar Pradesh,95.51,87.02,2021-11-17
+Pilibhit,Uttar Pradesh,95.99,87.49,2021-11-17
+Pratapgarh,Uttar Pradesh,96.21,87.73,2021-11-17
+Rae Bareli,Uttar Pradesh,95.72,87.23,2021-11-17
+Rampur,Uttar Pradesh,95.52,87.03,2021-11-17
+Saharanpur,Uttar Pradesh,95.96,87.46,2021-11-17
+Sambhal,Uttar Pradesh,95.67,87.18,2021-11-17
+Sant Kabir Nagar,Uttar Pradesh,95.79,87.3,2021-11-17
+Sant Ravi Nagar,Uttar Pradesh,95.93,87.45,2021-11-17
+Shahjahanpur,Uttar Pradesh,95.35,86.88,2021-11-17
+Shamli,Uttar Pradesh,95.56,87.06,2021-11-17
+Shravasti,Uttar Pradesh,95.53,87.07,2021-11-17
+Sidharthnagar,Uttar Pradesh,96.14,87.64,2021-11-17
+Sitapur,Uttar Pradesh,95.87,87.38,2021-11-17
+Sonbhadra,Uttar Pradesh,96.8,88.29,2021-11-17
+Sultanpur,Uttar Pradesh,96.88,88.38,2021-11-17
+Unnao,Uttar Pradesh,95.54,87.06,2021-11-17
+Varanasi,Uttar Pradesh,95.58,87.1,2021-11-17
+Agra,Uttar Pradesh,95.05,86.56,2021-11-19
+Aligarh,Uttar Pradesh,95.72,87.2,2021-11-19
+Allahabad,Uttar Pradesh,95.21,86.76,2021-11-19
+Ambedkarnagar,Uttar Pradesh,96.42,87.93,2021-11-19
+Amethi/csm Nagar,Uttar Pradesh,95.99,87.5,2021-11-19
+Amroha,Uttar Pradesh,95.8,87.31,2021-11-19
+Auraiya,Uttar Pradesh,95.68,87.19,2021-11-19
+Azamgarh,Uttar Pradesh,96.08,87.58,2021-11-19
+Baghpat,Uttar Pradesh,95.12,86.64,2021-11-19
+Bahraich,Uttar Pradesh,95.4,86.94,2021-11-19
+Ballia,Uttar Pradesh,95.69,87.2,2021-11-19
+Balrampur,Uttar Pradesh,95.44,86.98,2021-11-19
+Banda,Uttar Pradesh,96.02,87.53,2021-11-19
+Barabanki,Uttar Pradesh,95.31,86.83,2021-11-19
+Bareilly,Uttar Pradesh,95.3,86.82,2021-11-19
+Basti,Uttar Pradesh,96.03,87.53,2021-11-19
+Bijnor,Uttar Pradesh,94.93,86.45,2021-11-19
+Budaun,Uttar Pradesh,95.33,86.85,2021-11-19
+Bulandshahr,Uttar Pradesh,96.18,87.65,2021-11-19
+Chandauli,Uttar Pradesh,95.16,86.7,2021-11-19
+Chitrakut,Uttar Pradesh,96.17,87.69,2021-11-19
+Deoria,Uttar Pradesh,95.03,86.56,2021-11-19
+Etah,Uttar Pradesh,95.39,86.89,2021-11-19
+Etawah,Uttar Pradesh,95.87,87.36,2021-11-19
+Faizabad,Uttar Pradesh,95.72,87.26,2021-11-19
+Farrukkhabad,Uttar Pradesh,95.87,87.38,2021-11-19
+Fatehpur,Uttar Pradesh,95.8,87.3,2021-11-19
+Firozabad,Uttar Pradesh,95.16,86.66,2021-11-19
+Gautam Budh Nagar,Uttar Pradesh,95.36,86.87,2021-11-19
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-11-19
+Ghazipur,Uttar Pradesh,97.11,88.6,2021-11-19
+Gonda,Uttar Pradesh,95.26,86.81,2021-11-19
+Hamirpur,Uttar Pradesh,95.64,87.15,2021-11-19
+Hapur,Uttar Pradesh,95.18,86.7,2021-11-19
+Hardoi,Uttar Pradesh,96.22,87.72,2021-11-19
+Hathras,Uttar Pradesh,95.14,86.63,2021-11-19
+Jalaun,Uttar Pradesh,96.1,87.58,2021-11-19
+Jaunpur,Uttar Pradesh,95.97,87.49,2021-11-19
+Jhansi,Uttar Pradesh,94.92,86.43,2021-11-19
+Kannuaj,Uttar Pradesh,95.95,87.45,2021-11-19
+Kanpur Rural,Uttar Pradesh,95.11,86.64,2021-11-19
+Kanpur Urban,Uttar Pradesh,95.1,86.62,2021-11-19
+Kashi Ram Nagar,Uttar Pradesh,95.44,86.94,2021-11-19
+Kaushambi,Uttar Pradesh,95.35,86.89,2021-11-19
+Kushinagar,Uttar Pradesh,95.6,87.11,2021-11-19
+Lakhimpur,Uttar Pradesh,96.1,87.61,2021-11-19
+Lalitpur,Uttar Pradesh,96.19,87.67,2021-11-19
+Lucknow,Uttar Pradesh,95.28,86.8,2021-11-19
+Maharajganj,Uttar Pradesh,95.63,87.14,2021-11-19
+Mahoba,Uttar Pradesh,96.45,87.93,2021-11-19
+Mainpuri,Uttar Pradesh,95.41,86.91,2021-11-19
+Mathura,Uttar Pradesh,94.86,86.34,2021-11-19
+Maunathbhanjan,Uttar Pradesh,95.96,87.47,2021-11-19
+Meerut,Uttar Pradesh,95.17,86.68,2021-11-19
+Mirzapur,Uttar Pradesh,95.35,86.89,2021-11-19
+Moradabad,Uttar Pradesh,95.93,87.43,2021-11-19
+Muzaffarnagar,Uttar Pradesh,95.46,86.97,2021-11-19
+Pilibhit,Uttar Pradesh,95.87,87.38,2021-11-19
+Pratapgarh,Uttar Pradesh,96.07,87.59,2021-11-19
+Rae Bareli,Uttar Pradesh,95.93,87.45,2021-11-19
+Rampur,Uttar Pradesh,95.57,87.08,2021-11-19
+Saharanpur,Uttar Pradesh,96.12,87.61,2021-11-19
+Sambhal,Uttar Pradesh,95.34,86.86,2021-11-19
+Sant Kabir Nagar,Uttar Pradesh,95.89,87.4,2021-11-19
+Sant Ravi Nagar,Uttar Pradesh,95.9,87.42,2021-11-19
+Shahjahanpur,Uttar Pradesh,95.1,86.63,2021-11-19
+Shamli,Uttar Pradesh,95.52,87.03,2021-11-19
+Shravasti,Uttar Pradesh,96.08,87.61,2021-11-19
+Sidharthnagar,Uttar Pradesh,96.04,87.54,2021-11-19
+Sitapur,Uttar Pradesh,96.22,87.72,2021-11-19
+Sonbhadra,Uttar Pradesh,96.77,88.26,2021-11-19
+Sultanpur,Uttar Pradesh,96.68,88.18,2021-11-19
+Unnao,Uttar Pradesh,95.27,86.79,2021-11-19
+Varanasi,Uttar Pradesh,95.79,87.31,2021-11-19
+Agra,Uttar Pradesh,95.22,86.72,2021-11-23
+Aligarh,Uttar Pradesh,95.78,87.25,2021-11-23
+Allahabad,Uttar Pradesh,95.57,87.11,2021-11-23
+Ambedkarnagar,Uttar Pradesh,97.08,88.57,2021-11-23
+Amethi/csm Nagar,Uttar Pradesh,96.29,87.79,2021-11-23
+Amroha,Uttar Pradesh,95.66,87.17,2021-11-23
+Auraiya,Uttar Pradesh,95.92,87.43,2021-11-23
+Azamgarh,Uttar Pradesh,96.12,87.62,2021-11-23
+Baghpat,Uttar Pradesh,95.23,86.75,2021-11-23
+Bahraich,Uttar Pradesh,95.43,86.97,2021-11-23
+Ballia,Uttar Pradesh,95.97,87.47,2021-11-23
+Balrampur,Uttar Pradesh,95.71,87.25,2021-11-23
+Banda,Uttar Pradesh,96.5,87.99,2021-11-23
+Barabanki,Uttar Pradesh,95.56,87.09,2021-11-23
+Bareilly,Uttar Pradesh,95.39,86.91,2021-11-23
+Basti,Uttar Pradesh,95.95,87.46,2021-11-23
+Bijnor,Uttar Pradesh,95.05,86.57,2021-11-23
+Budaun,Uttar Pradesh,95.66,87.17,2021-11-23
+Bulandshahr,Uttar Pradesh,96.18,87.65,2021-11-23
+Chandauli,Uttar Pradesh,95.12,86.66,2021-11-23
+Chitrakut,Uttar Pradesh,96.17,87.69,2021-11-23
+Deoria,Uttar Pradesh,95.03,86.56,2021-11-23
+Etah,Uttar Pradesh,94.91,86.41,2021-11-23
+Etawah,Uttar Pradesh,95.93,87.41,2021-11-23
+Faizabad,Uttar Pradesh,95.91,87.43,2021-11-23
+Farrukkhabad,Uttar Pradesh,95.83,87.35,2021-11-23
+Fatehpur,Uttar Pradesh,95.8,87.3,2021-11-23
+Firozabad,Uttar Pradesh,95.13,86.63,2021-11-23
+Gautam Budh Nagar,Uttar Pradesh,95.66,87.17,2021-11-23
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-11-23
+Ghazipur,Uttar Pradesh,95.58,87.11,2021-11-23
+Gonda,Uttar Pradesh,95.18,86.73,2021-11-23
+Gorakhpur,Uttar Pradesh,95.47,86.99,2021-11-23
+Hamirpur,Uttar Pradesh,96.29,87.78,2021-11-23
+Hapur,Uttar Pradesh,95.32,86.84,2021-11-23
+Hardoi,Uttar Pradesh,95.57,87.09,2021-11-23
+Hathras,Uttar Pradesh,95.03,86.52,2021-11-23
+Jalaun,Uttar Pradesh,96.13,87.62,2021-11-23
+Jaunpur,Uttar Pradesh,95.99,87.51,2021-11-23
+Jhansi,Uttar Pradesh,95.68,87.18,2021-11-23
+Kannuaj,Uttar Pradesh,95.86,87.37,2021-11-23
+Kanpur Rural,Uttar Pradesh,95.11,86.64,2021-11-23
+Kanpur Urban,Uttar Pradesh,94.97,86.49,2021-11-23
+Kashi Ram Nagar,Uttar Pradesh,95.51,87.01,2021-11-23
+Kaushambi,Uttar Pradesh,95.66,87.19,2021-11-23
+Kushinagar,Uttar Pradesh,95.35,86.87,2021-11-23
+Lakhimpur,Uttar Pradesh,95.43,86.96,2021-11-23
+Lalitpur,Uttar Pradesh,95.87,87.37,2021-11-23
+Lucknow,Uttar Pradesh,95.39,86.92,2021-11-23
+Maharajganj,Uttar Pradesh,95.66,87.17,2021-11-23
+Mahoba,Uttar Pradesh,95.91,87.4,2021-11-23
+Mainpuri,Uttar Pradesh,95.76,87.25,2021-11-23
+Mathura,Uttar Pradesh,95.29,86.78,2021-11-23
+Maunathbhanjan,Uttar Pradesh,95.76,87.27,2021-11-23
+Meerut,Uttar Pradesh,95.27,86.79,2021-11-23
+Mirzapur,Uttar Pradesh,95.99,87.5,2021-11-23
+Moradabad,Uttar Pradesh,95.91,87.41,2021-11-23
+Muzaffarnagar,Uttar Pradesh,95.28,86.79,2021-11-23
+Pilibhit,Uttar Pradesh,95.67,87.18,2021-11-23
+Pratapgarh,Uttar Pradesh,96.06,87.58,2021-11-23
+Rae Bareli,Uttar Pradesh,95.39,86.92,2021-11-23
+Rampur,Uttar Pradesh,95.39,86.91,2021-11-23
+Saharanpur,Uttar Pradesh,95.96,87.45,2021-11-23
+Sambhal,Uttar Pradesh,95.67,87.18,2021-11-23
+Sant Kabir Nagar,Uttar Pradesh,95.76,87.27,2021-11-23
+Sant Ravi Nagar,Uttar Pradesh,95.57,87.1,2021-11-23
+Shahjahanpur,Uttar Pradesh,95.12,86.65,2021-11-23
+Shamli,Uttar Pradesh,95.47,86.98,2021-11-23
+Shravasti,Uttar Pradesh,95.77,87.3,2021-11-23
+Sidharthnagar,Uttar Pradesh,95.87,87.38,2021-11-23
+Sitapur,Uttar Pradesh,95.49,87.02,2021-11-23
+Sonbhadra,Uttar Pradesh,96.08,87.59,2021-11-23
+Sultanpur,Uttar Pradesh,96.98,88.47,2021-11-23
+Unnao,Uttar Pradesh,95.39,86.91,2021-11-23
+Varanasi,Uttar Pradesh,96.12,87.64,2021-11-23
+Agra,Uttar Pradesh,95.22,86.72,2021-11-24
+Aligarh,Uttar Pradesh,95.78,87.25,2021-11-24
+Allahabad,Uttar Pradesh,95.57,87.11,2021-11-24
+Ambedkarnagar,Uttar Pradesh,97.08,88.57,2021-11-24
+Amethi/csm Nagar,Uttar Pradesh,96.29,87.79,2021-11-24
+Amroha,Uttar Pradesh,95.66,87.17,2021-11-24
+Auraiya,Uttar Pradesh,95.92,87.43,2021-11-24
+Azamgarh,Uttar Pradesh,96.12,87.62,2021-11-24
+Baghpat,Uttar Pradesh,95.23,86.75,2021-11-24
+Bahraich,Uttar Pradesh,95.43,86.97,2021-11-24
+Ballia,Uttar Pradesh,95.97,87.47,2021-11-24
+Balrampur,Uttar Pradesh,95.71,87.25,2021-11-24
+Banda,Uttar Pradesh,96.5,87.99,2021-11-24
+Barabanki,Uttar Pradesh,95.56,87.09,2021-11-24
+Bareilly,Uttar Pradesh,95.39,86.91,2021-11-24
+Basti,Uttar Pradesh,95.95,87.46,2021-11-24
+Bijnor,Uttar Pradesh,95.05,86.57,2021-11-24
+Budaun,Uttar Pradesh,95.66,87.17,2021-11-24
+Bulandshahr,Uttar Pradesh,96.18,87.65,2021-11-24
+Chandauli,Uttar Pradesh,95.12,86.66,2021-11-24
+Chitrakut,Uttar Pradesh,96.17,87.69,2021-11-24
+Deoria,Uttar Pradesh,95.03,86.56,2021-11-24
+Etah,Uttar Pradesh,94.91,86.41,2021-11-24
+Etawah,Uttar Pradesh,95.93,87.41,2021-11-24
+Faizabad,Uttar Pradesh,95.91,87.43,2021-11-24
+Farrukkhabad,Uttar Pradesh,95.83,87.35,2021-11-24
+Fatehpur,Uttar Pradesh,95.8,87.3,2021-11-24
+Firozabad,Uttar Pradesh,95.13,86.63,2021-11-24
+Gautam Budh Nagar,Uttar Pradesh,95.66,87.17,2021-11-24
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-11-24
+Ghazipur,Uttar Pradesh,95.58,87.11,2021-11-24
+Gonda,Uttar Pradesh,95.18,86.73,2021-11-24
+Gorakhpur,Uttar Pradesh,95.47,86.99,2021-11-24
+Hamirpur,Uttar Pradesh,96.29,87.78,2021-11-24
+Hapur,Uttar Pradesh,95.32,86.84,2021-11-24
+Hardoi,Uttar Pradesh,95.57,87.09,2021-11-24
+Hathras,Uttar Pradesh,95.03,86.52,2021-11-24
+Jalaun,Uttar Pradesh,96.13,87.62,2021-11-24
+Jaunpur,Uttar Pradesh,95.99,87.51,2021-11-24
+Jhansi,Uttar Pradesh,95.68,87.18,2021-11-24
+Kannuaj,Uttar Pradesh,95.86,87.37,2021-11-24
+Kanpur Rural,Uttar Pradesh,95.11,86.64,2021-11-24
+Kanpur Urban,Uttar Pradesh,94.97,86.49,2021-11-24
+Kashi Ram Nagar,Uttar Pradesh,95.51,87.01,2021-11-24
+Kaushambi,Uttar Pradesh,95.66,87.19,2021-11-24
+Kushinagar,Uttar Pradesh,95.35,86.87,2021-11-24
+Lakhimpur,Uttar Pradesh,95.43,86.96,2021-11-24
+Lalitpur,Uttar Pradesh,95.87,87.37,2021-11-24
+Lucknow,Uttar Pradesh,95.39,86.92,2021-11-24
+Maharajganj,Uttar Pradesh,95.66,87.17,2021-11-24
+Mahoba,Uttar Pradesh,95.91,87.4,2021-11-24
+Mainpuri,Uttar Pradesh,95.76,87.25,2021-11-24
+Mathura,Uttar Pradesh,95.29,86.78,2021-11-24
+Maunathbhanjan,Uttar Pradesh,95.76,87.27,2021-11-24
+Meerut,Uttar Pradesh,95.27,86.79,2021-11-24
+Mirzapur,Uttar Pradesh,95.99,87.5,2021-11-24
+Moradabad,Uttar Pradesh,95.91,87.41,2021-11-24
+Muzaffarnagar,Uttar Pradesh,95.28,86.79,2021-11-24
+Pilibhit,Uttar Pradesh,95.67,87.18,2021-11-24
+Pratapgarh,Uttar Pradesh,96.06,87.58,2021-11-24
+Rae Bareli,Uttar Pradesh,95.39,86.92,2021-11-24
+Rampur,Uttar Pradesh,95.39,86.91,2021-11-24
+Saharanpur,Uttar Pradesh,95.96,87.45,2021-11-24
+Sambhal,Uttar Pradesh,95.67,87.18,2021-11-24
+Sant Kabir Nagar,Uttar Pradesh,95.76,87.27,2021-11-24
+Sant Ravi Nagar,Uttar Pradesh,95.57,87.1,2021-11-24
+Shahjahanpur,Uttar Pradesh,95.12,86.65,2021-11-24
+Shamli,Uttar Pradesh,95.47,86.98,2021-11-24
+Shravasti,Uttar Pradesh,95.77,87.3,2021-11-24
+Sidharthnagar,Uttar Pradesh,95.87,87.38,2021-11-24
+Sitapur,Uttar Pradesh,95.49,87.02,2021-11-24
+Sonbhadra,Uttar Pradesh,96.08,87.59,2021-11-24
+Sultanpur,Uttar Pradesh,96.98,88.47,2021-11-24
+Unnao,Uttar Pradesh,95.39,86.91,2021-11-24
+Varanasi,Uttar Pradesh,96.12,87.64,2021-11-24
+Agra,Uttar Pradesh,95.49,86.98,2021-11-29
+Aligarh,Uttar Pradesh,95.72,87.2,2021-11-29
+Allahabad,Uttar Pradesh,96.34,87.85,2021-11-29
+Ambedkarnagar,Uttar Pradesh,96.76,88.26,2021-11-29
+Amethi/csm Nagar,Uttar Pradesh,95.87,87.38,2021-11-29
+Amroha,Uttar Pradesh,96.18,87.67,2021-11-29
+Auraiya,Uttar Pradesh,95.68,87.19,2021-11-29
+Azamgarh,Uttar Pradesh,96.25,87.75,2021-11-29
+Baghpat,Uttar Pradesh,95.12,86.64,2021-11-29
+Bahraich,Uttar Pradesh,95.48,87.01,2021-11-29
+Ballia,Uttar Pradesh,95.69,87.2,2021-11-29
+Balrampur,Uttar Pradesh,95.44,86.98,2021-11-29
+Banda,Uttar Pradesh,96.02,87.53,2021-11-29
+Barabanki,Uttar Pradesh,95.77,87.29,2021-11-29
+Bareilly,Uttar Pradesh,95.12,86.65,2021-11-29
+Basti,Uttar Pradesh,95.95,87.46,2021-11-29
+Bijnor,Uttar Pradesh,95.41,86.92,2021-11-29
+Budaun,Uttar Pradesh,95.37,86.89,2021-11-29
+Bulandshahr,Uttar Pradesh,96.18,87.65,2021-11-29
+Chandauli,Uttar Pradesh,95.16,86.7,2021-11-29
+Chitrakut,Uttar Pradesh,96.17,87.69,2021-11-29
+Deoria,Uttar Pradesh,95.43,86.95,2021-11-29
+Etah,Uttar Pradesh,95.39,86.89,2021-11-29
+Etawah,Uttar Pradesh,95.87,87.36,2021-11-29
+Faizabad,Uttar Pradesh,95.72,87.26,2021-11-29
+Farrukkhabad,Uttar Pradesh,95.85,87.36,2021-11-29
+Fatehpur,Uttar Pradesh,95.58,87.1,2021-11-29
+Firozabad,Uttar Pradesh,95.16,86.66,2021-11-29
+Gautam Budh Nagar,Uttar Pradesh,95.36,86.87,2021-11-29
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-11-29
+Ghazipur,Uttar Pradesh,97.11,88.6,2021-11-29
+Gonda,Uttar Pradesh,95.15,86.7,2021-11-29
+Gorakhpur,Uttar Pradesh,95.14,86.66,2021-11-29
+Hamirpur,Uttar Pradesh,95.64,87.15,2021-11-29
+Hapur,Uttar Pradesh,95.17,86.68,2021-11-29
+Hardoi,Uttar Pradesh,96.13,87.63,2021-11-29
+Hathras,Uttar Pradesh,95.14,86.63,2021-11-29
+Jalaun,Uttar Pradesh,95.77,87.26,2021-11-29
+Jaunpur,Uttar Pradesh,96.01,87.52,2021-11-29
+Jhansi,Uttar Pradesh,94.91,86.41,2021-11-29
+Kannuaj,Uttar Pradesh,95.95,87.45,2021-11-29
+Kanpur Rural,Uttar Pradesh,95.55,87.07,2021-11-29
+Kanpur Urban,Uttar Pradesh,95.41,86.92,2021-11-29
+Kashi Ram Nagar,Uttar Pradesh,95.46,86.95,2021-11-29
+Kaushambi,Uttar Pradesh,95.23,86.78,2021-11-29
+Kushinagar,Uttar Pradesh,95.27,86.79,2021-11-29
+Lakhimpur,Uttar Pradesh,95.86,87.37,2021-11-29
+Lalitpur,Uttar Pradesh,96.19,87.67,2021-11-29
+Lucknow,Uttar Pradesh,95.28,86.8,2021-11-29
+Maharajganj,Uttar Pradesh,95.96,87.46,2021-11-29
+Mahoba,Uttar Pradesh,96.45,87.93,2021-11-29
+Mainpuri,Uttar Pradesh,95.41,86.91,2021-11-29
+Mathura,Uttar Pradesh,94.79,86.26,2021-11-29
+Maunathbhanjan,Uttar Pradesh,95.97,87.48,2021-11-29
+Meerut,Uttar Pradesh,95.14,86.65,2021-11-29
+Mirzapur,Uttar Pradesh,95.35,86.89,2021-11-29
+Moradabad,Uttar Pradesh,95.89,87.4,2021-11-29
+Muzaffarnagar,Uttar Pradesh,95.46,86.97,2021-11-29
+Pilibhit,Uttar Pradesh,95.87,87.38,2021-11-29
+Pratapgarh,Uttar Pradesh,95.91,87.44,2021-11-29
+Rae Bareli,Uttar Pradesh,95.39,86.92,2021-11-29
+Rampur,Uttar Pradesh,95.48,87.0,2021-11-29
+Saharanpur,Uttar Pradesh,95.72,87.23,2021-11-29
+Sambhal,Uttar Pradesh,95.67,87.18,2021-11-29
+Sant Kabir Nagar,Uttar Pradesh,95.74,87.25,2021-11-29
+Sant Ravi Nagar,Uttar Pradesh,95.9,87.42,2021-11-29
+Shahjahanpur,Uttar Pradesh,95.09,86.62,2021-11-29
+Shamli,Uttar Pradesh,95.52,87.03,2021-11-29
+Shravasti,Uttar Pradesh,96.08,87.61,2021-11-29
+Sidharthnagar,Uttar Pradesh,96.04,87.54,2021-11-29
+Sitapur,Uttar Pradesh,96.25,87.76,2021-11-29
+Sonbhadra,Uttar Pradesh,96.44,87.95,2021-11-29
+Sultanpur,Uttar Pradesh,96.59,88.09,2021-11-29
+Unnao,Uttar Pradesh,95.31,86.83,2021-11-29
+Varanasi,Uttar Pradesh,95.66,87.19,2021-11-29
+Agra,Uttar Pradesh,95.43,86.93,2021-12-01
+Aligarh,Uttar Pradesh,95.42,86.91,2021-12-01
+Allahabad,Uttar Pradesh,96.12,87.64,2021-12-01
+Ambedkarnagar,Uttar Pradesh,96.54,88.05,2021-12-01
+Amethi/csm Nagar,Uttar Pradesh,95.77,87.29,2021-12-01
+Amroha,Uttar Pradesh,96.07,87.57,2021-12-01
+Auraiya,Uttar Pradesh,95.68,87.19,2021-12-01
+Azamgarh,Uttar Pradesh,96.34,87.84,2021-12-01
+Baghpat,Uttar Pradesh,95.19,86.71,2021-12-01
+Bahraich,Uttar Pradesh,95.51,87.04,2021-12-01
+Ballia,Uttar Pradesh,95.93,87.44,2021-12-01
+Balrampur,Uttar Pradesh,95.44,86.98,2021-12-01
+Banda,Uttar Pradesh,95.87,87.38,2021-12-01
+Barabanki,Uttar Pradesh,95.53,87.05,2021-12-01
+Bareilly,Uttar Pradesh,95.52,87.03,2021-12-01
+Basti,Uttar Pradesh,95.95,87.46,2021-12-01
+Bijnor,Uttar Pradesh,95.41,86.92,2021-12-01
+Budaun,Uttar Pradesh,95.37,86.89,2021-12-01
+Bulandshahr,Uttar Pradesh,96.39,87.86,2021-12-01
+Chandauli,Uttar Pradesh,95.26,86.79,2021-12-01
+Chitrakut,Uttar Pradesh,96.52,88.03,2021-12-01
+Deoria,Uttar Pradesh,95.03,86.56,2021-12-01
+Etah,Uttar Pradesh,95.47,86.96,2021-12-01
+Etawah,Uttar Pradesh,95.64,87.14,2021-12-01
+Faizabad,Uttar Pradesh,95.89,87.41,2021-12-01
+Farrukkhabad,Uttar Pradesh,95.6,87.12,2021-12-01
+Fatehpur,Uttar Pradesh,95.29,86.81,2021-12-01
+Firozabad,Uttar Pradesh,95.12,86.62,2021-12-01
+Gautam Budh Nagar,Uttar Pradesh,95.48,86.99,2021-12-01
+Ghaziabad,Uttar Pradesh,95.06,86.58,2021-12-01
+Ghazipur,Uttar Pradesh,95.73,87.25,2021-12-01
+Gonda,Uttar Pradesh,95.39,86.93,2021-12-01
+Gorakhpur,Uttar Pradesh,95.57,87.08,2021-12-01
+Hamirpur,Uttar Pradesh,95.94,87.45,2021-12-01
+Hapur,Uttar Pradesh,95.17,86.68,2021-12-01
+Hardoi,Uttar Pradesh,95.58,87.1,2021-12-01
+Hathras,Uttar Pradesh,95.53,87.01,2021-12-01
+Jalaun,Uttar Pradesh,95.98,87.47,2021-12-01
+Jaunpur,Uttar Pradesh,96.19,87.71,2021-12-01
+Jhansi,Uttar Pradesh,94.96,86.47,2021-12-01
+Kannuaj,Uttar Pradesh,95.82,87.33,2021-12-01
+Kanpur Rural,Uttar Pradesh,95.31,86.83,2021-12-01
+Kanpur Urban,Uttar Pradesh,94.97,86.49,2021-12-01
+Kashi Ram Nagar,Uttar Pradesh,95.69,87.19,2021-12-01
+Kaushambi,Uttar Pradesh,95.36,86.9,2021-12-01
+Kushinagar,Uttar Pradesh,95.51,87.03,2021-12-01
+Lakhimpur,Uttar Pradesh,96.01,87.52,2021-12-01
+Lalitpur,Uttar Pradesh,95.98,87.47,2021-12-01
+Lucknow,Uttar Pradesh,95.13,86.67,2021-12-01
+Maharajganj,Uttar Pradesh,95.85,87.36,2021-12-01
+Mahoba,Uttar Pradesh,96.62,88.1,2021-12-01
+Mainpuri,Uttar Pradesh,95.76,87.25,2021-12-01
+Mathura,Uttar Pradesh,94.82,86.29,2021-12-01
+Maunathbhanjan,Uttar Pradesh,95.77,87.28,2021-12-01
+Meerut,Uttar Pradesh,95.05,86.57,2021-12-01
+Mirzapur,Uttar Pradesh,96.0,87.52,2021-12-01
+Moradabad,Uttar Pradesh,95.56,87.07,2021-12-01
+Muzaffarnagar,Uttar Pradesh,95.47,86.98,2021-12-01
+Pilibhit,Uttar Pradesh,95.87,87.37,2021-12-01
+Pratapgarh,Uttar Pradesh,96.16,87.68,2021-12-01
+Rae Bareli,Uttar Pradesh,95.53,87.06,2021-12-01
+Rampur,Uttar Pradesh,96.06,87.56,2021-12-01
+Saharanpur,Uttar Pradesh,95.89,87.39,2021-12-01
+Sambhal,Uttar Pradesh,95.46,86.98,2021-12-01
+Sant Kabir Nagar,Uttar Pradesh,95.94,87.45,2021-12-01
+Sant Ravi Nagar,Uttar Pradesh,95.74,87.27,2021-12-01
+Shahjahanpur,Uttar Pradesh,95.55,87.07,2021-12-01
+Shamli,Uttar Pradesh,95.71,87.22,2021-12-01
+Shravasti,Uttar Pradesh,95.94,87.46,2021-12-01
+Sidharthnagar,Uttar Pradesh,96.53,88.02,2021-12-01
+Sitapur,Uttar Pradesh,96.25,87.76,2021-12-01
+Sonbhadra,Uttar Pradesh,96.22,87.73,2021-12-01
+Sultanpur,Uttar Pradesh,96.95,88.44,2021-12-01
+Unnao,Uttar Pradesh,95.6,87.11,2021-12-01
+Varanasi,Uttar Pradesh,95.65,87.17,2021-12-01
+Agra,Uttar Pradesh,95.08,86.59,2021-12-02
+Aligarh,Uttar Pradesh,95.72,87.2,2021-12-02
+Allahabad,Uttar Pradesh,95.84,87.37,2021-12-02
+Ambedkarnagar,Uttar Pradesh,96.88,88.38,2021-12-02
+Amethi/csm Nagar,Uttar Pradesh,96.29,87.79,2021-12-02
+Amroha,Uttar Pradesh,95.76,87.26,2021-12-02
+Auraiya,Uttar Pradesh,95.75,87.25,2021-12-02
+Azamgarh,Uttar Pradesh,96.4,87.89,2021-12-02
+Baghpat,Uttar Pradesh,95.17,86.69,2021-12-02
+Bahraich,Uttar Pradesh,95.55,87.08,2021-12-02
+Ballia,Uttar Pradesh,95.84,87.35,2021-12-02
+Balrampur,Uttar Pradesh,95.44,86.98,2021-12-02
+Banda,Uttar Pradesh,96.23,87.72,2021-12-02
+Barabanki,Uttar Pradesh,95.36,86.89,2021-12-02
+Bareilly,Uttar Pradesh,95.38,86.9,2021-12-02
+Basti,Uttar Pradesh,96.11,87.61,2021-12-02
+Bijnor,Uttar Pradesh,95.45,86.97,2021-12-02
+Budaun,Uttar Pradesh,94.98,86.51,2021-12-02
+Bulandshahr,Uttar Pradesh,95.74,87.21,2021-12-02
+Chandauli,Uttar Pradesh,95.23,86.76,2021-12-02
+Chitrakut,Uttar Pradesh,95.9,87.43,2021-12-02
+Deoria,Uttar Pradesh,95.03,86.56,2021-12-02
+Etah,Uttar Pradesh,95.39,86.89,2021-12-02
+Etawah,Uttar Pradesh,95.66,87.16,2021-12-02
+Faizabad,Uttar Pradesh,95.91,87.43,2021-12-02
+Farrukkhabad,Uttar Pradesh,95.83,87.35,2021-12-02
+Fatehpur,Uttar Pradesh,96.17,87.66,2021-12-02
+Firozabad,Uttar Pradesh,95.29,86.79,2021-12-02
+Gautam Budh Nagar,Uttar Pradesh,95.51,87.01,2021-12-02
+Ghaziabad,Uttar Pradesh,95.17,86.69,2021-12-02
+Ghazipur,Uttar Pradesh,95.7,87.22,2021-12-02
+Gonda,Uttar Pradesh,95.59,87.12,2021-12-02
+Gorakhpur,Uttar Pradesh,95.36,86.88,2021-12-02
+Hamirpur,Uttar Pradesh,95.84,87.35,2021-12-02
+Hapur,Uttar Pradesh,95.18,86.7,2021-12-02
+Hardoi,Uttar Pradesh,95.24,86.77,2021-12-02
+Hathras,Uttar Pradesh,95.07,86.56,2021-12-02
+Jalaun,Uttar Pradesh,95.99,87.48,2021-12-02
+Jaunpur,Uttar Pradesh,96.53,88.04,2021-12-02
+Jhansi,Uttar Pradesh,95.55,87.05,2021-12-02
+Kannuaj,Uttar Pradesh,95.63,87.14,2021-12-02
+Kanpur Rural,Uttar Pradesh,95.39,86.9,2021-12-02
+Kanpur Urban,Uttar Pradesh,95.22,86.74,2021-12-02
+Kashi Ram Nagar,Uttar Pradesh,95.64,87.13,2021-12-02
+Kaushambi,Uttar Pradesh,95.6,87.14,2021-12-02
+Kushinagar,Uttar Pradesh,95.36,86.88,2021-12-02
+Lakhimpur,Uttar Pradesh,96.45,87.95,2021-12-02
+Lalitpur,Uttar Pradesh,95.94,87.43,2021-12-02
+Lucknow,Uttar Pradesh,95.33,86.85,2021-12-02
+Maharajganj,Uttar Pradesh,96.06,87.56,2021-12-02
+Mahoba,Uttar Pradesh,96.05,87.54,2021-12-02
+Mainpuri,Uttar Pradesh,95.41,86.91,2021-12-02
+Mathura,Uttar Pradesh,94.77,86.23,2021-12-02
+Maunathbhanjan,Uttar Pradesh,95.9,87.41,2021-12-02
+Meerut,Uttar Pradesh,95.01,86.53,2021-12-02
+Mirzapur,Uttar Pradesh,95.72,87.25,2021-12-02
+Moradabad,Uttar Pradesh,95.72,87.23,2021-12-02
+Muzaffarnagar,Uttar Pradesh,95.16,86.67,2021-12-02
+Pilibhit,Uttar Pradesh,95.69,87.2,2021-12-02
+Pratapgarh,Uttar Pradesh,95.96,87.48,2021-12-02
+Rae Bareli,Uttar Pradesh,95.59,87.11,2021-12-02
+Rampur,Uttar Pradesh,95.4,86.92,2021-12-02
+Saharanpur,Uttar Pradesh,95.93,87.42,2021-12-02
+Sambhal,Uttar Pradesh,95.88,87.39,2021-12-02
+Sant Kabir Nagar,Uttar Pradesh,95.71,87.22,2021-12-02
+Sant Ravi Nagar,Uttar Pradesh,96.03,87.54,2021-12-02
+Shahjahanpur,Uttar Pradesh,95.65,87.17,2021-12-02
+Shamli,Uttar Pradesh,95.56,87.06,2021-12-02
+Shravasti,Uttar Pradesh,96.09,87.62,2021-12-02
+Sidharthnagar,Uttar Pradesh,96.16,87.66,2021-12-02
+Sitapur,Uttar Pradesh,96.38,87.88,2021-12-02
+Sonbhadra,Uttar Pradesh,95.97,87.48,2021-12-02
+Sultanpur,Uttar Pradesh,96.77,88.26,2021-12-02
+Unnao,Uttar Pradesh,95.62,87.14,2021-12-02
+Varanasi,Uttar Pradesh,96.2,87.71,2021-12-02
+Agra,Uttar Pradesh,95.08,86.59,2021-12-03
+Aligarh,Uttar Pradesh,95.72,87.2,2021-12-03
+Allahabad,Uttar Pradesh,95.84,87.37,2021-12-03
+Ambedkarnagar,Uttar Pradesh,96.88,88.38,2021-12-03
+Amethi/csm Nagar,Uttar Pradesh,96.29,87.79,2021-12-03
+Amroha,Uttar Pradesh,95.76,87.26,2021-12-03
+Auraiya,Uttar Pradesh,95.75,87.25,2021-12-03
+Azamgarh,Uttar Pradesh,96.4,87.89,2021-12-03
+Baghpat,Uttar Pradesh,95.17,86.69,2021-12-03
+Bahraich,Uttar Pradesh,95.55,87.08,2021-12-03
+Ballia,Uttar Pradesh,95.84,87.35,2021-12-03
+Balrampur,Uttar Pradesh,95.44,86.98,2021-12-03
+Banda,Uttar Pradesh,96.23,87.72,2021-12-03
+Barabanki,Uttar Pradesh,95.36,86.89,2021-12-03
+Bareilly,Uttar Pradesh,95.38,86.9,2021-12-03
+Basti,Uttar Pradesh,96.11,87.61,2021-12-03
+Bijnor,Uttar Pradesh,95.45,86.97,2021-12-03
+Budaun,Uttar Pradesh,94.98,86.51,2021-12-03
+Bulandshahr,Uttar Pradesh,95.74,87.21,2021-12-03
+Chandauli,Uttar Pradesh,95.23,86.76,2021-12-03
+Chitrakut,Uttar Pradesh,95.9,87.43,2021-12-03
+Deoria,Uttar Pradesh,95.03,86.56,2021-12-03
+Etah,Uttar Pradesh,95.39,86.89,2021-12-03
+Etawah,Uttar Pradesh,95.66,87.16,2021-12-03
+Faizabad,Uttar Pradesh,95.91,87.43,2021-12-03
+Farrukkhabad,Uttar Pradesh,95.83,87.35,2021-12-03
+Fatehpur,Uttar Pradesh,96.17,87.66,2021-12-03
+Firozabad,Uttar Pradesh,95.29,86.79,2021-12-03
+Gautam Budh Nagar,Uttar Pradesh,95.51,87.01,2021-12-03
+Ghaziabad,Uttar Pradesh,95.17,86.69,2021-12-03
+Ghazipur,Uttar Pradesh,95.7,87.22,2021-12-03
+Gonda,Uttar Pradesh,95.59,87.12,2021-12-03
+Gorakhpur,Uttar Pradesh,95.36,86.88,2021-12-03
+Hamirpur,Uttar Pradesh,95.84,87.35,2021-12-03
+Hapur,Uttar Pradesh,95.18,86.7,2021-12-03
+Hardoi,Uttar Pradesh,95.24,86.77,2021-12-03
+Hathras,Uttar Pradesh,95.07,86.56,2021-12-03
+Jalaun,Uttar Pradesh,95.99,87.48,2021-12-03
+Jaunpur,Uttar Pradesh,96.53,88.04,2021-12-03
+Jhansi,Uttar Pradesh,95.55,87.05,2021-12-03
+Kannuaj,Uttar Pradesh,95.63,87.14,2021-12-03
+Kanpur Rural,Uttar Pradesh,95.39,86.9,2021-12-03
+Kanpur Urban,Uttar Pradesh,95.22,86.74,2021-12-03
+Kashi Ram Nagar,Uttar Pradesh,95.64,87.13,2021-12-03
+Kaushambi,Uttar Pradesh,95.6,87.14,2021-12-03
+Kushinagar,Uttar Pradesh,95.36,86.88,2021-12-03
+Lakhimpur,Uttar Pradesh,96.45,87.95,2021-12-03
+Lalitpur,Uttar Pradesh,95.94,87.43,2021-12-03
+Lucknow,Uttar Pradesh,95.33,86.85,2021-12-03
+Maharajganj,Uttar Pradesh,96.06,87.56,2021-12-03
+Mahoba,Uttar Pradesh,96.05,87.54,2021-12-03
+Mainpuri,Uttar Pradesh,95.41,86.91,2021-12-03
+Mathura,Uttar Pradesh,94.77,86.23,2021-12-03
+Maunathbhanjan,Uttar Pradesh,95.9,87.41,2021-12-03
+Meerut,Uttar Pradesh,95.01,86.53,2021-12-03
+Mirzapur,Uttar Pradesh,95.72,87.25,2021-12-03
+Moradabad,Uttar Pradesh,95.72,87.23,2021-12-03
+Muzaffarnagar,Uttar Pradesh,95.16,86.67,2021-12-03
+Pilibhit,Uttar Pradesh,95.69,87.2,2021-12-03
+Pratapgarh,Uttar Pradesh,95.96,87.48,2021-12-03
+Rae Bareli,Uttar Pradesh,95.59,87.11,2021-12-03
+Rampur,Uttar Pradesh,95.4,86.92,2021-12-03
+Saharanpur,Uttar Pradesh,95.93,87.42,2021-12-03
+Sambhal,Uttar Pradesh,95.88,87.39,2021-12-03
+Sant Kabir Nagar,Uttar Pradesh,95.71,87.22,2021-12-03
+Sant Ravi Nagar,Uttar Pradesh,96.03,87.54,2021-12-03
+Shahjahanpur,Uttar Pradesh,95.65,87.17,2021-12-03
+Shamli,Uttar Pradesh,95.56,87.06,2021-12-03
+Shravasti,Uttar Pradesh,96.09,87.62,2021-12-03
+Sidharthnagar,Uttar Pradesh,96.16,87.66,2021-12-03
+Sitapur,Uttar Pradesh,96.38,87.88,2021-12-03
+Sonbhadra,Uttar Pradesh,95.97,87.48,2021-12-03
+Sultanpur,Uttar Pradesh,96.77,88.26,2021-12-03
+Unnao,Uttar Pradesh,95.62,87.14,2021-12-03
+Varanasi,Uttar Pradesh,96.2,87.71,2021-12-03
+Agra,Uttar Pradesh,95.49,86.98,2021-12-06
+Aligarh,Uttar Pradesh,95.51,86.99,2021-12-06
+Allahabad,Uttar Pradesh,96.16,87.68,2021-12-06
+Ambedkarnagar,Uttar Pradesh,96.95,88.44,2021-12-06
+Amethi/csm Nagar,Uttar Pradesh,96.59,88.08,2021-12-06
+Amroha,Uttar Pradesh,95.43,86.94,2021-12-06
+Auraiya,Uttar Pradesh,95.86,87.37,2021-12-06
+Azamgarh,Uttar Pradesh,96.11,87.61,2021-12-06
+Baghpat,Uttar Pradesh,95.23,86.75,2021-12-06
+Bahraich,Uttar Pradesh,95.78,87.31,2021-12-06
+Ballia,Uttar Pradesh,95.92,87.43,2021-12-06
+Balrampur,Uttar Pradesh,95.42,86.96,2021-12-06
+Banda,Uttar Pradesh,96.05,87.56,2021-12-06
+Barabanki,Uttar Pradesh,95.43,86.96,2021-12-06
+Bareilly,Uttar Pradesh,94.96,86.49,2021-12-06
+Basti,Uttar Pradesh,96.65,88.14,2021-12-06
+Bijnor,Uttar Pradesh,95.01,86.54,2021-12-06
+Budaun,Uttar Pradesh,95.29,86.81,2021-12-06
+Bulandshahr,Uttar Pradesh,96.04,87.51,2021-12-06
+Chandauli,Uttar Pradesh,95.12,86.66,2021-12-06
+Chitrakut,Uttar Pradesh,96.17,87.69,2021-12-06
+Deoria,Uttar Pradesh,95.18,86.71,2021-12-06
+Etah,Uttar Pradesh,95.39,86.89,2021-12-06
+Etawah,Uttar Pradesh,95.93,87.41,2021-12-06
+Faizabad,Uttar Pradesh,95.78,87.3,2021-12-06
+Farrukkhabad,Uttar Pradesh,95.85,87.36,2021-12-06
+Fatehpur,Uttar Pradesh,96.14,87.63,2021-12-06
+Firozabad,Uttar Pradesh,95.04,86.55,2021-12-06
+Gautam Budh Nagar,Uttar Pradesh,95.31,86.82,2021-12-06
+Ghaziabad,Uttar Pradesh,94.97,86.49,2021-12-06
+Ghazipur,Uttar Pradesh,95.98,87.49,2021-12-06
+Gonda,Uttar Pradesh,95.48,87.02,2021-12-06
+Gorakhpur,Uttar Pradesh,95.69,87.2,2021-12-06
+Hamirpur,Uttar Pradesh,95.88,87.38,2021-12-06
+Hapur,Uttar Pradesh,95.28,86.79,2021-12-06
+Hardoi,Uttar Pradesh,96.27,87.78,2021-12-06
+Hathras,Uttar Pradesh,95.19,86.69,2021-12-06
+Jalaun,Uttar Pradesh,95.83,87.32,2021-12-06
+Jaunpur,Uttar Pradesh,95.98,87.49,2021-12-06
+Jhansi,Uttar Pradesh,95.24,86.75,2021-12-06
+Kannuaj,Uttar Pradesh,95.67,87.18,2021-12-06
+Kanpur Rural,Uttar Pradesh,95.38,86.9,2021-12-06
+Kanpur Urban,Uttar Pradesh,94.97,86.49,2021-12-06
+Kashi Ram Nagar,Uttar Pradesh,95.58,87.07,2021-12-06
+Kaushambi,Uttar Pradesh,95.66,87.19,2021-12-06
+Kushinagar,Uttar Pradesh,95.28,86.8,2021-12-06
+Lakhimpur,Uttar Pradesh,95.37,86.9,2021-12-06
+Lalitpur,Uttar Pradesh,95.57,87.07,2021-12-06
+Lucknow,Uttar Pradesh,95.02,86.56,2021-12-06
+Maharajganj,Uttar Pradesh,95.96,87.46,2021-12-06
+Mahoba,Uttar Pradesh,96.44,87.92,2021-12-06
+Mainpuri,Uttar Pradesh,95.41,86.91,2021-12-06
+Mathura,Uttar Pradesh,95.14,86.63,2021-12-06
+Maunathbhanjan,Uttar Pradesh,95.73,87.24,2021-12-06
+Meerut,Uttar Pradesh,94.93,86.45,2021-12-06
+Mirzapur,Uttar Pradesh,95.33,86.86,2021-12-06
+Moradabad,Uttar Pradesh,95.56,87.07,2021-12-06
+Muzaffarnagar,Uttar Pradesh,95.26,86.77,2021-12-06
+Pilibhit,Uttar Pradesh,95.9,87.41,2021-12-06
+Pratapgarh,Uttar Pradesh,96.29,87.81,2021-12-06
+Rae Bareli,Uttar Pradesh,95.82,87.32,2021-12-06
+Rampur,Uttar Pradesh,95.82,87.33,2021-12-06
+Saharanpur,Uttar Pradesh,95.8,87.3,2021-12-06
+Sambhal,Uttar Pradesh,95.67,87.18,2021-12-06
+Sant Kabir Nagar,Uttar Pradesh,95.71,87.22,2021-12-06
+Sant Ravi Nagar,Uttar Pradesh,95.6,87.13,2021-12-06
+Shahjahanpur,Uttar Pradesh,95.41,86.93,2021-12-06
+Shamli,Uttar Pradesh,95.47,86.98,2021-12-06
+Shravasti,Uttar Pradesh,95.77,87.3,2021-12-06
+Sidharthnagar,Uttar Pradesh,96.03,87.53,2021-12-06
+Sitapur,Uttar Pradesh,96.22,87.72,2021-12-06
+Sonbhadra,Uttar Pradesh,95.9,87.41,2021-12-06
+Sultanpur,Uttar Pradesh,96.68,88.18,2021-12-06
+Unnao,Uttar Pradesh,95.4,86.92,2021-12-06
+Varanasi,Uttar Pradesh,96.12,87.63,2021-12-06
+Agra,Uttar Pradesh,95.19,86.69,2021-12-22
+Aligarh,Uttar Pradesh,95.52,87.0,2021-12-22
+Allahabad,Uttar Pradesh,95.35,86.89,2021-12-22
+Ambedkarnagar,Uttar Pradesh,97.13,88.62,2021-12-22
+Amethi/csm Nagar,Uttar Pradesh,95.77,87.29,2021-12-22
+Amroha,Uttar Pradesh,95.66,87.17,2021-12-22
+Auraiya,Uttar Pradesh,95.68,87.19,2021-12-22
+Azamgarh,Uttar Pradesh,96.46,87.95,2021-12-22
+Baghpat,Uttar Pradesh,95.1,86.62,2021-12-22
+Bahraich,Uttar Pradesh,96.79,88.3,2021-12-22
+Ballia,Uttar Pradesh,95.92,87.43,2021-12-22
+Balrampur,Uttar Pradesh,95.44,86.98,2021-12-22
+Banda,Uttar Pradesh,96.05,87.56,2021-12-22
+Barabanki,Uttar Pradesh,95.53,87.05,2021-12-22
+Bareilly,Uttar Pradesh,95.73,87.24,2021-12-22
+Basti,Uttar Pradesh,96.08,87.58,2021-12-22
+Bijnor,Uttar Pradesh,95.19,86.71,2021-12-22
+Budaun,Uttar Pradesh,95.19,86.71,2021-12-22
+Bulandshahr,Uttar Pradesh,95.74,87.21,2021-12-22
+Chandauli,Uttar Pradesh,95.12,86.66,2021-12-22
+Chitrakut,Uttar Pradesh,96.17,87.69,2021-12-22
+Deoria,Uttar Pradesh,95.23,86.76,2021-12-22
+Etah,Uttar Pradesh,95.46,86.95,2021-12-22
+Etawah,Uttar Pradesh,95.55,87.04,2021-12-22
+Faizabad,Uttar Pradesh,95.69,87.23,2021-12-22
+Farrukkhabad,Uttar Pradesh,95.97,87.46,2021-12-22
+Fatehpur,Uttar Pradesh,95.8,87.3,2021-12-22
+Firozabad,Uttar Pradesh,95.24,86.74,2021-12-22
+Gautam Budh Nagar,Uttar Pradesh,95.64,87.14,2021-12-22
+Ghaziabad,Uttar Pradesh,95.29,86.8,2021-12-22
+Ghazipur,Uttar Pradesh,96.43,87.94,2021-12-22
+Gonda,Uttar Pradesh,95.35,86.89,2021-12-22
+Gorakhpur,Uttar Pradesh,95.5,87.02,2021-12-22
+Hamirpur,Uttar Pradesh,96.29,87.78,2021-12-22
+Hapur,Uttar Pradesh,95.17,86.68,2021-12-22
+Hardoi,Uttar Pradesh,95.58,87.1,2021-12-22
+Hathras,Uttar Pradesh,95.03,86.53,2021-12-22
+Jalaun,Uttar Pradesh,95.84,87.34,2021-12-22
+Jaunpur,Uttar Pradesh,96.01,87.52,2021-12-22
+Jhansi,Uttar Pradesh,95.42,86.92,2021-12-22
+Kannuaj,Uttar Pradesh,96.14,87.64,2021-12-22
+Kanpur Rural,Uttar Pradesh,95.37,86.88,2021-12-22
+Kanpur Urban,Uttar Pradesh,95.18,86.7,2021-12-22
+Kashi Ram Nagar,Uttar Pradesh,95.64,87.13,2021-12-22
+Kaushambi,Uttar Pradesh,95.46,86.99,2021-12-22
+Kushinagar,Uttar Pradesh,95.44,86.96,2021-12-22
+Lakhimpur,Uttar Pradesh,96.06,87.57,2021-12-22
+Lalitpur,Uttar Pradesh,95.98,87.47,2021-12-22
+Lucknow,Uttar Pradesh,95.28,86.8,2021-12-22
+Maharajganj,Uttar Pradesh,95.38,86.9,2021-12-22
+Mahoba,Uttar Pradesh,96.38,87.86,2021-12-22
+Mainpuri,Uttar Pradesh,95.59,87.09,2021-12-22
+Mathura,Uttar Pradesh,94.88,86.37,2021-12-22
+Maunathbhanjan,Uttar Pradesh,95.76,87.27,2021-12-22
+Meerut,Uttar Pradesh,95.01,86.53,2021-12-22
+Mirzapur,Uttar Pradesh,96.41,87.92,2021-12-22
+Moradabad,Uttar Pradesh,95.53,87.04,2021-12-22
+Muzaffarnagar,Uttar Pradesh,95.46,86.97,2021-12-22
+Pilibhit,Uttar Pradesh,95.77,87.28,2021-12-22
+Pratapgarh,Uttar Pradesh,96.14,87.66,2021-12-22
+Rae Bareli,Uttar Pradesh,95.59,87.12,2021-12-22
+Rampur,Uttar Pradesh,95.48,87.0,2021-12-22
+Saharanpur,Uttar Pradesh,95.72,87.23,2021-12-22
+Sambhal,Uttar Pradesh,95.53,87.04,2021-12-22
+Sant Kabir Nagar,Uttar Pradesh,95.61,87.12,2021-12-22
+Sant Ravi Nagar,Uttar Pradesh,95.9,87.42,2021-12-22
+Shahjahanpur,Uttar Pradesh,95.65,87.17,2021-12-22
+Shamli,Uttar Pradesh,95.51,87.02,2021-12-22
+Shravasti,Uttar Pradesh,95.69,87.22,2021-12-22
+Sidharthnagar,Uttar Pradesh,96.04,87.54,2021-12-22
+Sitapur,Uttar Pradesh,95.67,87.19,2021-12-22
+Sonbhadra,Uttar Pradesh,96.77,88.26,2021-12-22
+Sultanpur,Uttar Pradesh,97.45,88.93,2021-12-22
+Unnao,Uttar Pradesh,95.62,87.14,2021-12-22
+Varanasi,Uttar Pradesh,95.66,87.19,2021-12-22
+Agra,Uttar Pradesh,95.43,0.0,2021-12-29
+Aligarh,Uttar Pradesh,95.42,0.0,2021-12-29
+Allahabad,Uttar Pradesh,95.21,0.0,2021-12-29
+Ambedkarnagar,Uttar Pradesh,97.13,0.0,2021-12-29
+Amethi/csm Nagar,Uttar Pradesh,96.36,0.0,2021-12-29
+Amroha,Uttar Pradesh,95.75,0.0,2021-12-29
+Auraiya,Uttar Pradesh,95.81,0.0,2021-12-29
+Azamgarh,Uttar Pradesh,96.62,0.0,2021-12-29
+Baghpat,Uttar Pradesh,95.44,0.0,2021-12-29
+Bahraich,Uttar Pradesh,96.79,0.0,2021-12-29
+Ballia,Uttar Pradesh,96.39,0.0,2021-12-29
+Balrampur,Uttar Pradesh,95.44,0.0,2021-12-29
+Banda,Uttar Pradesh,96.48,0.0,2021-12-29
+Barabanki,Uttar Pradesh,95.46,0.0,2021-12-29
+Bareilly,Uttar Pradesh,95.6,0.0,2021-12-29
+Basti,Uttar Pradesh,95.95,0.0,2021-12-29
+Bijnor,Uttar Pradesh,95.03,0.0,2021-12-29
+Budaun,Uttar Pradesh,95.19,0.0,2021-12-29
+Bulandshahr,Uttar Pradesh,95.88,0.0,2021-12-29
+Chandauli,Uttar Pradesh,95.12,0.0,2021-12-29
+Chitrakut,Uttar Pradesh,96.13,0.0,2021-12-29
+Deoria,Uttar Pradesh,95.03,0.0,2021-12-29
+Etah,Uttar Pradesh,95.47,0.0,2021-12-29
+Etawah,Uttar Pradesh,95.62,0.0,2021-12-29
+Faizabad,Uttar Pradesh,96.07,0.0,2021-12-29
+Farrukkhabad,Uttar Pradesh,95.97,0.0,2021-12-29
+Fatehpur,Uttar Pradesh,95.96,0.0,2021-12-29
+Firozabad,Uttar Pradesh,94.88,0.0,2021-12-29
+Gautam Budh Nagar,Uttar Pradesh,95.64,0.0,2021-12-29
+Ghaziabad,Uttar Pradesh,95.29,0.0,2021-12-29
+Ghazipur,Uttar Pradesh,96.19,0.0,2021-12-29
+Gonda,Uttar Pradesh,95.19,0.0,2021-12-29
+Gorakhpur,Uttar Pradesh,95.18,0.0,2021-12-29
+Hamirpur,Uttar Pradesh,96.29,0.0,2021-12-29
+Hapur,Uttar Pradesh,95.33,0.0,2021-12-29
+Hardoi,Uttar Pradesh,95.8,0.0,2021-12-29
+Hathras,Uttar Pradesh,95.46,0.0,2021-12-29
+Jalaun,Uttar Pradesh,96.44,0.0,2021-12-29
+Jaunpur,Uttar Pradesh,96.01,0.0,2021-12-29
+Jhansi,Uttar Pradesh,95.42,0.0,2021-12-29
+Kannuaj,Uttar Pradesh,95.67,0.0,2021-12-29
+Kanpur Rural,Uttar Pradesh,95.42,0.0,2021-12-29
+Kanpur Urban,Uttar Pradesh,94.97,0.0,2021-12-29
+Kashi Ram Nagar,Uttar Pradesh,95.58,0.0,2021-12-29
+Kaushambi,Uttar Pradesh,95.41,0.0,2021-12-29
+Kushinagar,Uttar Pradesh,95.66,0.0,2021-12-29
+Lakhimpur,Uttar Pradesh,95.99,0.0,2021-12-29
+Lalitpur,Uttar Pradesh,95.87,0.0,2021-12-29
+Lucknow,Uttar Pradesh,95.33,0.0,2021-12-29
+Maharajganj,Uttar Pradesh,96.2,0.0,2021-12-29
+Mahoba,Uttar Pradesh,96.62,0.0,2021-12-29
+Mainpuri,Uttar Pradesh,95.59,0.0,2021-12-29
+Mathura,Uttar Pradesh,94.84,0.0,2021-12-29
+Maunathbhanjan,Uttar Pradesh,95.76,0.0,2021-12-29
+Meerut,Uttar Pradesh,95.01,0.0,2021-12-29
+Mirzapur,Uttar Pradesh,95.49,0.0,2021-12-29
+Moradabad,Uttar Pradesh,95.49,0.0,2021-12-29
+Muzaffarnagar,Uttar Pradesh,95.46,0.0,2021-12-29
+Pilibhit,Uttar Pradesh,95.77,0.0,2021-12-29
+Pratapgarh,Uttar Pradesh,96.2,0.0,2021-12-29
+Rae Bareli,Uttar Pradesh,95.8,0.0,2021-12-29
+Rampur,Uttar Pradesh,95.48,0.0,2021-12-29
+Saharanpur,Uttar Pradesh,95.72,0.0,2021-12-29
+Sambhal,Uttar Pradesh,95.88,0.0,2021-12-29
+Sant Kabir Nagar,Uttar Pradesh,95.61,0.0,2021-12-29
+Sant Ravi Nagar,Uttar Pradesh,95.9,0.0,2021-12-29
+Shahjahanpur,Uttar Pradesh,95.1,0.0,2021-12-29
+Shamli,Uttar Pradesh,95.51,0.0,2021-12-29
+Shravasti,Uttar Pradesh,95.77,0.0,2021-12-29
+Sidharthnagar,Uttar Pradesh,96.43,0.0,2021-12-29
+Sitapur,Uttar Pradesh,95.9,0.0,2021-12-29
+Sonbhadra,Uttar Pradesh,95.73,0.0,2021-12-29
+Sultanpur,Uttar Pradesh,96.68,0.0,2021-12-29
+Unnao,Uttar Pradesh,95.55,0.0,2021-12-29
+Varanasi,Uttar Pradesh,96.12,0.0,2021-12-29
