@@ -6,7 +6,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
-import java.io.*;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.List;
 
 @Service
@@ -14,14 +17,15 @@ public class WriterService {
     private final Logger logger = LoggerFactory.getLogger(WriterService.class);
 
     public String convertToCityCSV(CityFuelPrice cityFuelPrice) {
-        return cityFuelPrice.toString()+"\n";
+        return cityFuelPrice.toString() + "\n";
     }
+
     public String convertToStateCSV(StateFuelPrice stateFuelPrice) {
-        return stateFuelPrice.toString()+"\n";
+        return stateFuelPrice.toString() + "\n";
     }
 
     public void writingToCityCSV(List<CityFuelPrice> fuelList, String fileName) {
-        final String pathName = "src/main/resources/fuelprices-csv/"+fileName;
+        final String pathName = "src/main/resources/fuelprices-csv/" + fileName;
 
         try (FileWriter fw = new FileWriter(pathName, true);
              BufferedWriter bw = new BufferedWriter(fw);
@@ -30,9 +34,7 @@ public class WriterService {
                     .map(this::convertToCityCSV)
                     .forEach(pw::append);
             pw.flush();
-            logger.info("Successfully written in "+fileName+" !");
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            logger.info("Successfully written in {}", fileName);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -40,18 +42,16 @@ public class WriterService {
     }
 
     public void writingToStateCSV(List<StateFuelPrice> fuelList, String fileName) {
-        final String pathName = "src/main/resources/fuelprices-csv/"+fileName;
+        final String pathName = "src/main/resources/fuelprices-csv/" + fileName;
 
         try (FileWriter fw = new FileWriter(pathName, true);
-            BufferedWriter bw = new BufferedWriter(fw);
-            PrintWriter pw = new PrintWriter(bw)) {
+             BufferedWriter bw = new BufferedWriter(fw);
+             PrintWriter pw = new PrintWriter(bw)) {
             fuelList.stream()
                     .map(this::convertToStateCSV)
                     .forEach(pw::append);
             pw.flush();
-            logger.info("Successfully written in "+fileName+" !");
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            logger.info("Successfully written in {}", fileName);
         } catch (IOException e) {
             e.printStackTrace();
         }

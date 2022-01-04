@@ -13,18 +13,17 @@ public class BasicConfig {
 
     @Bean
     @Primary
-    public Properties getProperties(){
+    public Properties getProperties() {
         Properties properties = new Properties();
         InputStream inputStream = null;
-        try{
+        try {
             inputStream = this.getClass().getClassLoader()
                     .getResourceAsStream("application.properties");
             properties.load(inputStream);
         } catch (IOException e) {
             e.printStackTrace();
-        }
-        finally {
-            if(inputStream!=null){
+        } finally {
+            if (inputStream != null) {
                 try {
                     inputStream.close();
                 } catch (IOException e) {

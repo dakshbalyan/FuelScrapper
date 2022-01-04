@@ -9,44 +9,44 @@ public class CityFuelPrice {
     private double dieselRate;
     private LocalDate currDate;
 
-    public void setCityName(String cityName) {
-        this.cityName = cityName;
-    }
-
-    public void setStateName(String stateName) {
-        this.stateName = stateName;
-    }
-
-    public void setPetrolRate(double petrolRate) {
-        this.petrolRate = petrolRate;
-    }
-
-    public void setDieselRate(double dieselRate) {
-        this.dieselRate = dieselRate;
-    }
-
-    public void setCurrDate(LocalDate currDate) {
-        this.currDate = currDate;
-    }
-
     public String getCityName() {
         return cityName;
+    }
+
+    public void setCityName(String cityName) {
+        this.cityName = cityName;
     }
 
     public String getStateName() {
         return stateName;
     }
 
+    public void setStateName(String stateName) {
+        this.stateName = stateName;
+    }
+
     public double getPetrolRate() {
         return petrolRate;
+    }
+
+    public void setPetrolRate(double petrolRate) {
+        this.petrolRate = petrolRate;
     }
 
     public double getDieselRate() {
         return dieselRate;
     }
 
+    public void setDieselRate(double dieselRate) {
+        this.dieselRate = dieselRate;
+    }
+
     public LocalDate getCurrDate() {
         return currDate;
+    }
+
+    public void setCurrDate(LocalDate currDate) {
+        this.currDate = currDate;
     }
 
     @Override

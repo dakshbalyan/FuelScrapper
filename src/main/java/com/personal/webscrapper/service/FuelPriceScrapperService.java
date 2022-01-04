@@ -1,7 +1,7 @@
 package com.personal.webscrapper.service;
 
 /*
-Websites scrapping from -> https://www.ndtv.com/fuel-prices/petrol-price-in-uttar-pradesh-state
+Websites scrapping from -> https://www.ndtv.com/fuel-prices/
  */
 
 import com.personal.webscrapper.constants.Constant;
@@ -27,34 +27,31 @@ public class FuelPriceScrapperService {
 
     @Autowired
     Properties properties;
+
     @PostConstruct
     public void getStateList() throws IOException {
-//        String pURL = "https://www.ndtv.com/fuel-prices/petrol-price-in-karnataka-state";
-//        String dURL = "https://www.ndtv.com/fuel-prices/diesel-price-in-karnataka-state";
-//        List<CityFuelPrice> list = fetcherService.getCityFuelPrice(pURL,dURL,"Karnataka");
-//        String stateFileName = "KarnatakaFuelPrice.csv";
-//        writer.writingToCityCSV(list,stateFileName);
 
         String pURL = properties.getProperty(Constant.PETROL_PRICE_URL_KEY);
         String dURL = properties.getProperty(Constant.DIESEL_PRICE_URL_KEY);
-        List<StateFuelPrice> list = fetcherService.getStateFuelPrice(pURL,dURL);
+        List<StateFuelPrice> list = fetcherService.getStateFuelPrice(pURL, dURL);
 
         writer.writingToStateCSV(list,Constant.STATE_FILE_NAME);
         getCityFuelPrice(list);
     }
 
-    public void getCityFuelPrice(List<StateFuelPrice> list){
+    public void getCityFuelPrice(List<StateFuelPrice> list) {
 
-        for(int i = 0 ; i < list.size() ; i++){
-            String pURL = list.get(i).getStatePetrolURL();
-            String dURL = list.get(i).getStateDieselURL();
-            String stateName = list.get(i).getStateName();
-            if(stateName.equals("Delhi"))
+        for (StateFuelPrice stateFuelPrice : list) {
+            String pURL = stateFuelPrice.getStatePetrolURL();
+            String dURL = stateFuelPrice.getStateDieselURL();
+            String stateName = stateFuelPrice.getStateName();
+            if (stateName.equals("Delhi"))
                 continue;
 
-            String fileName = stateName.replaceAll("\\s","")+"FuelPrice.csv";
-            List<CityFuelPrice> cityList = fetcherService.getCityFuelPrice(pURL,dURL,stateName);
-
+            String fileName = stateName.replaceAll("\\s", "") + "FuelPrice.csv";
+            List<CityFuelPrice> cityList = fetcherService.getCityFuelPrice(pURL, dURL, stateName);
+            if (cityList.isEmpty())
+                cityList = fetcherService.getCityFuelPrice(pURL, dURL, stateName);
             writer.writingToCityCSV(cityList, fileName);
         }
     }
